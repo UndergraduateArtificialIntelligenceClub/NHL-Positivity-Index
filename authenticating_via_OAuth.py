@@ -6,8 +6,20 @@ load_dotenv()
 
 CLIENT_ID = os.environ["CLIENT_ID"]
 SECRET_KEY = os.environ["SECRET_KEY"]
-username = os.environ["username"]
-password = os.environ["password"]
+username = os.environ["reddit_username"]
+password = os.environ["reddit_password"]
+
+print(CLIENT_ID)
+
+reddit = praw.Reddit(
+    client_id = CLIENT_ID, 
+    client_secret = SECRET_KEY, 
+    password = password,
+    user_agent = "UAIS", 
+    username = username
+)
+
+print(reddit.user.me())
 
 
 
