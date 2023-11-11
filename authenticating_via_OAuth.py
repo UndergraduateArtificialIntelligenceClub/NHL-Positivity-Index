@@ -19,7 +19,10 @@ reddit = praw.Reddit(
     username = username
 )
 
-print(reddit.user.me())
+url = "https://www.reddit.com/r/EdmontonOilers/comments/17s7bp3/the_morning_after_oilers_v_sharks/"
+submission = reddit.submission(url=url)
 
+for top_level_comment in submission.comments: 
+    print(top_level_comment.body)
 
 
