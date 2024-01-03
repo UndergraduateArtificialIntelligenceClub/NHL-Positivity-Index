@@ -23,3 +23,4 @@ df = flairExtractor.search_submission(df = df, reddit = reddit, submissions= sub
 print(df.head())
 print(df.describe())
 print(df.info())
+df.to_csv("comment_extractor\small_limit.csv")
