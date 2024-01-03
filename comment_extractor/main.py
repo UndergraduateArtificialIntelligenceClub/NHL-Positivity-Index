@@ -20,7 +20,5 @@ submissions = flairExtractor.get_all_submissions(reddit = reddit,team_flairs = t
 df = pd.DataFrame(columns=["body","score"])
 df = flairExtractor.search_submission(df = df, reddit = reddit, submissions= submissions)
 
-print(df.head())
-print(df.describe())
-print(df.info())
-df.to_csv("comment_extractor\small_limit.csv")
+
+df.to_json("comment_extractor\small_limit.csv")
