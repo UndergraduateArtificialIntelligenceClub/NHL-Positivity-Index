@@ -24,7 +24,6 @@ class flair_extractor:
         
         for flair in flairs:
             query = flair + ": "
-
             for submission in reddit.subreddit(subreddit).search(query = query,time_filter = "month", limit = None):
                 submissions.append(submission)
         
@@ -52,46 +51,57 @@ class flair_extractor:
             all_submissions.extend(submissions)
 
         return all_submissions
-    
-
-    def search_submission(self,df: pd.DataFrame, reddit: praw.reddit,submissions: list):
+        
+        
+        
+    def extract_flair_comments(self, reddit:praw.reddit,start_date: datetime, end_date: datetime):
         """
-        Searches through the submission, and adds the necissary information to a dataframe and returns it. 
-
+        Retrieves all the flaired comments from within the timeframe, and adds them to a list. 
+        
         Args:
-            df (pd.DataFrame):      The dataframe we are extending
-            reddit (praw.reddit):   The reddit api connected to our reddit account
-            submissions (list):     A list of all the submissions we need to get comments from
+            reddit (praw.reddit): The reddit api connected to our reddit account
+            start_date (datetime): The start date of collection
+            end_date (datetime): The end date of collection
 
         Returns:
-            pd.DataFrame:           A dataframe with all the comments, and their information from the last month. 
+            list[dict]: A list of dictionaries of all necissary data. 
         """
         
+        teams_and_flairs = {
+            "canes" : ["GDT"],
+            "NewYorkIslanders": ["GDT", "PGT"],
+            "Flyers": ["Pre-Game Thread", "Post Game Thread", "Game Thread"],
+            "penguins": ["GDT", "PGT"],
+            "ColoradoAvalanche": ["Pre-Game Thread", "Next Day Thread", "PGT", "GDT"],
+            "BostonBruins": ["Post-Game Thread", "GDT: Away"],
+            "EdmontonOilers": ["GDT", "TMA", "PGT"],
+            "leafs": ["Game Day Thread"]
+        }
+        all_flaired_comments = []
+        submissions = self.get_all_submissions(reddit= reddit,team_flairs= teams_and_flairs)
         
         for submission in submissions:
+            
+            subreddit_name = reddit.Subreddit(submission)
             submission_date = datetime.utcfromtimestamp(submission.created_utc).date()
             
-            # Gets all the comments and adds them to a df. 
-            submission.comments.replace_more(limit = 3)
-            comments = submission.comments.list()
             
-            # Appends each comment to the dataframe
-            for comment in comments:
-                if isinstance(comment, MoreComments):
-                    continue
-                
-                comment_info = pd.DataFrame([{
-                        'submission_id': submission.id,  # id of post
-                        'comment_id': comment.id,  # id of comment
-                        'body': comment.body,  # comment text
-                        'score': comment.score,  # number of upvotes
-                        'date': submission_date.strftime('%Y-%m-%d'),  # date comment was posted on 
-                        'subreddit': str(comment.subreddit)  # subreddit comment was posted in 
-                    }])
-                
-                df = pd.concat([df,comment_info])
-        return df
-        
-
-
+            if start_date <= submission_date <= end_date:
+                for comment in submission.comments.list():
+                    
+                    if isinstance(comment, MoreComments):
+                        continue
+                    
+                    comment_info = {
+                        'submission_id': submission.id,
+                        'comment_id': comment.id,
+                        'body': comment.body,
+                        'score': comment.score,
+                        'date': submission_date.strftime("%Y-%m-%d"),
+                        'subreddit': subreddit_name
+                    }
+                    
+                    all_flaired_comments.append(comment_info)
+                    
+        return all_flaired_comments
 

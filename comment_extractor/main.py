@@ -17,12 +17,6 @@ reddit = reddit_login.reddit_initializor().get_reddit()
 flairExtractor = flair.flair_extractor()
 
 # Gets all the submissions which we need to get comments from
-submissions = flairExtractor.get_all_submissions(reddit = reddit,team_flairs = teams_and_flairs)
+submissions = flairExtractor.extract_flair_comments(reddit= reddit, start_date=)
 
 # Gets the comments from each submission
-df = pd.DataFrame(columns=['submission_id','comment_id','body','score','date','subreddit'])
-df = flairExtractor.search_submission(df = df, reddit = reddit, submissions= submissions)
-
-# Saves it to a JSON file
-df.reset_index(drop=True, inplace=True)
-df.to_json(r"comment_extractor\flair_data.JSON")
