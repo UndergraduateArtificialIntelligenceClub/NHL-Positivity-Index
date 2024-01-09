@@ -1,5 +1,5 @@
 import praw
-import datetime
+from datetime import datetime
 from praw.models import MoreComments
 
 def extract_HockeyMod_comments(reddit, start_date: datetime, end_date: datetime) -> list[dict]:
@@ -69,7 +69,7 @@ def extract_user_comments(reddit, start_date:datetime, end_date:datetime, teams_
     return results
 
 
-def search_flair(self,reddit: praw.reddit, subreddit: str, flairs: list) -> (list):
+def search_flair(reddit: praw.reddit, subreddit: str, flairs: list) -> (list):
     """
     A method which searches through the given subbreddit under each of the given
     flairs, and returns the submissions from that flair within the last month. 
@@ -94,7 +94,7 @@ def search_flair(self,reddit: praw.reddit, subreddit: str, flairs: list) -> (lis
     
     
     
-def get_all_flaired_submissions(self,reddit: praw.reddit,team_flairs: dict):
+def get_all_flaired_submissions(reddit: praw.reddit,team_flairs: dict):
     """
     Searches through all the team's different flairs, and returns all the submission from them. 
 
@@ -109,14 +109,14 @@ def get_all_flaired_submissions(self,reddit: praw.reddit,team_flairs: dict):
 
     # Searches through the flairs of each subreddit, and adds all the posts from the last month
     for team_subreddit in team_flairs:            
-        submissions = self.search_flair(reddit = reddit, subreddit = team_subreddit, flairs= team_flairs[team_subreddit])
+        submissions = search_flair(reddit = reddit, subreddit = team_subreddit, flairs= team_flairs[team_subreddit])
         all_submissions.extend(submissions)
 
     return all_submissions
 
 
 
-def extract_flair_comments(self, reddit:praw.reddit,start_date: datetime, end_date: datetime):
+def extract_flair_comments(reddit:praw.reddit,start_date: datetime, end_date: datetime):
     """
     Retrieves all the flaired comments from within the timeframe, and adds them to a list. 
 
@@ -140,7 +140,7 @@ def extract_flair_comments(self, reddit:praw.reddit,start_date: datetime, end_da
         "leafs": ["Game Day Thread"]
     }
     all_flaired_comments = []
-    submissions = self.get_all_submissions(reddit= reddit,team_flairs= teams_and_flairs)
+    submissions = get_all_flaired_submissions(reddit= reddit,team_flairs= teams_and_flairs)
 
     # Gets all the info from comments for each submission, and adds that data to a list. 
     for submission in submissions:
