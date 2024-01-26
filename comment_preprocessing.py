@@ -23,21 +23,10 @@ def process_comments(json_file_path):
     with open(json_file_path, 'r', encoding = 'utf-8') as file:
         data = json.load(file)
         for comment in data:
-            
-            if comment['body'] == '' or comment['body'] == '[removed]' or comment['body'] == '[deleted]':
-                continue
             cleaned_comment = clean_comment(comment['body'])
+            if cleaned_comment == '' or cleaned_comment == '[removed]' or cleaned_comment == '[deleted]':
+                continue
             cleaned_comments.append(cleaned_comment)
             
     return cleaned_comments
 
-def main():
-    
-    json_file_path = 'december_2023_comments.json'
-    cleaned_comments = process_comments(json_file_path)
-    
-    with open('clean_december_2023_comments_body.json', 'w', encoding='utf-8') as file:
-        json.dump(cleaned_comments, file, ensure_ascii=False, indent = 4)
-if __name__ == "__main__":
-    main()
-    
