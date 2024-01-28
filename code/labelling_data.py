@@ -104,5 +104,39 @@ def write_labelled_comments_to_json_file(json_file_path: str, labelled_comments:
     with open(json_file_path, 'w', encoding='utf-8') as file:
         json.dump(labelled_comments, file, ensure_ascii=False, indent = 4)
 
-    
+def find_comment_index(dictionaries, target_comment):
+    for index, dictionary in enumerate(dictionaries):
+        if dictionary['comment'] == target_comment:
+            return index
+    return None
 
+def evaluate_disagreement(labelled_comments: [dict(str)], disagreements: [dict(str)]) -> [dict(str)]:
+    """Given a dataset of labelled comments and a list of disagreements between the manually labelled sentiment label 
+    and the model sentiment label, prompts the user if they want to change their sentiment label to the model label 
+    
+    Args:
+        labelled_comments [dict(str)]: A dataset of comments with a manually labelled sentiment label (POS, NEU, NEG)
+        disagreements [dict(str)]: A dataset of dictionaries containing the comment the manual sentiment label and the model sentiment label 
+        
+    Returns: The updated list of labelled comments
+    """
+    valid_user_inputs = ["y", "n"]
+    for disagreement in disagreements:
+        os.system('cls||clear')
+        print(disagreement['comment'])
+        print(f"Our label: {disagreement['our_label']}")
+        print(f"Model label: {disagreement['model_label']}")
+        
+        user_input = input("Would you like to change your label to the model's label? Yes (y) or No (n) ")
+        while user_input not in valid_user_inputs:
+            print("Please enter a valid input!")
+            user_input = input("Would you like to change your label to the model's label? Yes (y) or No (n) ")
+        
+        if user_input == 'y':
+            i = find_comment_index(labelled_comments, disagreement['comment'])
+            labelled_comments[i]['label'] = disagreement['model_label']
+        
+        else: 
+            continue
+    return labelled_comments
+            
