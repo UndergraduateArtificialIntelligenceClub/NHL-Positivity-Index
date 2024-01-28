@@ -9,7 +9,7 @@
     },
     {
         "comment": "I listen to many games on the radio, and often hear BB comment on the penalties not called on the opposing team.  This is nothing new.",
-        "label": "NEG"
+        "label": "NEU"
     },
     {
         "comment": "By split up do you mean fire them into the sun? If so then yes I agree",
@@ -22,10 +22,6 @@
     {
         "comment": "The longer we keep DJ, the more losing culture grows. By not letting DJ, it's just telling the players it's ok to lose. They don't have to worry about the consequences of their terrible play.",
         "label": "NEG"
-    },
-    {
-        "comment": "...what's with all the deleted posts lately?",
-        "label": "NEU"
     },
     {
         "comment": "I think I've been to one win this season so… we're probs gonna lose sorry y'all",
@@ -45,7 +41,7 @@
     },
     {
         "comment": "Such a close game. Can't get mad about the effort. FTK",
-        "label": "NEU"
+        "label": "POS"
     },
     {
         "comment": "JONES STANDING TALL!",
@@ -60,16 +56,12 @@
         "label": "NEG"
     },
     {
-        "comment": "SJ is 0-10 on the road....come on, man.",
-        "label": "NEG"
-    },
-    {
         "comment": "I think he's just saying that. I watched the replay and didn't see Petey hit it.",
         "label": "NEU"
     },
     {
         "comment": "Why'd they blow the whistle!?",
-        "label": "NEU"
+        "label": "NEG"
     },
     {
         "comment": "Greig is a konecny 2.0, cant wait till he gets older and stronger",
@@ -77,14 +69,10 @@
     },
     {
         "comment": "Ok can someone edit all the time slaf passed it to a player and they just flubed it. Then we can show it anyone that wants to show slaf's stat line as an indication of his skill",
-        "label": "NEG"
-    },
-    {
-        "comment": "Gimme a fight at least.",
         "label": "NEU"
     },
     {
-        "comment": "Wtf",
+        "comment": "Gimme a fight at least.",
         "label": "NEG"
     },
     {
@@ -184,19 +172,11 @@
         "label": "NEU"
     },
     {
-        "comment": "How the fuck LMAO",
-        "label": "NEG"
-    },
-    {
         "comment": "2 minutes for having legs",
         "label": "NEG"
     },
     {
         "comment": "When do we start the Fire Staios chants.Let Andlauer know that his golden boy isn't safe from criticism",
-        "label": "NEG"
-    },
-    {
-        "comment": "Of course they score a goal off of a soft power play. Please Stars dont let that be the game winner",
         "label": "NEG"
     },
     {
@@ -241,7 +221,7 @@
     },
     {
         "comment": "I remember now what these ridiculous King helmets remind me of!Capitaine Cosmos from les Satellipopettes!",
-        "label": "NEU"
+        "label": "NEG"
     },
     {
         "comment": "They did my guy dirty with the crocket jokes☠️",
@@ -265,7 +245,7 @@
     },
     {
         "comment": "Canucks shoot twice Lower corners Sec 114 row 6 I'm selling my seats mostly for cost each game.",
-        "label": "POS"
+        "label": "NEU"
     },
     {
         "comment": "Zib's deferring to passing is out of control",
@@ -316,10 +296,6 @@
         "label": "NEG"
     },
     {
-        "comment": "PTSD from last year hearing OEL's name called",
-        "label": "NEG"
-    },
-    {
         "comment": "The flames were busy cookin' too 😏",
         "label": "POS"
     },
@@ -349,7 +325,7 @@
     },
     {
         "comment": "That one lonely Jets hat",
-        "label": "NEU"
+        "label": "NEG"
     },
     {
         "comment": "He doesn't take stupid penalties. I feel like a lot of big guys take dumb penalties.",
@@ -401,7 +377,7 @@
     },
     {
         "comment": "🤣",
-        "label": "POS"
+        "label": "NEU"
     },
     {
         "comment": "I'm starting to think there is a script. That was not offsides. Pazzy is right to be mad",
@@ -409,7 +385,7 @@
     },
     {
         "comment": "Some team will absolutely look at \"6'8 RHD who kills penalties\" and fire the money cannon at him",
-        "label": "POS"
+        "label": "NEG"
     },
     {
         "comment": "Bungalow Jim(I will say this every game for good luck)",
@@ -450,10 +426,6 @@
     {
         "comment": "Is anyone else's ads on Knightime stuck on Spanish?",
         "label": "NEU"
-    },
-    {
-        "comment": "Detroit game is so much more entertaining than the hawks game  our lack of offense make it hard to watch sometimes",
-        "label": "NEG"
     },
     {
         "comment": "Why does DJ Smirh stay silent in moments like those? Why isn't he absolutely losing his shit about an early whistle that lead to a goal lol? It's like he's constantly scared back there.",
@@ -501,10 +473,6 @@
     },
     {
         "comment": "Rough end to a game for Calgary fans. I would be pissed to see that final 12 seconds but not much thats gonna happen there.",
-        "label": "NEG"
-    },
-    {
-        "comment": "fiala drives me fucking insane",
         "label": "NEG"
     },
     {
@@ -581,7 +549,7 @@
     },
     {
         "comment": "Just wait til your 30s",
-        "label": "NEG"
+        "label": "NEU"
     },
     {
         "comment": "That short St. Louis stint in NY was absolutely amazing",
@@ -598,10 +566,6 @@
     {
         "comment": "COMEBACK SZN",
         "label": "POS"
-    },
-    {
-        "comment": "Can we uh.. not take a 2manyman next period pls",
-        "label": "NEG"
     },
     {
         "comment": "That was a thing of beauty! The quick adjustment and perfect 2nd attempt.....",
@@ -684,10 +648,6 @@
         "label": "NEU"
     },
     {
-        "comment": "I swear laf would be 25+ points if backups werent robbing him and his teammates missing freebies",
-        "label": "NEG"
-    },
-    {
         "comment": "Girgensons died on the way back to his home planet.",
         "label": "NEG"
     },
@@ -701,7 +661,7 @@
     },
     {
         "comment": "Evans has better defensive stats than Dvorak",
-        "label": "NEU"
+        "label": "POS"
     },
     {
         "comment": "We finally have a solid roster and then igor forgets how to play goalie",
@@ -709,7 +669,7 @@
     },
     {
         "comment": "Oh my god start the game already",
-        "label": "NEG"
+        "label": "NEU"
     },
     {
         "comment": "Duclair made Schmid look like an idiot. Akira didn't even look like an ECHL goalie there. And then the back breaker where he LITERALLY KNOCKED THE PUCK AWAY FROM HIS OWN PLAYER TO A SHARK!!!We have the worst tandem in the league. But even the Oilers had the guts to send Campbell far away. Fitz is a fucking coward.",
@@ -717,7 +677,7 @@
     },
     {
         "comment": "Went out when it was 5-3 what the hell happened",
-        "label": "NEU"
+        "label": "NEG"
     },
     {
         "comment": "Fil has been pretty good at stealing the puck in the last couple of weeks",
@@ -741,7 +701,7 @@
     },
     {
         "comment": "duhaime is dewey 1, dewar is dewey 2!! :)",
-        "label": "NEU"
+        "label": "POS"
     },
     {
         "comment": "Quick was holding the god damned leg and Lindgren went down like a sack of potatoes. He has not been great at all, but that one was a clusterfuck of bullshit",
@@ -780,10 +740,6 @@
         "label": "NEU"
     },
     {
-        "comment": "Things feel worse this season than last almost across the board.It's hard to believe even if we lose this game we are on the same pace as this time last year.",
-        "label": "NEG"
-    },
-    {
         "comment": "Dissociative Identity Disorder?",
         "label": "NEU"
     },
@@ -814,10 +770,6 @@
     {
         "comment": "This team is good folks",
         "label": "POS"
-    },
-    {
-        "comment": "Damn finally tie it up and let in that garbage",
-        "label": "NEG"
     },
     {
         "comment": "Corey Perry needs to know… for research purposes",
@@ -860,10 +812,6 @@
         "label": "NEG"
     },
     {
-        "comment": "Huberdeau almost plays like he's trying to not be noticed out there",
-        "label": "NEG"
-    },
-    {
         "comment": "Gudbranson chose violence",
         "label": "NEG"
     },
@@ -901,7 +849,7 @@
     },
     {
         "comment": "holy shit, the flex on that stickis he using a 55 flex? lmao",
-        "label": "POS"
+        "label": "NEU"
     },
     {
         "comment": "Anyone else hear Lindgren say \"Fuck LA\" when he congratulated Quick on the win?",
@@ -917,19 +865,15 @@
     },
     {
         "comment": "We've got a lot to improve on from that game, but two points is two points.",
-        "label": "POS"
+        "label": "NEU"
     },
     {
         "comment": "NOTE TO THOSE WHO DON'T WATCH HOCKEY GAMES THAT ARE NOT THIS TEAM: The Senators are a team that should be better than their record says they should be.",
-        "label": "NEU"
-    },
-    {
-        "comment": "Isn't he playing with a different stick? He seems to not be able to keep passes on his stick rn. I wonder at a certain point if he goes back to ol reliable.",
-        "label": "NEG"
+        "label": "POS"
     },
     {
         "comment": "I am tired of not being able to use the Juuse Saros commercial",
-        "label": "NEU"
+        "label": "NEG"
     },
     {
         "comment": "Oh great, now we get a Power Play!",
@@ -960,16 +904,12 @@
         "label": "POS"
     },
     {
-        "comment": "Expectation: close game, but we get the winReality: another major injury, and we get destroyed",
-        "label": "NEG"
-    },
-    {
         "comment": "That was a weak callEdit: Never mind, it was his foot that tripped him",
         "label": "NEU"
     },
     {
         "comment": "Piss your pants to establish territory",
-        "label": "NEG"
+        "label": "NEU"
     },
     {
         "comment": "1. That needs to be cleared.2. That rebound was atrocious.",
@@ -996,10 +936,6 @@
         "label": "POS"
     },
     {
-        "comment": "I am ready to be hurt again",
-        "label": "NEG"
-    },
-    {
         "comment": "Nemec was just trying to help Vitek get in an early groove with that turnover",
         "label": "NEG"
     },
@@ -1009,19 +945,15 @@
     },
     {
         "comment": "Love me some psychological warfare!",
-        "label": "NEG"
+        "label": "POS"
     },
     {
         "comment": "I'm sad that this .gif doesn't exist anymore. it will eventually be lost in time 😞",
-        "label": "NEU"
+        "label": "NEG"
     },
     {
         "comment": "I'm still giggling at \"The jersey you never wore\"",
         "label": "NEU"
-    },
-    {
-        "comment": "Maybe 1 too many shots taken but w/e. Everyone in the building who draws breath knew that was going to happen.",
-        "label": "NEG"
     },
     {
         "comment": "Jack Eichel is good at hockey",
@@ -1057,7 +989,7 @@
     },
     {
         "comment": "*cautiously optimistic",
-        "label": "NEU"
+        "label": "POS"
     },
     {
         "comment": "Thoughts and prayers, Woll. Please be all right. 😌",
@@ -1104,10 +1036,6 @@
         "label": "NEG"
     },
     {
-        "comment": "Rangers just love making shit teams look good",
-        "label": "NEG"
-    },
-    {
         "comment": "Is it actually hard for you to imagine being a fan of Korpi and the Jackets at the same time?Seriously, chill out. No one made you gatekeeper of CBJ fandom.",
         "label": "NEG"
     },
@@ -1133,7 +1061,7 @@
     },
     {
         "comment": "I'll probably see you at the game in Minny next weekend!",
-        "label": "NEU"
+        "label": "POS"
     },
     {
         "comment": "Jack forcing passes like it's 2019 lol",
@@ -1177,11 +1105,11 @@
     },
     {
         "comment": "I hope Korchinski and his family are okay, but man, I miss seeing him on the ice",
-        "label": "NEG"
+        "label": "POS"
     },
     {
         "comment": "He is going to get the old Doug Collins treatment.",
-        "label": "NEU"
+        "label": "NEG"
     },
     {
         "comment": "It's a team in transition. In leadership core, in style slightly, in roster churn. In the last 3-4 seasons, we've waved goodbye to Petro, Vova, Barby, Frenchy, ROR, J-Bo, Steener, Schwartzy, Dunn, etc. That's a lot of good hockey and calm leadership that needs to be replaced with good fits. That part is a work in progress.",
@@ -1213,11 +1141,11 @@
     },
     {
         "comment": "Also the boys looked tired out there tonight. Nico, jack and timo probably are on the mend still.  The down time between now and Tuesday hopefully does us some good.  The canucks are gonna be hard to be on the road and demko is legit a stud this season! (I love watching him play). And then the Seattle krakheads could go either way. I'll be there in my sweater though gang!",
-        "label": "NEG"
+        "label": "POS"
     },
     {
         "comment": "They're definitely pulling the trigger more often this game",
-        "label": "POS"
+        "label": "NEU"
     },
     {
         "comment": "“Now the blues find themselves in a pretty good spot” -Jamie rivers",
@@ -1256,10 +1184,6 @@
         "label": "NEU"
     },
     {
-        "comment": "When did he get shit on? As far as I could tell it flew under the radar and I even heard people defending him. The narrative on team 1200 was it's his \"passion\". It's too late to boo him now obviously but im saying he deserved it. It should have been a light booing and then we could move on. And im not going to get over being called out for spending my hard earned money on a dog shit team. If you're happy with a captain calling out fans that's fine with me but don't tell me how to fan.",
-        "label": "NEG"
-    },
-    {
         "comment": "Had some hope of them getting up to 500, but honestly its better if they continue to skid. It ain't happening.",
         "label": "NEG"
     },
@@ -1269,7 +1193,7 @@
     },
     {
         "comment": "Need a big 3rd from Fox and Bread. They've been off their game tonight.",
-        "label": "NEG"
+        "label": "NEU"
     },
     {
         "comment": "Here's the return power play gift call, gotta capitalize",
@@ -1293,7 +1217,7 @@
     },
     {
         "comment": "This game is wild damn",
-        "label": "NEU"
+        "label": "NEG"
     },
     {
         "comment": "Vosters being Vosters and Caley sounds like she's just dead on the inside….",
@@ -1309,7 +1233,7 @@
     },
     {
         "comment": "Eh as long as we're in his top five I really don't care.",
-        "label": "POS"
+        "label": "NEU"
     },
     {
         "comment": "I'm gonna pretend the 13 is Michael Cammalleri.",
@@ -1357,18 +1281,10 @@
     },
     {
         "comment": "Shouldn't have been a whistle",
-        "label": "NEU"
-    },
-    {
-        "comment": "He was getting hooked the whole time... That should be a penalty shot, based on the pesky rules.",
         "label": "NEG"
     },
     {
         "comment": "It's on the NHL Network today. Super infuriating.",
-        "label": "NEG"
-    },
-    {
-        "comment": "Nope. Making his mistake even worse.",
         "label": "NEG"
     },
     {
@@ -1401,7 +1317,7 @@
     },
     {
         "comment": "I'm not able to watch—why isn't DK playing? Sheps in instead?",
-        "label": "NEU"
+        "label": "NEG"
     },
     {
         "comment": "2nd period punch back",
@@ -1444,10 +1360,6 @@
         "label": "NEG"
     },
     {
-        "comment": "had to look it up, we actually had a 9 game losing streak in the inaugural season, glad we didn't tie that one",
-        "label": "NEG"
-    },
-    {
         "comment": "Meh.I'm just looking forward to the trades.",
         "label": "NEG"
     },
@@ -1478,10 +1390,6 @@
     {
         "comment": "lol. Wildcard Fever; catch it.",
         "label": "NEU"
-    },
-    {
-        "comment": "That's not irrational. For what he makes, expecting him to have a more consistent impact on games is fair. He has sucked this year",
-        "label": "NEG"
     },
     {
         "comment": "For real, if we trade monty I'll fucking eat my own face.",
@@ -1548,10 +1456,6 @@
         "label": "POS"
     },
     {
-        "comment": "Greig is such a pest lol",
-        "label": "NEG"
-    },
-    {
         "comment": "Thank you Robo",
         "label": "POS"
     },
@@ -1597,7 +1501,7 @@
     },
     {
         "comment": "Decline the penalty!",
-        "label": "NEG"
+        "label": "NEU"
     },
     {
         "comment": "Can't believe I bought season tickets. At least it was a half season package lmao",
@@ -1609,7 +1513,7 @@
     },
     {
         "comment": "Mrazek should have been in again. Put sodercan in Tuesday",
-        "label": "NEG"
+        "label": "NEU"
     },
     {
         "comment": "As much as I despise losing to the Bruins, that was a fun game. The boys played hard.",
@@ -1629,7 +1533,7 @@
     },
     {
         "comment": "Ummmm. Whoever is posting the trivia it is not 300th win. It's 3,000. We would have been bought, sold, and shipped out of the country if as a 97 year old franchise we only had 300 wins.",
-        "label": "NEU"
+        "label": "NEG"
     },
     {
         "comment": "It is gonna be way worse if they don't fire DJ, by the end of the season people are gonna be wanting out. Stability means nothing when you are at the bottom of the standings.",
@@ -1812,12 +1716,8 @@
         "label": "NEU"
     },
     {
-        "comment": "The NHL and ad breaks, holy shit...",
-        "label": "NEG"
-    },
-    {
         "comment": "What if when the blues \"play up\" to better teams it isn't the case but better teams just play down to the blues lol",
-        "label": "NEG"
+        "label": "NEU"
     },
     {
         "comment": "BATT MOLDY GADIES AND LENTLEMAN!!",
@@ -1861,7 +1761,7 @@
     },
     {
         "comment": "Yeah do it OP you won't",
-        "label": "NEU"
+        "label": "NEG"
     },
     {
         "comment": "I'd love to see the statistics, but we have to be one of the worst 6 on 5 teams in the league. Last season was the same story. Can't hit empty nets. Always give up a goal.",
@@ -1869,7 +1769,7 @@
     },
     {
         "comment": "I'm taking that grudge to the GRAVE",
-        "label": "NEU"
+        "label": "NEG"
     },
     {
         "comment": "Booing is part of the game so Idk what 'excuses' you're talking about big boy. ROR isn't owed anything, he's not some legend or a guy who built a ton of reps with this team. In the same vein, ROR owes this team and fanbase nothing as well. If people wanna boo him they're free to do so.",
@@ -1881,7 +1781,7 @@
     },
     {
         "comment": "> They beat playoff teams and get smoked by the bottom teams. I mean, isn't this tradition at this point? It's why they're sneaky good in the playoffs, because at that point it's all playoff teams. :-P",
-        "label": "NEU"
+        "label": "POS"
     },
     {
         "comment": "Just tuning in. See we're down 1 but have a PP goal and Z looks like a dissolved sponge out there",
@@ -1953,11 +1853,11 @@
     },
     {
         "comment": "Look how far Caufield is for the one timer. He's too far",
-        "label": "NEG"
+        "label": "NEU"
     },
     {
         "comment": "Aw, raspberries.",
-        "label": "NEU"
+        "label": "POS"
     },
     {
         "comment": "At the game, man do both teams look like they are on the second night of a back to back hahaha,LFGD!!!😈😈😈",
@@ -1989,7 +1889,7 @@
     },
     {
         "comment": "We never left. ;) Dave from Ladysmith on suicide watch?",
-        "label": "NEG"
+        "label": "NEU"
     },
     {
         "comment": "I know it's small sample, but I really want to see Perunovich/Parayko get an extended look at some point. They've been [extremely stingy]( in those minutes.",
@@ -2009,7 +1909,7 @@
     },
     {
         "comment": "I mean he screwed up turning the puck over for the first goal but it was still a seriously unlucky bounce. Other than that I thought he was pretty good.",
-        "label": "POS"
+        "label": "NEG"
     },
     {
         "comment": "Of all the ways to fucking lose",
@@ -2040,10 +1940,6 @@
         "label": "POS"
     },
     {
-        "comment": "The snake bite is real on Cozens. Should have buried that game-tying goal out front",
-        "label": "NEG"
-    },
-    {
         "comment": "Boston has a solid system. They literally don't break. Simple breakouts and coverage. Leafs galaxy brain their coverage and their breakouts",
         "label": "NEU"
     },
@@ -2065,7 +1961,7 @@
     },
     {
         "comment": "Maybe call a timeout DJ?",
-        "label": "NEG"
+        "label": "NEU"
     },
     {
         "comment": "JOEY YOU BEAUTY",
@@ -2077,7 +1973,7 @@
     },
     {
         "comment": "Heard that loud and clear lol",
-        "label": "POS"
+        "label": "NEU"
     },
     {
         "comment": "“But he hasn't scored a point in 9 games, HE NEEDS TO BE BETTER!”",
@@ -2088,16 +1984,12 @@
         "label": "NEG"
     },
     {
-        "comment": "Move over Power, Clifton is my whipping boy tonight. He should ride the pine the rest of the way.",
-        "label": "NEG"
-    },
-    {
         "comment": "why did we not pull him???",
         "label": "NEG"
     },
     {
         "comment": "Noted, cheers.",
-        "label": "NEU"
+        "label": "POS"
     },
     {
         "comment": "Started with his 1st career goal and hasn't stopped",
@@ -2114,10 +2006,6 @@
     {
         "comment": "Time and again, Binnington gets run with no call, and people act like he's just a maniac.",
         "label": "NEG"
-    },
-    {
-        "comment": "Jesus KEVIN! ... your move behind the net there is not why I'd like to be shouting KEVIN!",
-        "label": "NEU"
     },
     {
         "comment": "This is the renaissance for Brock Boeser",
@@ -2156,10 +2044,6 @@
         "label": "NEG"
     },
     {
-        "comment": "This team was over performing early on with lots of 1 goal wins. Reality is kicking in. Kred and Zib are terrible 5v5 and need someone else on that line… not a 4th liner. Wheeler is a complete bust. These  Hartford kids are not gonna get this done. We need a trade or a complete mix of lines …. Something",
-        "label": "NEG"
-    },
-    {
         "comment": "Wilson aint gonna do shit to trouba",
         "label": "NEG"
     },
@@ -2169,7 +2053,7 @@
     },
     {
         "comment": "4th for ice hockey reddit. Kinda cool",
-        "label": "NEU"
+        "label": "POS"
     },
     {
         "comment": "He's like the Patrick Roy of our Era",
@@ -2229,7 +2113,7 @@
     },
     {
         "comment": "You're a 100% right, I'm in your camp here. I know I'll get down voted, but there's no defending his behavior on that one.",
-        "label": "POS"
+        "label": "NEU"
     },
     {
         "comment": "What in God's name has Esa Lindell done wrong? LmaoHe has been solid all year.",
@@ -2249,7 +2133,7 @@
     },
     {
         "comment": "Lol",
-        "label": "POS"
+        "label": "NEU"
     },
     {
         "comment": "Cautious optimism time?",
@@ -2293,7 +2177,7 @@
     },
     {
         "comment": "Yeah the 2014 team especially I don't think can be qualified as dominant - 3 game 7s means we were a couple bounces away from being eliminated every round along the way lol. IMO best adjective for the 2014 team is resilient.",
-        "label": "NEU"
+        "label": "NEG"
     },
     {
         "comment": "5/6 points in Canada and some pretty entertaining games? No serious injuries? SIGN ME UPWay to cap it off strong boys. Refs were pretty awful both way while somehow still calling ten penalties.Wish Bob got his shutout but he'll definitely have some more chances... Love the way the season is coming together",
@@ -2301,7 +2185,7 @@
     },
     {
         "comment": "When you phrase it like that it sounds so bad",
-        "label": "NEU"
+        "label": "NEG"
     },
     {
         "comment": "Lafs fault for that shit turnover.",
@@ -2321,7 +2205,7 @@
     },
     {
         "comment": "I'm here for better or worse, and hopefully it's for better",
-        "label": "NEU"
+        "label": "POS"
     },
     {
         "comment": "So ... does the PP overflow into the OT?",
@@ -2337,7 +2221,7 @@
     },
     {
         "comment": "Senators winning. Will be 2 pts back WITH 6 games in hand!    Welcome back boys! The basement missed you!!!!",
-        "label": "NEG"
+        "label": "POS"
     },
     {
         "comment": "I wish Torts was still coach just so I could ask him in the post game presser about The Hardest Working Line in Hockey, Danforth - Jenner - Olivier. How big do you think Torts would say their balls are?and Spencer Martin?",
@@ -2349,11 +2233,7 @@
     },
     {
         "comment": "Big brain Keefe.",
-        "label": "POS"
-    },
-    {
-        "comment": "I thought we looked mostly fine defensively tonight, and  excellent on D in the 2nd and 3rd in Calgary.  But...really the Devils did not play great D at Seatlle or Vancouver.   So can we really say the Devils look like the D is better without Hamilton?  Isn't the D still uneven?  Sometimes fine, other times not good?",
-        "label": "POS"
+        "label": "NEG"
     },
     {
         "comment": "Garland is amazing",
@@ -2389,11 +2269,11 @@
     },
     {
         "comment": "We are chucking away our good start to the season, need to start turning things around starting tonight!",
-        "label": "NEG"
+        "label": "POS"
     },
     {
         "comment": "Quick deserved it. We didn't deserve a penalty. The embellishment doesn't make up for a goal",
-        "label": "NEU"
+        "label": "NEG"
     },
     {
         "comment": "People downvoting me for saying how fucking unreal these stupid fucking refs have been swallowing there whistles..  We've had one fucking power play..  and Brodin gets just demolished in the number like that and no call.. it's so obvious",
@@ -2437,7 +2317,7 @@
     },
     {
         "comment": "Anyone else wonder why Tyler Johnson was 2nd on the shootout the other night?  Shouldn't Kuraschev and Dickinson been in there?",
-        "label": "NEG"
+        "label": "NEU"
     },
     {
         "comment": "Puck drop is 10:45!?! End me.",
@@ -2469,7 +2349,7 @@
     },
     {
         "comment": "Wake up call game in the way we're not up to par with the conference's elite yet. Some bad luck, but also people just felt flat last night other than a couple players, but you've got to get up for games like those. Can't take any minutes or plays off against Vegas or Colorado.I would really like to see Hoglander on Petey's line though, put Di Giuseppe  onto the 4th, and Kuz with Boeser and Miller.It's not the end or anything, it's early in the season, these things can be fixed, but it's also not nothing either. Need to have a strong december going into the break and get some key victories if we want to be taken seriously",
-        "label": "NEU"
+        "label": "NEG"
     },
     {
         "comment": "Remember when everyone thought he was shit like two weeks ago?",
@@ -2517,7 +2397,7 @@
     },
     {
         "comment": "Rayzor handling that like he's been cut before",
-        "label": "NEG"
+        "label": "NEU"
     },
     {
         "comment": "We just gonna ignore the interference at the blue line or…",
@@ -2565,10 +2445,6 @@
     },
     {
         "comment": "You realize they lost that game...",
-        "label": "NEU"
-    },
-    {
-        "comment": "Alright, there's our 0-2.  Now the game can begin.",
         "label": "NEG"
     },
     {
@@ -2617,7 +2493,7 @@
     },
     {
         "comment": "Ohtani doesn't also play hockey? What a pathetic, one-note loser.",
-        "label": "NEU"
+        "label": "NEG"
     },
     {
         "comment": "That absolutely will draw Cassidy's ire, as well as ours. Cotter must be better than that.",
@@ -2630,10 +2506,6 @@
     {
         "comment": "He's got bread in a bear hug from behind and shrugs like- what did I do?",
         "label": "NEU"
-    },
-    {
-        "comment": "I hate how bipolar this team is, last period was so good and now we look like a bunch of ECHLers",
-        "label": "NEG"
     },
     {
         "comment": "Wow the refs got a call right",
@@ -2673,7 +2545,7 @@
     },
     {
         "comment": "Yeah, this is what I am feeling too. Get a goalie, and if issues keep happening, get a new coach/system in place.",
-        "label": "NEG"
+        "label": "NEU"
     },
     {
         "comment": "20 more shots incoming this period. Poor Levi gonna get bored with all the shots we taking on Ullmark",
@@ -2789,7 +2661,7 @@
     },
     {
         "comment": "Pretty good other than some odd man rushes.  Getting goalied in the second unfortunately.",
-        "label": "NEU"
+        "label": "POS"
     },
     {
         "comment": "Idk if I can trademark a Mr Miyagi quote lol",
@@ -2797,7 +2669,7 @@
     },
     {
         "comment": "THE RUSSIANS YEARN FOR BLOOD",
-        "label": "POS"
+        "label": "NEG"
     },
     {
         "comment": "Trade Lindholm and Hanifin as soon as you can, they're value is falling off a cliff",
@@ -2813,15 +2685,11 @@
     },
     {
         "comment": "man I like willy but the lengths people go to defend him sometimes is borderline psychotic",
-        "label": "POS"
+        "label": "NEG"
     },
     {
         "comment": "I will say that his production from grinding plays out was strong tonight. I'm still worried about him ghosting come April and May, though, and I don't think a regular season performance this outstanding will change that",
-        "label": "POS"
-    },
-    {
-        "comment": "I forget Bratt is on this team sometimes",
-        "label": "NEG"
+        "label": "NEU"
     },
     {
         "comment": "🤌🤌🤌",
@@ -2833,7 +2701,7 @@
     },
     {
         "comment": "That guy got kicked out pretty quick if I remember.",
-        "label": "NEU"
+        "label": "NEG"
     },
     {
         "comment": "And yet, he got the goal for the tie point.",
@@ -2853,11 +2721,11 @@
     },
     {
         "comment": "I love a win, but this is a respectable game to lose. Oilers are a good team and they've played well. Odds are stacked against us with the schedule.",
-        "label": "NEU"
+        "label": "POS"
     },
     {
         "comment": "Canucks🤝too many men",
-        "label": "NEU"
+        "label": "NEG"
     },
     {
         "comment": "how long does it take to get a damn visa.oh nm looks like he got it resolved.",
@@ -2945,7 +2813,7 @@
     },
     {
         "comment": "Jack loves the drop pass, for good or ill.",
-        "label": "NEU"
+        "label": "POS"
     },
     {
         "comment": "Let's do it boys",
@@ -2961,11 +2829,11 @@
     },
     {
         "comment": "It's in our best interest to lose this one. Need jersey in the playoffs so we get a chance at their 1st.",
-        "label": "NEU"
+        "label": "NEG"
     },
     {
         "comment": "I'm not saying he stinks at all. MARNER has been my favorite since his name first hit the scene but honestly he is the least painful one to lose to a trade in my heart between him , Nylander and matthews. If we got a great goalie or defenceman duo or something for him I think it would be a victory. He will for sure go on to win a cup and rub it in our faces but if you zoomed in on me on that night.  In my apartment I'd be sitting on the couch crying a tear of joy for him .I sort of got lost there where the fuck am I?",
-        "label": "NEU"
+        "label": "NEG"
     },
     {
         "comment": "Not sure, but longest in franchise history is 10 games. Current streak is 8. Edit. Quick Google search shows 18 is the record. Happened twice. 2003-04 Penguins and 2020-2021 Sabres.",
@@ -2993,7 +2861,7 @@
     },
     {
         "comment": "This franchise, no matter quality of the team, has as long as I've been watching always gotten hot in November and cooled off mid-late December or a bit after the New Year",
-        "label": "NEU"
+        "label": "NEG"
     },
     {
         "comment": "You new here?",
@@ -3001,7 +2869,7 @@
     },
     {
         "comment": "I'm unhappy with the outcome but not with the performance. A rarity with the sens",
-        "label": "NEU"
+        "label": "NEG"
     },
     {
         "comment": "RESURGENT(for real this time)",
@@ -3029,7 +2897,7 @@
     },
     {
         "comment": "There's only one thing that I think Karlsson needs to work on, and that's not getting tossed off the dot.  He's so fucking good at faceoffs, but it seems like he gets booted more than most centermen.",
-        "label": "POS"
+        "label": "NEG"
     },
     {
         "comment": "Can't stand kadri. He gets away with being so terrible cause he plays with young hungry players. Not to mention he's not even the worst overpaid player on our team. It really angers me when I see him on the ice on the PP or OT. Just so lazy and plays all by himself.",
@@ -3109,7 +2977,7 @@
     },
     {
         "comment": "If Bob doesn't get the #1 star of the game, there is no justice in this world.",
-        "label": "NEU"
+        "label": "NEG"
     },
     {
         "comment": "Zadina hatty tonight",
@@ -3129,11 +2997,11 @@
     },
     {
         "comment": "Can't figure out what is the most aggrevating. Having a ton of shots on goal and not scoring or having few shots on goal and still not scoring.",
-        "label": "NEU"
+        "label": "NEG"
     },
     {
         "comment": "ScandEZ goal still remember. Still a fun part of that tragedy of a game.",
-        "label": "NEU"
+        "label": "POS"
     },
     {
         "comment": "FUCK YAH< WE ROLLING<",
@@ -3169,7 +3037,7 @@
     },
     {
         "comment": "Why don't we do tarps off anymore? :( feels like forever",
-        "label": "NEU"
+        "label": "NEG"
     },
     {
         "comment": "Hertl dropping f-bombs in the post-game.  Pottymouth!",
@@ -3177,14 +3045,6 @@
     },
     {
         "comment": "I fucking hate Myers, he looks like he fucking got disconnected from the console at least 2x. But part of this blame has to go to the coaching staff. The line combos in the end there and trying to play safe when the Devils have so much speed. Canucks have to pressure them. Myers should get fucking benched at least 1 game for fucks sake. He never gets punished for his fucking stupid ass costly mistakes.",
-        "label": "NEG"
-    },
-    {
-        "comment": "every time I see huberdeau, I hear dumb guy trombone music.  fuck this clown.",
-        "label": "NEG"
-    },
-    {
-        "comment": "FFFFUUUUUUUUUUU",
         "label": "NEG"
     },
     {
@@ -3205,7 +3065,7 @@
     },
     {
         "comment": "I can't say I understand, but yeah, them babies gotta eat somehow! Going to be a nice and long off-season with plenty of time with the baby if we keep this up!",
-        "label": "NEU"
+        "label": "POS"
     },
     {
         "comment": "Two things can be true. The Rangers played much better defensively tonight and limited the amount of odd man rushes. Quick has been better than Igor.",
@@ -3229,7 +3089,7 @@
     },
     {
         "comment": "I know right? Camera can't get high enough in that tiny place.",
-        "label": "NEU"
+        "label": "NEG"
     },
     {
         "comment": "Much respect for Mikael Backlund after watching after hours last night, Calgarians should be proud to have him!",
@@ -3289,7 +3149,7 @@
     },
     {
         "comment": "And futuregoalie missed it 😭",
-        "label": "NEU"
+        "label": "NEG"
     },
     {
         "comment": "Lagessen with the throat grab haha gotta love it",
@@ -3309,7 +3169,7 @@
     },
     {
         "comment": "I'd keep my mouth shut about goal songs if I only had 50 goals in 923 games 😂",
-        "label": "NEG"
+        "label": "NEU"
     },
     {
         "comment": "Great reffing tonight!",
@@ -3341,7 +3201,7 @@
     },
     {
         "comment": "And thats all folks. Get some rest",
-        "label": "POS"
+        "label": "NEU"
     },
     {
         "comment": "Can't play Mercer in the middle right now. Teams are feasting on that",
@@ -3524,10 +3384,6 @@
         "label": "NEG"
     },
     {
-        "comment": "I spoke with Matty Ellis in between periods. He said whoever scores more goals wins and so far we're not doing that.",
-        "label": "NEG"
-    },
-    {
         "comment": "All of 'em.",
         "label": "NEU"
     },
@@ -3542,10 +3398,6 @@
     {
         "comment": "Sharks road goal total before tonight: 6,Sharks road goals tonight: 6,This team man",
         "label": "NEU"
-    },
-    {
-        "comment": "I was there… fucking sucked. My friend completely lost his shit. Just a horrible melt down.",
-        "label": "NEG"
     },
     {
         "comment": "Huge power play opportunity boys let's go!",
@@ -3585,7 +3437,7 @@
     },
     {
         "comment": "I hate the rags so fucking much, im so happy.",
-        "label": "POS"
+        "label": "NEG"
     },
     {
         "comment": "Not an amazing PP",
@@ -3609,10 +3461,6 @@
     },
     {
         "comment": "Of all the games for us to get the reg win on, how the actual fuck was it this one?",
-        "label": "POS"
-    },
-    {
-        "comment": "What. The. Fuck. Happened. I switched to the cavs game at the end of the 2nd. Like... how.",
         "label": "NEG"
     },
     {
@@ -3650,10 +3498,6 @@
     {
         "comment": "Garland is a monster on the ice, unfortunately just not one that can aim.",
         "label": "POS"
-    },
-    {
-        "comment": "this is what drives me crazy about eye testers, the Devils *had a bad game defensively* and you're bringing up practice and shit? cmon man, take it for what it was, a bad game defensively that Schmid bailed them out for, they're still top 10 in xGA and HDCA.",
-        "label": "NEG"
     },
     {
         "comment": "I am manifesting a Hanifin goal so I can go 3/3 in the Tim Hortons Pick 'Em tonight",
@@ -3728,10 +3572,6 @@
         "label": "NEU"
     },
     {
-        "comment": "I'm really annoyed at that penalty. What the fuck The was the point of that Olivier???",
-        "label": "NEG"
-    },
-    {
         "comment": "My fears are being justified. DONT DO THIS TO US",
         "label": "NEG"
     },
@@ -3741,11 +3581,7 @@
     },
     {
         "comment": "night of the living finns",
-        "label": "POS"
-    },
-    {
-        "comment": "someone should tell them they'd fuckin win a lot more if they didn't wait until the 3rd to play like that",
-        "label": "NEG"
+        "label": "NEU"
     },
     {
         "comment": "Wooooo! Backs!",
@@ -3793,7 +3629,7 @@
     },
     {
         "comment": "I'm going to be at the game but me and my buddy are both wearing Florida RR jerseys because we're both jersey fans and are obsessed with them. Still rooting for the flames but if you see two jackasses in baby blue it's us.",
-        "label": "NEU"
+        "label": "POS"
     },
     {
         "comment": "I can't imagine a more pathetic win. Somebody tell this team that games have another period after the first two.",
@@ -3853,7 +3689,7 @@
     },
     {
         "comment": "- Primeau is great- Struble is solidifying his spot- Our D sucks in defense, but good in offense- Our PK is good tonight- Shooting: somehow, Caufield shooting impresses me less and less now. Something wrong with his shooting this year. Same thing with Slaf, his release  is slow, not accurate. Moreover, Slaf seems so reluctant to shoot. Slaf seems not a scorer.",
-        "label": "NEG"
+        "label": "POS"
     },
     {
         "comment": "HOLY FUCK WHAT A SAVE",
@@ -3870,10 +3706,6 @@
     {
         "comment": "The next generation Seabrook and Keith.",
         "label": "POS"
-    },
-    {
-        "comment": "I AM SO TORQUED",
-        "label": "NEU"
     },
     {
         "comment": "I'm okay if Huska benches Mang... I mean look at Zary FIGHTING to show he's an NHL'er, deserves to be in the line up... No free rides for Mang who should already know and be that.",
@@ -3896,10 +3728,6 @@
         "label": "NEG"
     },
     {
-        "comment": "It's always hard to remember we're the top team right now when we have periods like that. I'd like a period where we remind them all why we are the top team, please.",
-        "label": "NEG"
-    },
-    {
         "comment": "Will this team ever stop being embarrassing? Holy fuck.",
         "label": "NEG"
     },
@@ -3909,7 +3737,7 @@
     },
     {
         "comment": "Wow literally one pic of willy on the subway and now he has an entire commercial about it",
-        "label": "NEU"
+        "label": "POS"
     },
     {
         "comment": "God are we really about to clean house and just tank again for the 5th time in 10 years?",
@@ -4021,11 +3849,11 @@
     },
     {
         "comment": "All the naysayers left lol",
-        "label": "NEG"
+        "label": "NEU"
     },
     {
         "comment": "I think it's something to do with stability and consistency! /s",
-        "label": "NEG"
+        "label": "NEU"
     },
     {
         "comment": "Sportsnet trying to manifest a Preds goal... backfired!",
@@ -4033,7 +3861,7 @@
     },
     {
         "comment": "Finally",
-        "label": "NEU"
+        "label": "POS"
     },
     {
         "comment": "A couple things:I don't mind a loss, they're bound to happen. I just hate losses where they don't give it their all and get embarrassed, especially by struggling teams.I don't understand why they're playing with no energy, they have no games until Saturday. I wonder if the back to back road to home to road game travel is messing with them.",
@@ -4052,16 +3880,12 @@
         "label": "NEG"
     },
     {
-        "comment": "Streaky players make fans pull our hair out.",
-        "label": "NEG"
-    },
-    {
         "comment": "I don't blame him! They stink out loud.",
         "label": "NEG"
     },
     {
         "comment": "Their #1 goon seems to be David Perron, I don't even think you're right on that… but it is the Leafs and they also fold like paper under pressure, so maybe.",
-        "label": "NEU"
+        "label": "NEG"
     },
     {
         "comment": "Still think that we will be under 500 by christmas?",
@@ -4081,10 +3905,6 @@
     },
     {
         "comment": "Dogshit power play still",
-        "label": "NEG"
-    },
-    {
-        "comment": "I haven't caught this game till the 3rd. But looking over stats it's pretty consistent game after game that Mercer is just a black hole offensively atm. Idk what's with him, he looked like the future of NJ past 2 seasons and even towards the end of last season and during playoffs he was ripping some crazy shots to boot. This season hes just not working out. I'd even send him to ahl if we didn't need the bodies. The thing that makes sense to me is that if he's going to generate no offense and at least hold down the defense, they should staple him to the 4th line with McLeod and Bastian. As the season progresses they tried everyone to get him and holtz going and really only Haula barely managed to get the line going. People here complain that timo isn't playing well but frankly it's a repeating pattern that has continued. They tried Lazar, Haula, McLeod and now Meier. And damn if the stat line from the Vancouver game isn't devastating. Y'all can see it here , it's the worst performance for a NJ line I've seen this season or last. And that was a bad defensive game for them. Overall, theyre not caving in but dang if every single line he's a part of doesn't die offensively. I was alright to see if they get going because Haula was back to center Hughes and toffoli. But the second a top 6 player is out of the lineup, it's usually a shuffle of depth guys and wherever Mercer lands is bad. We got this salary cap from Hamiltons ltir, so I hope Fitz can acquire someone SOON cause we're so f****** thin. Every injury at this point is cause to lose games we shouldn't. And I don't wanna hear how well we've been doing. I know we had a solid road trip. It's just we haven't seen peak team performance and it absolutely looks like we're playing a man down even with a full roster. Of course we are. Last season we ended schedule with Mercer on the top line with Hischier and Tatar and they were actually playing like a top line. We're genuinely down a top 6 player that was a given, coming into this season.",
         "label": "NEG"
     },
     {
@@ -4149,7 +3969,7 @@
     },
     {
         "comment": "Don't worry, they sold off the rights back to the teams or are really close to doing so. They'll be gone after the season.",
-        "label": "NEG"
+        "label": "NEU"
     },
     {
         "comment": "Hell yeah!!!!! 2 quick ones!!",

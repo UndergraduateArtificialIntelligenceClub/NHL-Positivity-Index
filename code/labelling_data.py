@@ -1,6 +1,7 @@
 import os
 import json
 import random
+from typing import List, Dict
 
 def label_comment_sentiment(comment:str) -> dict:
     """Given a comment string, displays the comment string and prompts the user to 
@@ -110,7 +111,7 @@ def find_comment_index(dictionaries, target_comment):
             return index
     return None
 
-def evaluate_disagreement(labelled_comments: [dict(str)], disagreements: [dict(str)]) -> [dict(str)]:
+def evaluate_disagreements(labelled_comments: List[Dict[str, str]], disagreements: List[Dict[str, str]]) -> List[Dict[str, str]]:
     """Given a dataset of labelled comments and a list of disagreements between the manually labelled sentiment label 
     and the model sentiment label, prompts the user if they want to change their sentiment label to the model label 
     
@@ -121,6 +122,7 @@ def evaluate_disagreement(labelled_comments: [dict(str)], disagreements: [dict(s
     Returns: The updated list of labelled comments
     """
     valid_user_inputs = ["y", "n"]
+    label_mapping = {'positive': 'POS', 'neutral': 'NEU', 'negative': 'NEG'}
     for disagreement in disagreements:
         os.system('cls||clear')
         print(disagreement['comment'])
@@ -134,7 +136,7 @@ def evaluate_disagreement(labelled_comments: [dict(str)], disagreements: [dict(s
         
         if user_input == 'y':
             i = find_comment_index(labelled_comments, disagreement['comment'])
-            labelled_comments[i]['label'] = disagreement['model_label']
+            labelled_comments[i]['label'] = label_mapping[disagreement['model_label']]
         
         else: 
             continue
