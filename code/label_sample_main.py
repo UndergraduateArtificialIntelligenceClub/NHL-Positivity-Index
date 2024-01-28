@@ -5,19 +5,15 @@ import os
 
 def main():
     
-    sample_json_file_path = 'testing_sample_5000.json'
-    labelled_sample_json_file_path = 'testing_sample_5000_labelled.json'
+    json_file_path = r'data\training_data\comments_to_be_labelled.json'
     
-    with open(sample_json_file_path, 'r', encoding='utf-8') as file:
-        comments_split_sample = json.load(file)
+    
+    with open(json_file_path, 'r', encoding='utf-8') as file:
         
-        # Current Sample Number: 14 (Please Change to the number printed when exiting the program,
-        # so we don't get duplicates)
-        labelling_data.label_comment_samples(comments_split_sample, labelled_sample_json_file_path, 14)
-    
-    
-    
-        
+        comments_to_be_labelled = json.load(file)
+        labelled_comments = labelling_data.label_comment_sample(comments_to_be_labelled)
+        labelling_data.write_labelled_comments_to_json_file(json_file_path, labelled_comments)
+             
 if __name__ == "__main__":
     main()
     
