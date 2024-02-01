@@ -25,10 +25,6 @@ def main():
         comments_to_label = labelling_data.label_comment_sample(comments_to_label)
         labelling_data.write_labelled_comments_to_json_file(comments_to_label_file_path, comments_to_label)
         
-    
-        
-        
-        
 if __name__ == "__main__":
     main()
     
