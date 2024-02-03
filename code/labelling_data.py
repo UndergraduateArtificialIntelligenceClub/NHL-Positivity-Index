@@ -31,7 +31,7 @@ def label_comment_sentiment(comment:str) -> dict:
     elif sentiment_label == "n":
         return "NEG"
     
-    elif sentiment_label == "q":
+    elif sentiment_label == "q" or sentiment_label == "a":
         return sentiment_label
     
     else:
@@ -60,6 +60,8 @@ def label_comment_sample(sample: [str]) -> [dict]:
             continue
             
         os.system('cls||clear')
+        
+        print(f"{1000 - j} Comments left!") # If you don't want the comments left tracker just comment out
         comment = sample[j] 
         comment_label = label_comment_sentiment(comment)
         

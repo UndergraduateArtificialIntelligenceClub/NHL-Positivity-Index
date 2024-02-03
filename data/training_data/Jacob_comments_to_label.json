@@ -31,7 +31,10 @@
         "comment": "This team was over performing early on with lots of 1 goal wins. Reality is kicking in. Kred and Zib are terrible 5v5 and need someone else on that line… not a 4th liner. Wheeler is a complete bust. These  Hartford kids are not gonna get this done. We need a trade or a complete mix of lines …. Something",
         "label": "NEG"
     },
-    "I thought we looked mostly fine defensively tonight, and  excellent on D in the 2nd and 3rd in Calgary.  But...really the Devils did not play great D at Seatlle or Vancouver.   So can we really say the Devils look like the D is better without Hamilton?  Isn't the D still uneven?  Sometimes fine, other times not good?",
+    {
+        "comment": "I thought we looked mostly fine defensively tonight, and  excellent on D in the 2nd and 3rd in Calgary.  But...really the Devils did not play great D at Seatlle or Vancouver.   So can we really say the Devils look like the D is better without Hamilton?  Isn't the D still uneven?  Sometimes fine, other times not good?",
+        "label": "NEG"
+    },
     {
         "comment": "Alright, there's our 0-2.  Now the game can begin.",
         "label": "NEU"
@@ -60,12 +63,18 @@
         "comment": "I was there… fucking sucked. My friend completely lost his shit. Just a horrible melt down.",
         "label": "NEG"
     },
-    "What. The. Fuck. Happened. I switched to the cavs game at the end of the 2nd. Like... how.",
+    {
+        "comment": "What. The. Fuck. Happened. I switched to the cavs game at the end of the 2nd. Like... how.",
+        "label": "NEG"
+    },
     {
         "comment": "this is what drives me crazy about eye testers, the Devils *had a bad game defensively* and you're bringing up practice and shit? cmon man, take it for what it was, a bad game defensively that Schmid bailed them out for, they're still top 10 in xGA and HDCA.",
         "label": "NEG"
     },
-    "I'm really annoyed at that penalty. What the fuck The was the point of that Olivier???",
+    {
+        "comment": "I'm really annoyed at that penalty. What the fuck The was the point of that Olivier???",
+        "label": "NEG"
+    },
     {
         "comment": "someone should tell them they'd fuckin win a lot more if they didn't wait until the 3rd to play like that",
         "label": "NEG"
@@ -126,7 +135,6 @@
         "comment": "I swear laf would be 25+ points if backups werent robbing him and his teammates missing freebies",
         "label": "NEG"
     },
-    "/u/Laffertyiswortha5th",
     {
         "comment": "Things feel worse this season than last almost across the board.It's hard to believe even if we lose this game we are on the same pace as this time last year.",
         "label": "NEG"
@@ -219,7 +227,10 @@
         "comment": "Nothing would make me happier than hanging 6 on the leafs",
         "label": "POS"
     },
-    "Chabot is back on the bench, man is an absolute workhorse",
+    {
+        "comment": "Chabot is back on the bench, man is an absolute workhorse",
+        "label": "POS"
+    },
     {
         "comment": "This is rigged as fucked",
         "label": "NEG"
@@ -408,316 +419,1242 @@
         "comment": "The issue is that they have repeatedly demonstrated that they are capable of absolutely exceptional play when they are in a come from behind situation but it seems like they just barely try until they have to.",
         "label": "POS"
     },
-    "Well for one. Not having to come back to win every single game, or to win a game by more than one goal would be a nice change",
-    "EDDDDDDDDD",
-    "Clutch move Spurgeon!",
-    "We never had the lead... we don't want to end games like that in regulation.",
-    "It's a new feature. Enjoy!!",
-    "That was heartbreakingBut at least not embarrassing",
-    "I was pretty sure Command Centre was going to overturn that last goal on account of pass interference.Strange game. Really good win.",
-    "That better not be a bloody concussion",
-    "I don't even wanna see Hughes and Hronek's TOIOh they're decent. Looks like Tocc gave up on the game",
-    "It's not that his defense is old as AF?",
-    "Jack and Luke running into each other is pretty fucking funny I can't lie",
-    "Damn that was a rough ending.  Could have been disastrous.  Thankfully we get the 2 pts and get the hell out of there.",
-    "Great win! Lukie deserved it after that hit. Random question, it's my girlfriends birthday Tuesday and she wants to go to the game tomorrow night. Has anyone ever sat at the tables in section like 12-14? How is the view? Is food included? I can't find much on the sub. It looks like they're below the restaurant ledge",
-    "He's due for a 5 point game!",
-    "IN THE WIN COLUMN",
-    "Yeah the duality of this game was crazy. The first period was about as bad as we have played all season and the second and third were probably the best we have played in the last 14 or so games lol",
-    "Thank you brother!",
-    "Yeah you're right that Dj doesn't outwardly show much emotion but he allows his teams emotions to dictate the game. It seems like since he got here he's being trying to establish a high-energy, high emotion game that is \"hard to play against.\" He doesn't calm his team down and doesn't manage in game. Dude just learned what a time out is 5 days ago.",
-    "They're both equally bad.",
-    "The biggest area this team needs to improve is the first pass in our own zone. Partly personnel and partly just basic execution.",
-    "great birthday present from the wild",
-    "JT BABY THATS ONE!",
-    "don't blame Soders!He's just doing his role towards 1OA!",
-    "What a nice play by Slaf!!",
-    "Its maybe just mental thing",
-    "Am I reading this right? LA has played 5 less games than us? Edmonton has a 5 day break in between games?Must be nice to have some rest!",
-    "Oh no we suck again",
-    "Kevin Hayes heard all y'all talking shit and clapped back (he had to wait for us to draw first blood, obviously)",
-    "Someone freaking help wedge",
-    "I'm not a fan of shootouts. I hope this game doesn't go to one.",
-    "Look at me, I'm Chris Vosters:Bedard!Jones!Bedard!Kurashev!",
-    "So many ad breaks fuck",
-    "Yes",
-    "Winning teams don't give up 2 leads in a game",
-    "Damn bro you're putting a lot of energy into this DJ hate. Do you have any other insight or input? Or the only thing your pea brain knows is fire dj?",
-    "GUSTAVSSON THE BUSTAVSSON",
-    "You can't scratch that contract",
-    "I too endorse the Nuclear Option.",
-    "Brutal",
-    "For all the doom and gloom about this team the Stars are yet to lose more than 2 games in regulation in a row under PDB.",
-    "Interesting, that's fair. It was more the rolling R that got me though. Would that have been similar?",
-    "Okay. Well. Okay.",
-    "I hate when a PP is split by periods",
-    "I guess you kneed to see a doctor.",
-    "\"How bad can Martin Jones be, really?\"Truly a cursed thought.",
-    "Ugh. If we could have kept the first period going, we would have been good. On to tomorrow !!",
-    "Spencer Stastney seems better by the shift.",
-    "Sabres are fucking cunts",
-    "Doomers in shambles",
-    "alright rossi, now is your time to shine",
-    "Wow fucked again",
-    "That's two games that Flames should have won in a row.... I'm going to drink beer now.",
-    "I absolutely do not care that we won. Played like absolute dog shit and lost the guy who won us the game for an unknown amount of time. We won the battle but continue to lose the war.",
-    "I love Zary.",
-    "Season's over see you guys at the draft",
-    "Every single NHL ref is a useless asshole.",
-    "Patience",
-    "A fight was a given to happen",
-    "FUCK OFF TNT EVEN WHEN WE WIN YOU CANT GIVE US FULL CREDIT AHAHAHA FUCK YOU",
-    "THANK YOU TYE 💜💜💜",
-    "HUGE game tonight, as your Ottawa Senators could move up from 16th in the conference, to 15th!!! If the CBJ lose, that is.",
-    "well the NHL is definitely loving this one",
-    "So we is allowed to play from the start. I'll give Thompson credit. He's gotten saved by the knights defense so far.Shocker it makes the goalie have to do shit when at least 1 guy crashes the net and hangs out there... Remind me again why it's the small 18 year old?",
-    "The Kings certainly do!",
-    "is this finally the answer to the curse?",
-    "Fun Fact!The Devils are 4-1-1 on games where they don't look like shit in the first period.",
-    "More likely to get hurt when your team requires 10+ outrageous saves.",
-    "#18-4-1#LGR!",
-    "Shelly carries though",
-    "Inquiring minds want to know -- how do you drink it?",
-    "ahh... we're toast",
-    "We put Boris on waivers but not soderblom?",
-    "R.I.P Cousins, your death awaits buddy.",
-    "Where would you put him? Vrana is just a guy, unfortunately",
-    "Is Boone out?",
-    "Score a goal. Take a penalty. Why break tradition?",
-    "So it's Kaprizov, Hartman and Dewar?",
-    "Hoping for a better night tonight against the rangers.  Also at the stars/lightning game in Dallas right now.  Duchene has had a pretty good start to the season but is entering a slump and looks lazy on the ice.  Still think it was a good GMBT move",
-    "Is that just the plot of Austin Powers?",
-    "That dad looked bored as hell after that goal lmao",
-    "Clearing the zone can't be this difficult",
-    "Guy looked at their schedule as a new coach and went “well at least they won't hate me for the first game”",
-    "whichever ref just announced that penalty sounds like he's still going through puberty",
-    "We can't close on our chances at all tn",
-    "Lmao vladdy 😂",
-    "SICK INDIVIDUAL",
-    "Bolds :(",
-    "That's a pretty complete effort against a good team. Looked comfortable holding the lead and limiting most chances to the outside.Kucherov looked frustrated, and Boeser passed him in goals to tie the league lead.All in all, a really good night.",
-    "Capitals hockey.",
-    "Lol caufield in his elite playmaker arc",
-    "How? How are there 3 worse looking PPs in the league?",
-    "whoevers goal it was, that was a great play by Meier and hopefully it gets him going stronger",
-    "Kinda feels like we GOTTA win this. They are on a second half of b2b. And just not great in general. And I fucking hate them",
-    "Fucking damn it",
-    "I no longer care about wins, I just want Bedard to pick up points",
-    "Thought so too!",
-    "Thatcher Demko; do we need him?",
-    "Shoot Myers into the sun Bench KuzyTeach Ian Cole defence I don't even know what the fuck to do with Petey",
-    "Sens looked great for first 10 minutes. Sens regressed back to the gutter for the 30 minutes that followed.",
-    "This is NOT the start I was hoping for 😔",
-    "I don't see a huge boost in effort. I see a huge boost in better decisions with the puck.",
-    "To me, that just makes it worse.  The team comes out embarrassingly flat, and a goalie keeps them in a game they have no business being in.  I don't want to watch Binner play out of his mind when the rest of the team can't be bothered.  The team needs to figure out why they can't show up on time like everyone else.",
-    "Garland is the hardest working player on the team, guy shows up to every shift. Need that work ethic in our top 6, could have been a different game. Lets pump the Flames",
-    "jesus christ, I just realized : this idiot came from toronto????  maple leafs have not seen cup in almost 60 YEARS !!!  What can he possibly teach CAPS ? How to hit a worst dry spell in history of modern hockey?",
-    "Not even noon, 11am on saturday!",
-    "See when it happened I swear it hit his left shoulder but Vosters made it seem like it was the Blues defender",
-    "#THOMMER",
-    "I knew it was Pettersson's all along but I really wished Zadorov got the GWG in his first game against his old team",
-    "We're about to get shutout by the bottom team in our division…",
-    "I wish they'd stop hyping Cole up as some type of fighter. His game is improving, which is great, but he is not some huge, tough guy. He gets embarrassed in basically every fight. He needs to stop fighting and focus on scoring.",
-    "Nemo taking shots here, I love to see that confidence!",
-    "Refs are certainly disappointed so far with the 0-3 pp for Tampa bay.",
-    "Holy fuck now this is a game! Loving the pace and pressure here",
-    "Losing puck battles all over on that sequence",
-    "Yall can't spread all this negativity for 6 months straight year after year and come back when he plays great, bc he will.",
-    "That's like $100?",
-    "Right? Love a good ol biased cats broadcast",
-    "I was thinking 15 minutes ago that it would be hard to win 1-0 against Floridait's a lot easier with 3 goals",
-    "It was a bad shot by Laf but I'm real glad he took it. That itself is growth",
-    "This should have been such a great bounce back opportunity for us. I'm going to be fuming all the way through Saturday.",
-    "Rielly has been absolutely stellar",
-    "Or just score goals!",
-    "Barb approves",
-    "Oh damn he got it with his foot???",
-    "God Nico is so good at just being at the right place at the right time all the time.",
-    "It's a win win, we either beat one of the best teams or Vegas barely beats a bottom feeder team lol",
-    "PP looking hot!",
-    "If the leafs had a real goalie they win that game.",
-    "If Levi was in net it would be 12-0 already",
-    "Gallant should be arrested and kept in the basement of the HHOF",
-    "Just when you think we won't ever win again we go and beat down the best team in the conference!",
-    "Omg Kap missed a wide open net 😩",
-    "Rather be lucky than good",
-    "Don't feel like making a whole thread on it, but Tyson Barrie was granted permission to talk to other teams in regards to a trade. Could he be an upgrade in a D for D swap?",
-    "Bruh, Joey……..just stop trying to handle the puck so much",
-    "Allvin said they wanted to move 1, most likely 2 contracts this season. With Beauvillier gone, you gotta assume it's Myers.",
-    "Not at all but I see where you were going with it. Torres' forecheck was relentless but the biggest part of his game was his physicality. Hoggy uses his speed and skill somewhat like Hansen (like others have said). Would love another Raffi on our team but these guys don't exist anymore :(",
-    "Oh what the tits",
-    "Sens getting WORKED in the D zone omg",
-    "Just a heads up if you don't already know this game will be on MAX streaming service and app to watch.",
-    "Durzi out for the game 😢 hope it isnt serious",
-    "It's always so funny to me when they lose their stick and just aren't quite sure what to do with their hands. Just 25 seconds of jazz hands, why the fuck not",
-    "VLAD THE IMPALER",
-    "I honestly think weve looked pretty good. We've made two mistakes and theyve capitalized",
-    "Lol this team is always on the recieving of the most immaculate saves",
-    "slickolas nicholas",
-    "refs should just eject McDavid like Jokic",
-    "that was soft as shit",
-    "Oh for sure, but Mac was always pretty good when he was healthy. Emphasis on the health though. Kept breaking down after his first few seasons with NJ.",
-    "#IM READY TO RIP ALREADY BOIS, I GOT 2 SIX PACKS OF TALL BOYS ON ICE WAITING FOR ME TO GET OFF WORK AND IM OFF TOMORROW. LFG BOIS FUCK THEM RAGS",
-    "It's really embarrassing. This is one sub where I feel like most meatballs are not around, and there's always “something” downvoting everything. This sub is MUCH better than the bears or Cubs sub",
-    "Woll for ROTY",
-    "Fugly ass hockey",
-    "The right call Gallagher special.",
-    "Batherson was completely uncovered.",
-    "Hate to agree with this…but I agree",
-    "Doesn't that include you DA? Jesus, the lack of accountability.",
-    "Gotta come out swingin in the 3rd boys.",
-    "Vegas is in another tier.",
-    "The peepis is not large today",
-    "We got some Dawgs on this team. Especially on defence, you love to see it.",
-    "Risking Boston dismantling Igor tmr could be a huge gamble on his confidence",
-    "Siegenthaler playing much better this period.",
-    "Try “Onhockey.tv”. Every hockey game, literally the world. Including minors, college, Europe, etc. Even has Home/Away feeds and other languages.",
-    "They already don't look good... Wonderful",
-    "Perunovich is really good defensively. Go look at the numbers.",
-    "I had to look it up, games this season where we held the opponent to less than 3:2-1 L @ Blues4-2 W vs Preds7-1 W vs Sharks2-0 L @ Sens2-1 L vs Devils&#x200B;5 games out of 28",
-    "Gustav😍",
-    "Major save!",
-    "I'm like 99% sure Tim is hurt and the team isn't disclosing it as per usual. Looks like a ghost of last year.",
-    "Broh, the audio quality is actively degrading itself lol",
-    "Who needs forwards!!!",
-    "The blues are just mid and we have to accept it.",
-    "I'm excited for the meltdown of Wings fan when Perron gets a well-deserved 5+ game suspension.",
-    "Genuinely how do you call only Steel for that",
-    "It fits her personality perfectly.",
-    "Lol I caught that too. I wonder if Foxy realized what he said",
-    "Not the ending we wanted, but certainly better than the ending we expected.",
-    "Use the last 3 seconds to punch whoever is across from you on the faceoff",
-    "He kinda had a good reason, that was a pretty dangerous trip by Carolina's goalie.",
-    "When is our captain stealing a game for us? Fuck me",
-    "If KJ's voice gets any deeper he will need AEP's permission to speak in post game interviews.",
-    "That's what *she* said! :>",
-    "I'm sure no one wants to hear it, but I want to give the coaches some credit. Something they practiced this morning was executed really well a couple times during the game.This low to high, forward to an aggressively pinching defenseman for the one timer play came up twice. Once for a goal, once for a dangerous Vince Dunn one timer on the power play. Eberle and Gourde both eyed the slot from down low, then as their second read they hit the D up high for the shot.And good eye by Allyson to call it out in her Cor-Sea newsletter this morning and spot it in game.",
-    "good PK right there",
-    "Not that I'm aware of",
-    "Tavares looking dominant lately, everything on net and can't be moved from the crease",
-    "I mean they crushed it in the 2nd & 3rd, but when you can't get a full 3 periods it's gonna be hard to win",
-    "Of course he's from MTL",
-    "Agreed. It's like our cap is full but we have half a team and couldn't make any moves. Really shit way to start a season. And that's pretty much all on Doug.",
-    "Demko injury from last game not dealt with. The team will play him until he has season ending surgery.",
-    "this monday night panel is fuggin terrible loll",
-    "20 wins in first 30 games. yah baby",
-    "HE KNEW THEY WOULD BOO guaranteed",
-    "Kevin Bahl is fuckin stud",
-    "remove gary from the building",
-    "Full blown \"having one of those nights\" the Matthews bar hit there rofl.....that's his 99/100.",
-    "Yaaaaaaa",
-    "BEDARD POINT",
-    "Pretty sure tocchet knows more about how to coach and who to put out there far better than anyone here",
-    "Martin is on 🔥",
-    "Yeah fuck you Lavi",
-    "Bigger fanbases = more people who clip stuff = more likely to see a postBe the change you want to see. Capture the plays and post them, you'll get upvotes when it's a nice play.",
-    "good afternoon, i'll be at the game!!",
-    "Why does every goalie we play most of the time plays Vezina caliber? LoLAnyways, just don't understand why we couldn't play like this start of the season. Cuz our record would be much better",
-    "wooooooo",
-    "God, he'd probably just yell at you the whole time.",
-    "Yeesh duclair scores one nice goal on us and now everyones dick riding for him to come back lmao.",
-    "It was 4-3",
-    "A worthy successor to Roly Poly Colby at the desk",
-    "Luukkonen? I had no hope of spelling that right just hearing it lol 🙏",
-    "Omg, gotta bury a chance like that.",
-    "Worst thing I keep hearing. \"Jones shoots.\"",
-    "Good catch.",
-    "That line just scored because of your comment so thank you.",
-    "Shoulda thrown his helmet",
-    "FUCK YEAH MARCH",
-    "checking in from behind enemy lines. was wearing my Sabres hat on the strip yesterday and a guy in a bumblebee costume roasted me for it I hate this place",
-    "FUCK YES",
-    "Kevin Bahl with a great fuckin play",
-    "Eklund is damn good.  Can't wait to pair him with Smith and some of our other top prospects",
-    "Good god. Can we get a timeout here. This team is asleep on the ice",
-    "##WE ARE SO FUCKING BACK",
-    "I cannot wait for Rossi to get a few more games under his belt with Kap and Zucc.. the chemistry is already noticeable and it's been like 3 games",
-    "Bjorkstrand making up for the luck he didn't have last season",
-    "It's Wolf's net tonight confirmed by Pat!",
-    "49 shots, 20 of which are blind passes accidently on net",
-    "IT'S HARLEY TIME, BABY!!! 🤠",
-    "Suzuki has to shoot it there",
-    "Deflected puck lol",
-    "Hi! I like hockey!",
-    "Didn't lose in regulation and got 1000. It was an alright night, I guess",
-    "Barron and Allen that was fucking great",
-    "Does CBJ still do the student discount? I made the drive from Athens to C-Bus to almost every Sabres game in 4 years there. $25 bucks to sit lower bowl from like 2013-2017 I think.",
-    "Sounds like theyre saying shimone nemec",
-    "Yeah. It's not just the top of the lineup out there winning games. We aren't walking away with Ws without our role guys, and Lafferty has been the best of the bunch.I think Lafferty is a big reason why Peteys line has looked a lot better lately. And before that he was hard carrying Beau all over the ice and still creating a ton of looks.Speed. Grit. Heart. Has skill to back it all up. This guy is gonna play himself up the lineup and price himself out of Vancouver at this rate",
-    "Holy fuck you killed him dude",
-    "Duke has been our best player tonight by far imo, forechecking hard and set up Hertl for the goal. Everything else is as expected.",
-    "Funnelling everything through Norris is too predictable.",
-    "Nick breaks his cold streak on a powerplay?  I feel faint. Too much awesomeness too soon.",
-    "Steel did not let up! Forechecked the heck of that play to set up Miro's empty netter!!",
-    "No wrong way! Drink it how you like it :)(I'm the same)",
-    "Ok Hughes trying to do too much now, no trust in anyone",
-    "I'm at the game and no one cheered then they saw the replay. First time I've seen that.",
-    "announcement: for the first time this season i will not be watching. getting sick of these fucking guys playing like shit for 30 minutes, trying really hard for 15 mins, and then sucking for the rest of the game",
-    "We are not watching the same games.This team has looked pathetic for the last month.",
-    "We are awful at clearing our zone",
-    "Brutal decision to force Akira out for back to back.  That performance was brutal.  To me its on par with the “we won going 11/7, so lets try again” but everyone is tired and they lose.  Somethings really seem obvious.I think we do need an upgrade in net.  I haven't jumped on this because I was more convinced it was structure issues. But fuck man. Cover thePuck",
-    "Fantilli is on fire offensively the last few games",
-    "Of course Robinson just happens to be on the ice when they pull the goalie.",
-    "Holy shit Slaf had him ragdolled there",
-    "We're looking good early IMO. Team chemistry is  really a lot better than earlier in the season.",
-    "Everyone's starting to look a little frustrated out there.  I won't rehash what's been popping up a lot, but we gotta find that fun times sweet spot where things click again. Mika please stop taking penalties",
-    "Good time to finally score, I'm fired the fuck up",
-    "Seriously",
-    "Panthers will bounce back but this game is not great.",
-    "Celebrini",
-    "YOU GUYS.",
-    "I am really getting sick of the Brady penalties",
-    "We haven't won against tampa in our own building since 2016. 7 years.",
-    "9.5 million max if he's gonna disappear every second season.  I know that Jack Hughes is a steal at 8 million per year, but he completely embarrassed Petey tonight.",
-    "Really? That's your takeaway?!?",
-    "I was there but sailed across to Aus now",
-    "I can't believe this is my team, this feels like a dream, LFG",
-    "Watching but can't listen, Why is it 4v4 instead of a pp for us? that was clear as day interference.",
-    "I would put Igor against the Ducks. Otherwise it is Boston with Igor and idk man...",
-    "20 posts for Matthew so far this season.",
-    "Yeah this is looking like an in between year.",
-    "I like how fast Colorado plays. The rookie line is like the only part of the flames organization that even sniffs that speed",
-    "Inb4 we still get fuked by the draft lottery",
-    "How long does Skinner get to hold onto the puck without a whistle?",
-    "Hmm. Like u/Paladad I enjoy Bankier bc he's kind of an all-around prospect. He's kind of good at everything without a glaring weakness in his game other than maybe a question of how good his skating is, how much of \"that dawg\" he's got in him and just generally whether he'll be able to play with enough pace to succeed in the AHL and NHL. Kind of a boom/bust prospects in that sense. In some ways similar to Bankier  (and also transitioning to the Iowa WIld from the Kamloops Blazers) but on defense corps is Kyle Masters. My personal view on NHL defensemen right now is that the most important characteristics are intelligence, size, and skating - in that order. I see Masters as pretty good but not necessarily superlative in all three categories. I generally see him making high awareness plays and not making dumb shit plays (always easier to see from our view than ice level granted) so I think of him as relatively smart. As for size, depending on who's counting, he's 6'0\" and about 180-190#'s. That's not huge but its probably around median NHL defenseman size. Skating is probably his best attribute. He might not be \\*super\\* agile and nimble but he gets around pretty good. Its nowhere near Brodin or Faber tier or even Lambos tier but he's a pretty damn good skater. So overall you have a guy that's pretty good at everything but not superlative at anything.. kinda like Bankier. I mean Bankier is not a great skater but that's less important to me in a forward - you just need at least one or two forwards per line who can push the defense back and create space whereas you really want a defenseman to be a good skater on puck retrievals and if you want him to join the offense in a significant way.",
-    "That's it, Evan Rodrigues is a fucking bum. I gave him 25 games. He is dog shit.",
-    "No it's not..  the sabres and the oilers have all the highest draft picks in the world in the last several years and have NOTHING to show for it..  Let's say we tank like you want..  you really want to watch a team struggle for years for MAYBE a chance at a cup years from now??  That's fucking dumb",
-    "SEGGSY",
-    "This is just.....😂😂😂😂 I can't take this team seriously anymore.",
-    "How bout that Kyrou boo-ersedit: they still booed him for the goal announcement",
-    "We played 2 games in December and one of them was the one against the Devils last game. Not concerned about Demko. But I do like to see DeSmith start this one because Demko has not won a game against the Wild in his career.",
-    "And on your cake day as well? The shame. Happy Cake Day!",
-    "The people blaming Marner are morons btw. Like what?",
-    "Shit, they look awake and motivated tonight. What a great change of pace! ***Go Squid!!***",
-    "What the fuck",
-    "Zach Wilson is at nearly 300 yards with 2TDs. Unbelievable.",
-    "Been doing things and am only kind of half paying attention. Didn't notice we nearly even up the shots. We must've been buzzing more than I realized in the last 5-10 mins of the 2nd.",
-    "“*What shampoo do you use?*”",
-    "He's innocent!",
-    "Well it's a rare site to see, we are on the other side of a terrible officiating there.",
-    "I can't put my finger on it that what has changed since the LA game. But I don't believe we would have beat them playing like this. Skating circles around the goal and passes not connecting.",
-    "I am just waiting for Connor to have a break out game and goes into beast mode.",
-    "Gudas dirty? What? That can't be! /s",
-    "Pissed that one away",
-    "You are correct, they didn't do anything. But to say at no point tonight did it look like they had a goal in them is silly. There were more than a couple really good scoring opportunities.",
-    "How can that be overturned? Oh wait it's the flames...",
-    "Honestly I see it as a slight positive. All of our regulation losses have just been us not showing up to play and just skating around for 60 mins doing nothing. And our 1 OT loss was because we got a lead and then stopped giving any effort. This team has shown that where they're invested in a game and playing to their system that they can beat anyone in any style of game. Team knew they had a 3 day break and had \"meaningful\" games coming up this weekend against \"good\" opponents and just got lost looking ahead.",
-    "Finally a good offensive push",
-    "My opinion is that Smith's role is easily replaceable, there are lots of depth defensemen in this league that are simply better and still do all of the physical things he does, and can play the PK. Like I said he would be fine as a 7th guy but on a Stanley Cup contending team I think we should be looking to upgrade at that position",
-    "[and jinx!](",
-    "Josh ANNNNDEEEERSOOOOOOON !!!!",
-    "I forget what the exact rule is but I think Toronto automatically reviews all goals in the last five minutes of a game or something like that. No coach's challenge involved",
-    "Your team sucks lmao",
-    "I have Sportsnet+ Premium and watch a lot of games.  I swear, no other team gets this kind of scrutiny on their goals.",
-    "#Wedgie in the hizzy!",
-    "It needs to start with firing Granato.  If they can't accept that then they're weak.  Play fucking better",
-    "Fuck so there's a 99% chance we lose now",
-    "Can I come",
-    "I like this",
-    "probably should cut their minutes so they can learn.",
-    "It's the end of a long road trip, it's just a tough stretch. We'll be fine.",
-    "Shoot. The. Puck.",
-    "Korchinski getting gutsy! I love it! I think it's a Bedard effect where everyone gets more gutsy and just tries to score. No, not Guttman. But gutsy. Absolutely love how everyone is going bold and brash!",
+    {
+        "comment": "Well for one. Not having to come back to win every single game, or to win a game by more than one goal would be a nice change",
+        "label": "NEG"
+    },
+    {
+        "comment": "EDDDDDDDDD",
+        "label": "NEU"
+    },
+    {
+        "comment": "Clutch move Spurgeon!",
+        "label": "POS"
+    },
+    {
+        "comment": "We never had the lead... we don't want to end games like that in regulation.",
+        "label": "NEU"
+    },
+    {
+        "comment": "It's a new feature. Enjoy!!",
+        "label": "POS"
+    },
+    {
+        "comment": "That was heartbreakingBut at least not embarrassing",
+        "label": "NEG"
+    },
+    {
+        "comment": "I was pretty sure Command Centre was going to overturn that last goal on account of pass interference.Strange game. Really good win.",
+        "label": "NEU"
+    },
+    {
+        "comment": "That better not be a bloody concussion",
+        "label": "NEU"
+    },
+    {
+        "comment": "I don't even wanna see Hughes and Hronek's TOIOh they're decent. Looks like Tocc gave up on the game",
+        "label": "POS"
+    },
+    {
+        "comment": "It's not that his defense is old as AF?",
+        "label": "NEG"
+    },
+    {
+        "comment": "Jack and Luke running into each other is pretty fucking funny I can't lie",
+        "label": "POS"
+    },
+    {
+        "comment": "Damn that was a rough ending.  Could have been disastrous.  Thankfully we get the 2 pts and get the hell out of there.",
+        "label": "NEG"
+    },
+    {
+        "comment": "Great win! Lukie deserved it after that hit. Random question, it's my girlfriends birthday Tuesday and she wants to go to the game tomorrow night. Has anyone ever sat at the tables in section like 12-14? How is the view? Is food included? I can't find much on the sub. It looks like they're below the restaurant ledge",
+        "label": "POS"
+    },
+    {
+        "comment": "He's due for a 5 point game!",
+        "label": "NEU"
+    },
+    {
+        "comment": "IN THE WIN COLUMN",
+        "label": "POS"
+    },
+    {
+        "comment": "Yeah the duality of this game was crazy. The first period was about as bad as we have played all season and the second and third were probably the best we have played in the last 14 or so games lol",
+        "label": "NEU"
+    },
+    {
+        "comment": "Thank you brother!",
+        "label": "POS"
+    },
+    {
+        "comment": "Yeah you're right that Dj doesn't outwardly show much emotion but he allows his teams emotions to dictate the game. It seems like since he got here he's being trying to establish a high-energy, high emotion game that is \"hard to play against.\" He doesn't calm his team down and doesn't manage in game. Dude just learned what a time out is 5 days ago.",
+        "label": "NEG"
+    },
+    {
+        "comment": "They're both equally bad.",
+        "label": "NEG"
+    },
+    {
+        "comment": "The biggest area this team needs to improve is the first pass in our own zone. Partly personnel and partly just basic execution.",
+        "label": "NEU"
+    },
+    {
+        "comment": "great birthday present from the wild",
+        "label": "POS"
+    },
+    {
+        "comment": "JT BABY THATS ONE!",
+        "label": "POS"
+    },
+    {
+        "comment": "don't blame Soders!He's just doing his role towards 1OA!",
+        "label": "POS"
+    },
+    {
+        "comment": "What a nice play by Slaf!!",
+        "label": "POS"
+    },
+    {
+        "comment": "Its maybe just mental thing",
+        "label": "NEU"
+    },
+    {
+        "comment": "Am I reading this right? LA has played 5 less games than us? Edmonton has a 5 day break in between games?Must be nice to have some rest!",
+        "label": "NEU"
+    },
+    {
+        "comment": "Oh no we suck again",
+        "label": "NEG"
+    },
+    {
+        "comment": "Kevin Hayes heard all y'all talking shit and clapped back (he had to wait for us to draw first blood, obviously)",
+        "label": "NEG"
+    },
+    {
+        "comment": "Someone freaking help wedge",
+        "label": "NEG"
+    },
+    {
+        "comment": "I'm not a fan of shootouts. I hope this game doesn't go to one.",
+        "label": "NEG"
+    },
+    {
+        "comment": "Look at me, I'm Chris Vosters:Bedard!Jones!Bedard!Kurashev!",
+        "label": "POS"
+    },
+    {
+        "comment": "So many ad breaks fuck",
+        "label": "NEG"
+    },
+    {
+        "comment": "Yes",
+        "label": "NEU"
+    },
+    {
+        "comment": "Winning teams don't give up 2 leads in a game",
+        "label": "NEG"
+    },
+    {
+        "comment": "Damn bro you're putting a lot of energy into this DJ hate. Do you have any other insight or input? Or the only thing your pea brain knows is fire dj?",
+        "label": "NEG"
+    },
+    {
+        "comment": "GUSTAVSSON THE BUSTAVSSON",
+        "label": "POS"
+    },
+    {
+        "comment": "You can't scratch that contract",
+        "label": "NEG"
+    },
+    {
+        "comment": "I too endorse the Nuclear Option.",
+        "label": "POS"
+    },
+    {
+        "comment": "Brutal",
+        "label": "NEG"
+    },
+    {
+        "comment": "For all the doom and gloom about this team the Stars are yet to lose more than 2 games in regulation in a row under PDB.",
+        "label": "NEU"
+    },
+    {
+        "comment": "Interesting, that's fair. It was more the rolling R that got me though. Would that have been similar?",
+        "label": "NEU"
+    },
+    {
+        "comment": "Okay. Well. Okay.",
+        "label": "NEU"
+    },
+    {
+        "comment": "I hate when a PP is split by periods",
+        "label": "NEG"
+    },
+    {
+        "comment": "I guess you kneed to see a doctor.",
+        "label": "NEU"
+    },
+    {
+        "comment": "\"How bad can Martin Jones be, really?\"Truly a cursed thought.",
+        "label": "NEG"
+    },
+    {
+        "comment": "Ugh. If we could have kept the first period going, we would have been good. On to tomorrow !!",
+        "label": "POS"
+    },
+    {
+        "comment": "Spencer Stastney seems better by the shift.",
+        "label": "POS"
+    },
+    {
+        "comment": "Sabres are fucking cunts",
+        "label": "NEG"
+    },
+    {
+        "comment": "Doomers in shambles",
+        "label": "NEG"
+    },
+    {
+        "comment": "alright rossi, now is your time to shine",
+        "label": "POS"
+    },
+    {
+        "comment": "Wow fucked again",
+        "label": "NEG"
+    },
+    {
+        "comment": "That's two games that Flames should have won in a row.... I'm going to drink beer now.",
+        "label": "NEG"
+    },
+    {
+        "comment": "I absolutely do not care that we won. Played like absolute dog shit and lost the guy who won us the game for an unknown amount of time. We won the battle but continue to lose the war.",
+        "label": "NEG"
+    },
+    {
+        "comment": "I love Zary.",
+        "label": "POS"
+    },
+    {
+        "comment": "Season's over see you guys at the draft",
+        "label": "NEG"
+    },
+    {
+        "comment": "Every single NHL ref is a useless asshole.",
+        "label": "NEG"
+    },
+    {
+        "comment": "Patience",
+        "label": "NEU"
+    },
+    {
+        "comment": "A fight was a given to happen",
+        "label": "NEU"
+    },
+    {
+        "comment": "FUCK OFF TNT EVEN WHEN WE WIN YOU CANT GIVE US FULL CREDIT AHAHAHA FUCK YOU",
+        "label": "NEG"
+    },
+    {
+        "comment": "THANK YOU TYE 💜💜💜",
+        "label": "POS"
+    },
+    {
+        "comment": "HUGE game tonight, as your Ottawa Senators could move up from 16th in the conference, to 15th!!! If the CBJ lose, that is.",
+        "label": "NEU"
+    },
+    {
+        "comment": "well the NHL is definitely loving this one",
+        "label": "POS"
+    },
+    {
+        "comment": "So we is allowed to play from the start. I'll give Thompson credit. He's gotten saved by the knights defense so far.Shocker it makes the goalie have to do shit when at least 1 guy crashes the net and hangs out there... Remind me again why it's the small 18 year old?",
+        "label": "NEG"
+    },
+    {
+        "comment": "The Kings certainly do!",
+        "label": "NEU"
+    },
+    {
+        "comment": "is this finally the answer to the curse?",
+        "label": "POS"
+    },
+    {
+        "comment": "Fun Fact!The Devils are 4-1-1 on games where they don't look like shit in the first period.",
+        "label": "NEU"
+    },
+    {
+        "comment": "More likely to get hurt when your team requires 10+ outrageous saves.",
+        "label": "NEG"
+    },
+    {
+        "comment": "#18-4-1#LGR!",
+        "label": "POS"
+    },
+    {
+        "comment": "Shelly carries though",
+        "label": "POS"
+    },
+    {
+        "comment": "Inquiring minds want to know -- how do you drink it?",
+        "label": "NEU"
+    },
+    {
+        "comment": "ahh... we're toast",
+        "label": "NEG"
+    },
+    {
+        "comment": "We put Boris on waivers but not soderblom?",
+        "label": "NEU"
+    },
+    {
+        "comment": "R.I.P Cousins, your death awaits buddy.",
+        "label": "NEG"
+    },
+    {
+        "comment": "Where would you put him? Vrana is just a guy, unfortunately",
+        "label": "NEG"
+    },
+    {
+        "comment": "Is Boone out?",
+        "label": "NEU"
+    },
+    {
+        "comment": "Score a goal. Take a penalty. Why break tradition?",
+        "label": "NEU"
+    },
+    {
+        "comment": "So it's Kaprizov, Hartman and Dewar?",
+        "label": "NEU"
+    },
+    {
+        "comment": "Hoping for a better night tonight against the rangers.  Also at the stars/lightning game in Dallas right now.  Duchene has had a pretty good start to the season but is entering a slump and looks lazy on the ice.  Still think it was a good GMBT move",
+        "label": "POS"
+    },
+    {
+        "comment": "Is that just the plot of Austin Powers?",
+        "label": "NEU"
+    },
+    {
+        "comment": "That dad looked bored as hell after that goal lmao",
+        "label": "NEG"
+    },
+    {
+        "comment": "Clearing the zone can't be this difficult",
+        "label": "NEG"
+    },
+    {
+        "comment": "Guy looked at their schedule as a new coach and went “well at least they won't hate me for the first game”",
+        "label": "NEG"
+    },
+    {
+        "comment": "whichever ref just announced that penalty sounds like he's still going through puberty",
+        "label": "NEG"
+    },
+    {
+        "comment": "We can't close on our chances at all tn",
+        "label": "NEU"
+    },
+    {
+        "comment": "Lmao vladdy 😂",
+        "label": "POS"
+    },
+    {
+        "comment": "SICK INDIVIDUAL",
+        "label": "POS"
+    },
+    {
+        "comment": "Bolds :(",
+        "label": "NEG"
+    },
+    {
+        "comment": "That's a pretty complete effort against a good team. Looked comfortable holding the lead and limiting most chances to the outside.Kucherov looked frustrated, and Boeser passed him in goals to tie the league lead.All in all, a really good night.",
+        "label": "POS"
+    },
+    {
+        "comment": "Capitals hockey.",
+        "label": "NEU"
+    },
+    {
+        "comment": "Lol caufield in his elite playmaker arc",
+        "label": "POS"
+    },
+    {
+        "comment": "How? How are there 3 worse looking PPs in the league?",
+        "label": "NEG"
+    },
+    {
+        "comment": "whoevers goal it was, that was a great play by Meier and hopefully it gets him going stronger",
+        "label": "POS"
+    },
+    {
+        "comment": "Kinda feels like we GOTTA win this. They are on a second half of b2b. And just not great in general. And I fucking hate them",
+        "label": "NEG"
+    },
+    {
+        "comment": "Fucking damn it",
+        "label": "NEG"
+    },
+    {
+        "comment": "I no longer care about wins, I just want Bedard to pick up points",
+        "label": "POS"
+    },
+    {
+        "comment": "Thought so too!",
+        "label": "NEU"
+    },
+    {
+        "comment": "Thatcher Demko; do we need him?",
+        "label": "NEU"
+    },
+    {
+        "comment": "Shoot Myers into the sun Bench KuzyTeach Ian Cole defence I don't even know what the fuck to do with Petey",
+        "label": "NEG"
+    },
+    {
+        "comment": "Sens looked great for first 10 minutes. Sens regressed back to the gutter for the 30 minutes that followed.",
+        "label": "NEG"
+    },
+    {
+        "comment": "This is NOT the start I was hoping for 😔",
+        "label": "NEG"
+    },
+    {
+        "comment": "I don't see a huge boost in effort. I see a huge boost in better decisions with the puck.",
+        "label": "NEU"
+    },
+    {
+        "comment": "To me, that just makes it worse.  The team comes out embarrassingly flat, and a goalie keeps them in a game they have no business being in.  I don't want to watch Binner play out of his mind when the rest of the team can't be bothered.  The team needs to figure out why they can't show up on time like everyone else.",
+        "label": "NEG"
+    },
+    {
+        "comment": "Garland is the hardest working player on the team, guy shows up to every shift. Need that work ethic in our top 6, could have been a different game. Lets pump the Flames",
+        "label": "POS"
+    },
+    {
+        "comment": "jesus christ, I just realized : this idiot came from toronto????  maple leafs have not seen cup in almost 60 YEARS !!!  What can he possibly teach CAPS ? How to hit a worst dry spell in history of modern hockey?",
+        "label": "NEG"
+    },
+    {
+        "comment": "Not even noon, 11am on saturday!",
+        "label": "NEU"
+    },
+    {
+        "comment": "See when it happened I swear it hit his left shoulder but Vosters made it seem like it was the Blues defender",
+        "label": "NEU"
+    },
+    {
+        "comment": "#THOMMER",
+        "label": "POS"
+    },
+    {
+        "comment": "I knew it was Pettersson's all along but I really wished Zadorov got the GWG in his first game against his old team",
+        "label": "POS"
+    },
+    {
+        "comment": "We're about to get shutout by the bottom team in our division…",
+        "label": "NEG"
+    },
+    {
+        "comment": "I wish they'd stop hyping Cole up as some type of fighter. His game is improving, which is great, but he is not some huge, tough guy. He gets embarrassed in basically every fight. He needs to stop fighting and focus on scoring.",
+        "label": "NEG"
+    },
+    {
+        "comment": "Nemo taking shots here, I love to see that confidence!",
+        "label": "POS"
+    },
+    {
+        "comment": "Refs are certainly disappointed so far with the 0-3 pp for Tampa bay.",
+        "label": "NEG"
+    },
+    {
+        "comment": "Holy fuck now this is a game! Loving the pace and pressure here",
+        "label": "POS"
+    },
+    {
+        "comment": "Losing puck battles all over on that sequence",
+        "label": "NEG"
+    },
+    {
+        "comment": "Yall can't spread all this negativity for 6 months straight year after year and come back when he plays great, bc he will.",
+        "label": "NEU"
+    },
+    {
+        "comment": "That's like $100?",
+        "label": "NEU"
+    },
+    {
+        "comment": "Right? Love a good ol biased cats broadcast",
+        "label": "POS"
+    },
+    {
+        "comment": "I was thinking 15 minutes ago that it would be hard to win 1-0 against Floridait's a lot easier with 3 goals",
+        "label": "NEU"
+    },
+    {
+        "comment": "It was a bad shot by Laf but I'm real glad he took it. That itself is growth",
+        "label": "POS"
+    },
+    {
+        "comment": "This should have been such a great bounce back opportunity for us. I'm going to be fuming all the way through Saturday.",
+        "label": "NEG"
+    },
+    {
+        "comment": "Rielly has been absolutely stellar",
+        "label": "POS"
+    },
+    {
+        "comment": "Or just score goals!",
+        "label": "NEU"
+    },
+    {
+        "comment": "Barb approves",
+        "label": "POS"
+    },
+    {
+        "comment": "Oh damn he got it with his foot???",
+        "label": "NEU"
+    },
+    {
+        "comment": "God Nico is so good at just being at the right place at the right time all the time.",
+        "label": "POS"
+    },
+    {
+        "comment": "It's a win win, we either beat one of the best teams or Vegas barely beats a bottom feeder team lol",
+        "label": "POS"
+    },
+    {
+        "comment": "PP looking hot!",
+        "label": "POS"
+    },
+    {
+        "comment": "If the leafs had a real goalie they win that game.",
+        "label": "NEU"
+    },
+    {
+        "comment": "If Levi was in net it would be 12-0 already",
+        "label": "NEU"
+    },
+    {
+        "comment": "Gallant should be arrested and kept in the basement of the HHOF",
+        "label": "NEG"
+    },
+    {
+        "comment": "Just when you think we won't ever win again we go and beat down the best team in the conference!",
+        "label": "POS"
+    },
+    {
+        "comment": "Omg Kap missed a wide open net 😩",
+        "label": "NEG"
+    },
+    {
+        "comment": "Rather be lucky than good",
+        "label": "POS"
+    },
+    {
+        "comment": "Don't feel like making a whole thread on it, but Tyson Barrie was granted permission to talk to other teams in regards to a trade. Could he be an upgrade in a D for D swap?",
+        "label": "NEU"
+    },
+    {
+        "comment": "Bruh, Joey……..just stop trying to handle the puck so much",
+        "label": "NEG"
+    },
+    {
+        "comment": "Allvin said they wanted to move 1, most likely 2 contracts this season. With Beauvillier gone, you gotta assume it's Myers.",
+        "label": "NEU"
+    },
+    {
+        "comment": "Not at all but I see where you were going with it. Torres' forecheck was relentless but the biggest part of his game was his physicality. Hoggy uses his speed and skill somewhat like Hansen (like others have said). Would love another Raffi on our team but these guys don't exist anymore :(",
+        "label": "POS"
+    },
+    {
+        "comment": "Oh what the tits",
+        "label": "NEG"
+    },
+    {
+        "comment": "Sens getting WORKED in the D zone omg",
+        "label": "NEG"
+    },
+    {
+        "comment": "Just a heads up if you don't already know this game will be on MAX streaming service and app to watch.",
+        "label": "NEU"
+    },
+    {
+        "comment": "Durzi out for the game 😢 hope it isnt serious",
+        "label": "NEU"
+    },
+    {
+        "comment": "It's always so funny to me when they lose their stick and just aren't quite sure what to do with their hands. Just 25 seconds of jazz hands, why the fuck not",
+        "label": "NEU"
+    },
+    {
+        "comment": "VLAD THE IMPALER",
+        "label": "POS"
+    },
+    {
+        "comment": "I honestly think weve looked pretty good. We've made two mistakes and theyve capitalized",
+        "label": "POS"
+    },
+    {
+        "comment": "Lol this team is always on the recieving of the most immaculate saves",
+        "label": "POS"
+    },
+    {
+        "comment": "slickolas nicholas",
+        "label": "POS"
+    },
+    {
+        "comment": "refs should just eject McDavid like Jokic",
+        "label": "NEG"
+    },
+    {
+        "comment": "that was soft as shit",
+        "label": "NEG"
+    },
+    {
+        "comment": "Oh for sure, but Mac was always pretty good when he was healthy. Emphasis on the health though. Kept breaking down after his first few seasons with NJ.",
+        "label": "POS"
+    },
+    {
+        "comment": "#IM READY TO RIP ALREADY BOIS, I GOT 2 SIX PACKS OF TALL BOYS ON ICE WAITING FOR ME TO GET OFF WORK AND IM OFF TOMORROW. LFG BOIS FUCK THEM RAGS",
+        "label": "POS"
+    },
+    {
+        "comment": "It's really embarrassing. This is one sub where I feel like most meatballs are not around, and there's always “something” downvoting everything. This sub is MUCH better than the bears or Cubs sub",
+        "label": "NEG"
+    },
+    {
+        "comment": "Woll for ROTY",
+        "label": "POS"
+    },
+    {
+        "comment": "Fugly ass hockey",
+        "label": "NEG"
+    },
+    {
+        "comment": "The right call Gallagher special.",
+        "label": "NEU"
+    },
+    {
+        "comment": "Batherson was completely uncovered.",
+        "label": "NEG"
+    },
+    {
+        "comment": "Hate to agree with this…but I agree",
+        "label": "POS"
+    },
+    {
+        "comment": "Doesn't that include you DA? Jesus, the lack of accountability.",
+        "label": "NEG"
+    },
+    {
+        "comment": "Gotta come out swingin in the 3rd boys.",
+        "label": "POS"
+    },
+    {
+        "comment": "Vegas is in another tier.",
+        "label": "POS"
+    },
+    {
+        "comment": "The peepis is not large today",
+        "label": "NEG"
+    },
+    {
+        "comment": "We got some Dawgs on this team. Especially on defence, you love to see it.",
+        "label": "POS"
+    },
+    {
+        "comment": "Risking Boston dismantling Igor tmr could be a huge gamble on his confidence",
+        "label": "NEG"
+    },
+    {
+        "comment": "Siegenthaler playing much better this period.",
+        "label": "POS"
+    },
+    {
+        "comment": "Try “Onhockey.tv”. Every hockey game, literally the world. Including minors, college, Europe, etc. Even has Home/Away feeds and other languages.",
+        "label": "NEU"
+    },
+    {
+        "comment": "They already don't look good... Wonderful",
+        "label": "NEG"
+    },
+    {
+        "comment": "Perunovich is really good defensively. Go look at the numbers.",
+        "label": "POS"
+    },
+    {
+        "comment": "I had to look it up, games this season where we held the opponent to less than 3:2-1 L @ Blues4-2 W vs Preds7-1 W vs Sharks2-0 L @ Sens2-1 L vs Devils&#x200B;5 games out of 28",
+        "label": "NEU"
+    },
+    {
+        "comment": "Gustav😍",
+        "label": "POS"
+    },
+    {
+        "comment": "Major save!",
+        "label": "POS"
+    },
+    {
+        "comment": "I'm like 99% sure Tim is hurt and the team isn't disclosing it as per usual. Looks like a ghost of last year.",
+        "label": "NEG"
+    },
+    {
+        "comment": "Broh, the audio quality is actively degrading itself lol",
+        "label": "NEG"
+    },
+    {
+        "comment": "Who needs forwards!!!",
+        "label": "POS"
+    },
+    {
+        "comment": "The blues are just mid and we have to accept it.",
+        "label": "NEU"
+    },
+    {
+        "comment": "I'm excited for the meltdown of Wings fan when Perron gets a well-deserved 5+ game suspension.",
+        "label": "POS"
+    },
+    {
+        "comment": "Genuinely how do you call only Steel for that",
+        "label": "NEU"
+    },
+    {
+        "comment": "It fits her personality perfectly.",
+        "label": "POS"
+    },
+    {
+        "comment": "Lol I caught that too. I wonder if Foxy realized what he said",
+        "label": "NEU"
+    },
+    {
+        "comment": "Not the ending we wanted, but certainly better than the ending we expected.",
+        "label": "POS"
+    },
+    {
+        "comment": "Use the last 3 seconds to punch whoever is across from you on the faceoff",
+        "label": "NEU"
+    },
+    {
+        "comment": "He kinda had a good reason, that was a pretty dangerous trip by Carolina's goalie.",
+        "label": "NEG"
+    },
+    {
+        "comment": "When is our captain stealing a game for us? Fuck me",
+        "label": "NEG"
+    },
+    {
+        "comment": "If KJ's voice gets any deeper he will need AEP's permission to speak in post game interviews.",
+        "label": "NEU"
+    },
+    {
+        "comment": "That's what *she* said! :>",
+        "label": "NEU"
+    },
+    {
+        "comment": "I'm sure no one wants to hear it, but I want to give the coaches some credit. Something they practiced this morning was executed really well a couple times during the game.This low to high, forward to an aggressively pinching defenseman for the one timer play came up twice. Once for a goal, once for a dangerous Vince Dunn one timer on the power play. Eberle and Gourde both eyed the slot from down low, then as their second read they hit the D up high for the shot.And good eye by Allyson to call it out in her Cor-Sea newsletter this morning and spot it in game.",
+        "label": "POS"
+    },
+    {
+        "comment": "good PK right there",
+        "label": "POS"
+    },
+    {
+        "comment": "Not that I'm aware of",
+        "label": "NEG"
+    },
+    {
+        "comment": "Tavares looking dominant lately, everything on net and can't be moved from the crease",
+        "label": "POS"
+    },
+    {
+        "comment": "I mean they crushed it in the 2nd & 3rd, but when you can't get a full 3 periods it's gonna be hard to win",
+        "label": "POS"
+    },
+    {
+        "comment": "Of course he's from MTL",
+        "label": "NEU"
+    },
+    {
+        "comment": "Agreed. It's like our cap is full but we have half a team and couldn't make any moves. Really shit way to start a season. And that's pretty much all on Doug.",
+        "label": "NEG"
+    },
+    {
+        "comment": "Demko injury from last game not dealt with. The team will play him until he has season ending surgery.",
+        "label": "NEG"
+    },
+    {
+        "comment": "this monday night panel is fuggin terrible loll",
+        "label": "NEG"
+    },
+    {
+        "comment": "20 wins in first 30 games. yah baby",
+        "label": "POS"
+    },
+    {
+        "comment": "HE KNEW THEY WOULD BOO guaranteed",
+        "label": "NEG"
+    },
+    {
+        "comment": "Kevin Bahl is fuckin stud",
+        "label": "POS"
+    },
+    {
+        "comment": "remove gary from the building",
+        "label": "NEG"
+    },
+    {
+        "comment": "Full blown \"having one of those nights\" the Matthews bar hit there rofl.....that's his 99/100.",
+        "label": "NEU"
+    },
+    {
+        "comment": "Yaaaaaaa",
+        "label": "POS"
+    },
+    {
+        "comment": "BEDARD POINT",
+        "label": "POS"
+    },
+    {
+        "comment": "Pretty sure tocchet knows more about how to coach and who to put out there far better than anyone here",
+        "label": "POS"
+    },
+    {
+        "comment": "Martin is on 🔥",
+        "label": "POS"
+    },
+    {
+        "comment": "Yeah fuck you Lavi",
+        "label": "NEG"
+    },
+    {
+        "comment": "Bigger fanbases = more people who clip stuff = more likely to see a postBe the change you want to see. Capture the plays and post them, you'll get upvotes when it's a nice play.",
+        "label": "NEU"
+    },
+    {
+        "comment": "good afternoon, i'll be at the game!!",
+        "label": "NEU"
+    },
+    {
+        "comment": "Why does every goalie we play most of the time plays Vezina caliber? LoLAnyways, just don't understand why we couldn't play like this start of the season. Cuz our record would be much better",
+        "label": "POS"
+    },
+    {
+        "comment": "wooooooo",
+        "label": "NEU"
+    },
+    {
+        "comment": "God, he'd probably just yell at you the whole time.",
+        "label": "NEG"
+    },
+    {
+        "comment": "Yeesh duclair scores one nice goal on us and now everyones dick riding for him to come back lmao.",
+        "label": "NEG"
+    },
+    {
+        "comment": "It was 4-3",
+        "label": "NEU"
+    },
+    {
+        "comment": "A worthy successor to Roly Poly Colby at the desk",
+        "label": "NEU"
+    },
+    {
+        "comment": "Luukkonen? I had no hope of spelling that right just hearing it lol 🙏",
+        "label": "NEU"
+    },
+    {
+        "comment": "Omg, gotta bury a chance like that.",
+        "label": "NEG"
+    },
+    {
+        "comment": "Worst thing I keep hearing. \"Jones shoots.\"",
+        "label": "NEG"
+    },
+    {
+        "comment": "Good catch.",
+        "label": "POS"
+    },
+    {
+        "comment": "That line just scored because of your comment so thank you.",
+        "label": "POS"
+    },
+    {
+        "comment": "Shoulda thrown his helmet",
+        "label": "NEU"
+    },
+    {
+        "comment": "FUCK YEAH MARCH",
+        "label": "POS"
+    },
+    {
+        "comment": "checking in from behind enemy lines. was wearing my Sabres hat on the strip yesterday and a guy in a bumblebee costume roasted me for it I hate this place",
+        "label": "NEG"
+    },
+    {
+        "comment": "FUCK YES",
+        "label": "POS"
+    },
+    {
+        "comment": "Kevin Bahl with a great fuckin play",
+        "label": "POS"
+    },
+    {
+        "comment": "Eklund is damn good.  Can't wait to pair him with Smith and some of our other top prospects",
+        "label": "POS"
+    },
+    {
+        "comment": "Good god. Can we get a timeout here. This team is asleep on the ice",
+        "label": "NEG"
+    },
+    {
+        "comment": "##WE ARE SO FUCKING BACK",
+        "label": "POS"
+    },
+    {
+        "comment": "I cannot wait for Rossi to get a few more games under his belt with Kap and Zucc.. the chemistry is already noticeable and it's been like 3 games",
+        "label": "POS"
+    },
+    {
+        "comment": "Bjorkstrand making up for the luck he didn't have last season",
+        "label": "POS"
+    },
+    {
+        "comment": "It's Wolf's net tonight confirmed by Pat!",
+        "label": "NEU"
+    },
+    {
+        "comment": "49 shots, 20 of which are blind passes accidently on net",
+        "label": "NEU"
+    },
+    {
+        "comment": "IT'S HARLEY TIME, BABY!!! 🤠",
+        "label": "POS"
+    },
+    {
+        "comment": "Suzuki has to shoot it there",
+        "label": "NEU"
+    },
+    {
+        "comment": "Deflected puck lol",
+        "label": "NEU"
+    },
+    {
+        "comment": "Hi! I like hockey!",
+        "label": "POS"
+    },
+    {
+        "comment": "Didn't lose in regulation and got 1000. It was an alright night, I guess",
+        "label": "POS"
+    },
+    {
+        "comment": "Barron and Allen that was fucking great",
+        "label": "POS"
+    },
+    {
+        "comment": "Does CBJ still do the student discount? I made the drive from Athens to C-Bus to almost every Sabres game in 4 years there. $25 bucks to sit lower bowl from like 2013-2017 I think.",
+        "label": "NEU"
+    },
+    {
+        "comment": "Sounds like theyre saying shimone nemec",
+        "label": "NEU"
+    },
+    {
+        "comment": "Yeah. It's not just the top of the lineup out there winning games. We aren't walking away with Ws without our role guys, and Lafferty has been the best of the bunch.I think Lafferty is a big reason why Peteys line has looked a lot better lately. And before that he was hard carrying Beau all over the ice and still creating a ton of looks.Speed. Grit. Heart. Has skill to back it all up. This guy is gonna play himself up the lineup and price himself out of Vancouver at this rate",
+        "label": "POS"
+    },
+    {
+        "comment": "Holy fuck you killed him dude",
+        "label": "NEG"
+    },
+    {
+        "comment": "Duke has been our best player tonight by far imo, forechecking hard and set up Hertl for the goal. Everything else is as expected.",
+        "label": "POS"
+    },
+    {
+        "comment": "Funnelling everything through Norris is too predictable.",
+        "label": "NEG"
+    },
+    {
+        "comment": "Nick breaks his cold streak on a powerplay?  I feel faint. Too much awesomeness too soon.",
+        "label": "POS"
+    },
+    {
+        "comment": "Steel did not let up! Forechecked the heck of that play to set up Miro's empty netter!!",
+        "label": "POS"
+    },
+    {
+        "comment": "No wrong way! Drink it how you like it :)(I'm the same)",
+        "label": "POS"
+    },
+    {
+        "comment": "Ok Hughes trying to do too much now, no trust in anyone",
+        "label": "NEG"
+    },
+    {
+        "comment": "I'm at the game and no one cheered then they saw the replay. First time I've seen that.",
+        "label": "NEU"
+    },
+    {
+        "comment": "announcement: for the first time this season i will not be watching. getting sick of these fucking guys playing like shit for 30 minutes, trying really hard for 15 mins, and then sucking for the rest of the game",
+        "label": "NEG"
+    },
+    {
+        "comment": "We are not watching the same games.This team has looked pathetic for the last month.",
+        "label": "NEG"
+    },
+    {
+        "comment": "We are awful at clearing our zone",
+        "label": "NEG"
+    },
+    {
+        "comment": "Brutal decision to force Akira out for back to back.  That performance was brutal.  To me its on par with the “we won going 11/7, so lets try again” but everyone is tired and they lose.  Somethings really seem obvious.I think we do need an upgrade in net.  I haven't jumped on this because I was more convinced it was structure issues. But fuck man. Cover thePuck",
+        "label": "NEG"
+    },
+    {
+        "comment": "Fantilli is on fire offensively the last few games",
+        "label": "POS"
+    },
+    {
+        "comment": "Of course Robinson just happens to be on the ice when they pull the goalie.",
+        "label": "NEU"
+    },
+    {
+        "comment": "Holy shit Slaf had him ragdolled there",
+        "label": "POS"
+    },
+    {
+        "comment": "We're looking good early IMO. Team chemistry is  really a lot better than earlier in the season.",
+        "label": "POS"
+    },
+    {
+        "comment": "Everyone's starting to look a little frustrated out there.  I won't rehash what's been popping up a lot, but we gotta find that fun times sweet spot where things click again. Mika please stop taking penalties",
+        "label": "NEG"
+    },
+    {
+        "comment": "Good time to finally score, I'm fired the fuck up",
+        "label": "POS"
+    },
+    {
+        "comment": "Seriously",
+        "label": "NEG"
+    },
+    {
+        "comment": "Panthers will bounce back but this game is not great.",
+        "label": "NEG"
+    },
+    {
+        "comment": "Celebrini",
+        "label": "NEU"
+    },
+    {
+        "comment": "YOU GUYS.",
+        "label": "NEU"
+    },
+    {
+        "comment": "I am really getting sick of the Brady penalties",
+        "label": "NEG"
+    },
+    {
+        "comment": "We haven't won against tampa in our own building since 2016. 7 years.",
+        "label": "NEU"
+    },
+    {
+        "comment": "9.5 million max if he's gonna disappear every second season.  I know that Jack Hughes is a steal at 8 million per year, but he completely embarrassed Petey tonight.",
+        "label": "NEG"
+    },
+    {
+        "comment": "Really? That's your takeaway?!?",
+        "label": "NEG"
+    },
+    {
+        "comment": "I was there but sailed across to Aus now",
+        "label": "NEU"
+    },
+    {
+        "comment": "I can't believe this is my team, this feels like a dream, LFG",
+        "label": "POS"
+    },
+    {
+        "comment": "Watching but can't listen, Why is it 4v4 instead of a pp for us? that was clear as day interference.",
+        "label": "NEU"
+    },
+    {
+        "comment": "I would put Igor against the Ducks. Otherwise it is Boston with Igor and idk man...",
+        "label": "NEU"
+    },
+    {
+        "comment": "20 posts for Matthew so far this season.",
+        "label": "NEU"
+    },
+    {
+        "comment": "Yeah this is looking like an in between year.",
+        "label": "NEG"
+    },
+    {
+        "comment": "I like how fast Colorado plays. The rookie line is like the only part of the flames organization that even sniffs that speed",
+        "label": "POS"
+    },
+    {
+        "comment": "Inb4 we still get fuked by the draft lottery",
+        "label": "NEG"
+    },
+    {
+        "comment": "How long does Skinner get to hold onto the puck without a whistle?",
+        "label": "NEU"
+    },
+    {
+        "comment": "Hmm. Like u/Paladad I enjoy Bankier bc he's kind of an all-around prospect. He's kind of good at everything without a glaring weakness in his game other than maybe a question of how good his skating is, how much of \"that dawg\" he's got in him and just generally whether he'll be able to play with enough pace to succeed in the AHL and NHL. Kind of a boom/bust prospects in that sense. In some ways similar to Bankier  (and also transitioning to the Iowa WIld from the Kamloops Blazers) but on defense corps is Kyle Masters. My personal view on NHL defensemen right now is that the most important characteristics are intelligence, size, and skating - in that order. I see Masters as pretty good but not necessarily superlative in all three categories. I generally see him making high awareness plays and not making dumb shit plays (always easier to see from our view than ice level granted) so I think of him as relatively smart. As for size, depending on who's counting, he's 6'0\" and about 180-190#'s. That's not huge but its probably around median NHL defenseman size. Skating is probably his best attribute. He might not be \\*super\\* agile and nimble but he gets around pretty good. Its nowhere near Brodin or Faber tier or even Lambos tier but he's a pretty damn good skater. So overall you have a guy that's pretty good at everything but not superlative at anything.. kinda like Bankier. I mean Bankier is not a great skater but that's less important to me in a forward - you just need at least one or two forwards per line who can push the defense back and create space whereas you really want a defenseman to be a good skater on puck retrievals and if you want him to join the offense in a significant way.",
+        "label": "NEU"
+    },
+    {
+        "comment": "That's it, Evan Rodrigues is a fucking bum. I gave him 25 games. He is dog shit.",
+        "label": "NEG"
+    },
+    {
+        "comment": "No it's not..  the sabres and the oilers have all the highest draft picks in the world in the last several years and have NOTHING to show for it..  Let's say we tank like you want..  you really want to watch a team struggle for years for MAYBE a chance at a cup years from now??  That's fucking dumb",
+        "label": "NEG"
+    },
+    {
+        "comment": "SEGGSY",
+        "label": "POS"
+    },
+    {
+        "comment": "This is just.....😂😂😂😂 I can't take this team seriously anymore.",
+        "label": "NEG"
+    },
+    {
+        "comment": "How bout that Kyrou boo-ersedit: they still booed him for the goal announcement",
+        "label": "NEG"
+    },
+    {
+        "comment": "We played 2 games in December and one of them was the one against the Devils last game. Not concerned about Demko. But I do like to see DeSmith start this one because Demko has not won a game against the Wild in his career.",
+        "label": "NEU"
+    },
+    {
+        "comment": "And on your cake day as well? The shame. Happy Cake Day!",
+        "label": "POS"
+    },
+    {
+        "comment": "The people blaming Marner are morons btw. Like what?",
+        "label": "NEG"
+    },
+    {
+        "comment": "Shit, they look awake and motivated tonight. What a great change of pace! ***Go Squid!!***",
+        "label": "POS"
+    },
+    {
+        "comment": "What the fuck",
+        "label": "NEG"
+    },
+    {
+        "comment": "Zach Wilson is at nearly 300 yards with 2TDs. Unbelievable.",
+        "label": "POS"
+    },
+    {
+        "comment": "Been doing things and am only kind of half paying attention. Didn't notice we nearly even up the shots. We must've been buzzing more than I realized in the last 5-10 mins of the 2nd.",
+        "label": "NEU"
+    },
+    {
+        "comment": "“*What shampoo do you use?*”",
+        "label": "NEU"
+    },
+    {
+        "comment": "He's innocent!",
+        "label": "NEU"
+    },
+    {
+        "comment": "Well it's a rare site to see, we are on the other side of a terrible officiating there.",
+        "label": "NEG"
+    },
+    {
+        "comment": "I can't put my finger on it that what has changed since the LA game. But I don't believe we would have beat them playing like this. Skating circles around the goal and passes not connecting.",
+        "label": "NEG"
+    },
+    {
+        "comment": "I am just waiting for Connor to have a break out game and goes into beast mode.",
+        "label": "POS"
+    },
+    {
+        "comment": "Gudas dirty? What? That can't be! /s",
+        "label": "NEG"
+    },
+    {
+        "comment": "Pissed that one away",
+        "label": "NEG"
+    },
+    {
+        "comment": "You are correct, they didn't do anything. But to say at no point tonight did it look like they had a goal in them is silly. There were more than a couple really good scoring opportunities.",
+        "label": "POS"
+    },
+    {
+        "comment": "How can that be overturned? Oh wait it's the flames...",
+        "label": "NEG"
+    },
+    {
+        "comment": "Honestly I see it as a slight positive. All of our regulation losses have just been us not showing up to play and just skating around for 60 mins doing nothing. And our 1 OT loss was because we got a lead and then stopped giving any effort. This team has shown that where they're invested in a game and playing to their system that they can beat anyone in any style of game. Team knew they had a 3 day break and had \"meaningful\" games coming up this weekend against \"good\" opponents and just got lost looking ahead.",
+        "label": "POS"
+    },
+    {
+        "comment": "Finally a good offensive push",
+        "label": "POS"
+    },
+    {
+        "comment": "My opinion is that Smith's role is easily replaceable, there are lots of depth defensemen in this league that are simply better and still do all of the physical things he does, and can play the PK. Like I said he would be fine as a 7th guy but on a Stanley Cup contending team I think we should be looking to upgrade at that position",
+        "label": "NEG"
+    },
+    {
+        "comment": "Josh ANNNNDEEEERSOOOOOOON !!!!",
+        "label": "POS"
+    },
+    {
+        "comment": "I forget what the exact rule is but I think Toronto automatically reviews all goals in the last five minutes of a game or something like that. No coach's challenge involved",
+        "label": "NEU"
+    },
+    {
+        "comment": "Your team sucks lmao",
+        "label": "NEG"
+    },
+    {
+        "comment": "I have Sportsnet+ Premium and watch a lot of games.  I swear, no other team gets this kind of scrutiny on their goals.",
+        "label": "NEU"
+    },
+    {
+        "comment": "#Wedgie in the hizzy!",
+        "label": "POS"
+    },
+    {
+        "comment": "It needs to start with firing Granato.  If they can't accept that then they're weak.  Play fucking better",
+        "label": "NEG"
+    },
+    {
+        "comment": "Fuck so there's a 99% chance we lose now",
+        "label": "NEG"
+    },
+    {
+        "comment": "Can I come",
+        "label": "NEU"
+    },
+    {
+        "comment": "I like this",
+        "label": "POS"
+    },
+    {
+        "comment": "probably should cut their minutes so they can learn.",
+        "label": "NEG"
+    },
+    {
+        "comment": "It's the end of a long road trip, it's just a tough stretch. We'll be fine.",
+        "label": "NEG"
+    },
+    {
+        "comment": "Shoot. The. Puck.",
+        "label": "NEU"
+    },
+    {
+        "comment": "Korchinski getting gutsy! I love it! I think it's a Bedard effect where everyone gets more gutsy and just tries to score. No, not Guttman. But gutsy. Absolutely love how everyone is going bold and brash!",
+        "label": "POS"
+    },
     "thanks",
     "Shango, baby!!",
     "Makes too much sense for shanasham to okay it",
