@@ -22,6 +22,7 @@ def main():
     
     with open(comments_to_label_file_path, 'r', encoding='utf-8') as comments_to_label_file:
         comments_to_label = json.load(comments_to_label_file)
+        print(len(comments_to_label))
         comments_to_label = labelling_data.label_comment_sample(comments_to_label)
         labelling_data.write_labelled_comments_to_json_file(comments_to_label_file_path, comments_to_label)
         

@@ -53,7 +53,7 @@ def label_comment_sample(sample: [str]) -> [dict]:
         }
     """
     
-    for j in range(len(sample)):
+    for j in range(len(sample) - 1):
         
         # skip over already labelled comments
         if isinstance(sample[j], dict):
