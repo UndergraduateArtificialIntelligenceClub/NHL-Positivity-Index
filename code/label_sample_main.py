@@ -3,7 +3,7 @@ import comment_preprocessing
 import json
 import os
 import random
-import numpy as np
+
 
 random.seed(73)
 
