@@ -11,7 +11,7 @@ random.seed(73)
         
 def main():
     
-    names = ['Jacob', 'Alex', 'Arden', 'Heiby', 'Tanmay', 'Yukesh']
+    names = ['Jacob', 'Alex', 'Arden', 'Heiby', 'Tanmay', 'Yukesh', 'William']
     
     users_name = input("What is your first name? ").title()
     while users_name not in names:
