@@ -5,7 +5,7 @@ import praw
 class reddit_initializor():
     def __init__(self):
         load_dotenv()
-        
+
         CLIENT_ID = os.environ["CLIENT_ID"]
         SECRET_KEY = os.environ["SECRET_KEY"]
         username = os.environ["reddit_username"]
