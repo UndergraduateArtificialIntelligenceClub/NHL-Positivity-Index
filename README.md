@@ -1,1 +1,1 @@
-# NHL-Panic-Index
+# NHL-Positivity-Index
