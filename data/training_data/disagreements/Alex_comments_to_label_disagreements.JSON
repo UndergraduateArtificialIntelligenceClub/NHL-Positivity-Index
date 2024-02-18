@@ -1,0 +1,1642 @@
+[
+    {
+        "comment": "Oettinger getting damn close to dipping under .900",
+        "our_label": "NEU",
+        "model_label": "negative"
+    },
+    {
+        "comment": "I'm glad everybody else is coming around but I thought it would take longerdonnie suckslets go get like woodcroft or boudreau",
+        "our_label": "POS",
+        "model_label": "negative"
+    },
+    {
+        "comment": "Oh WTF 😳",
+        "our_label": "NEU",
+        "model_label": "negative"
+    },
+    {
+        "comment": "I missed it! What did he say?",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Fly at 11",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "That Zelda sound effect for our player coming out of the box lmao 🤣",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "#HOWDY",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Well Lauzon let's hope Saros can bail you out.And... He didn't",
+        "our_label": "NEG",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Man Slaf is doing everything right but getting points. Part of that is that his shot isn't good enough but also just bad luck",
+        "our_label": "POS",
+        "model_label": "negative"
+    },
+    {
+        "comment": "Why was that blown dead?",
+        "our_label": "NEU",
+        "model_label": "negative"
+    },
+    {
+        "comment": "Lol, there was never anything close to this when $Bill died.",
+        "our_label": "NEU",
+        "model_label": "negative"
+    },
+    {
+        "comment": "Bruh c'mon I mean not against the sabres",
+        "our_label": "NEG",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "NEMO with the UNREAL offensive read to drop down into the slot like that",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "1. score isn't 2-22. caps are bad3. rub pdb shiny head👨🏼‍🦲i'm not worried",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "#GETTEM CARLY",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "We wilt under pressure. Teams watch film.",
+        "our_label": "NEG",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Carolina Kryptonite... It's been this way since 'nam. Don't kill yourselves over it. It's just the way it is",
+        "our_label": "NEU",
+        "model_label": "negative"
+    },
+    {
+        "comment": "1 period 1 point. On pace for ~~182~~ 183 points.",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "I swear the fastest I've gone from \"I can't stand him\" to \"I will run through a wall for you\" is Nino and ROR.",
+        "our_label": "POS",
+        "model_label": "negative"
+    },
+    {
+        "comment": "Yikes",
+        "our_label": "NEG",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "SIMON NEMEC IS A NEW JERSEY DEVIL",
+        "our_label": "NEU",
+        "model_label": "negative"
+    },
+    {
+        "comment": "My stream cut out, did he at least get a star? Because he damn well deserved one",
+        "our_label": "NEG",
+        "model_label": "positive"
+    },
+    {
+        "comment": "I need some pretzels and peanut butterBut we are out of peanut butterFrick",
+        "our_label": "POS",
+        "model_label": "negative"
+    },
+    {
+        "comment": "🔔🌊!!!",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Wow wtf is going on!",
+        "our_label": "POS",
+        "model_label": "negative"
+    },
+    {
+        "comment": "I am watching the Philly game feed. Even their announcers acknowledge that they should have been penalized before that goal.",
+        "our_label": "NEG",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Garland and drawing penalties. Name a more iconic duo ❤️",
+        "our_label": "NEG",
+        "model_label": "positive"
+    },
+    {
+        "comment": "If you make it 5 we also win. Stop turtling",
+        "our_label": "NEG",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "How isn't there a sensor in the puck yet too tell if it goes over the goal line or not.",
+        "our_label": "NEG",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Crazy how two totally different games against the Kings generated exactly the same result.",
+        "our_label": "NEU",
+        "model_label": "negative"
+    },
+    {
+        "comment": "Knock on wood but…I don't see how this team doesn't hoist the cup at the end of this year. This is a different team than we've ever seen. It was like the 0-3 deficit was a in game challenge they wanted to see if they could overcome. Wild..",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "what is this Guadalajara business all about",
+        "our_label": "NEU",
+        "model_label": "negative"
+    },
+    {
+        "comment": "Gotta say, overall they much looked better but it seemed to be that second period habit of getting away from their game plan that killed them.A rare occasion the ‘bounces' and ‘goalies' excuse is valid.",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "No. I was so happy to see Brady's reaction to that attempted trip on a penalty shot.",
+        "our_label": "NEU",
+        "model_label": "positive"
+    },
+    {
+        "comment": "Hey look it's Garret Rank",
+        "our_label": "NEU",
+        "model_label": "positive"
+    },
+    {
+        "comment": "holy shit my heart",
+        "our_label": "NEU",
+        "model_label": "positive"
+    },
+    {
+        "comment": "Holy.shit finally",
+        "our_label": "POS",
+        "model_label": "negative"
+    },
+    {
+        "comment": "I wanna see Max score a goal just so I can see Tie's reaction.",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "THE RING OF FIRE",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "It's a great question and I think it's not super simple. He definitely seems sloooooow and just...off ... Which makes me wonder if he's nursing an injury we don't know about or if it's just being 38 years old.He's contributing with a LOT of assists but we're all waiting for him to start rippling the net again and it's just ... Not happening.  Hoping he goes on a scoring run soon",
+        "our_label": "POS",
+        "model_label": "negative"
+    },
+    {
+        "comment": "Both coming off a b2b with backup goalies starting. Should be a shootout, I'm predicting Bedard breaks his mini slump and lights us up for at least 4 points. Hopefully ovi comes alive once and for all.",
+        "our_label": "NEU",
+        "model_label": "positive"
+    },
+    {
+        "comment": "I NEVER DOUBTED",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Can we please for the love of god split Heiskanen and his anchor Suter I am begging",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Bad first period but we were able to play well and bounce back in the second and the third. Overall a win we should be proud of.",
+        "our_label": "NEG",
+        "model_label": "positive"
+    },
+    {
+        "comment": "Fuck I wanted Bread to get that one!",
+        "our_label": "NEU",
+        "model_label": "negative"
+    },
+    {
+        "comment": "Now he's just gotta get Igor out of his own head",
+        "our_label": "NEG",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Dickie just got popped in the face",
+        "our_label": "NEU",
+        "model_label": "negative"
+    },
+    {
+        "comment": "I'd be ok going down to 4-5 defenceman rest of the game. MAYBE only deploy perunvich only in ozone faceoffs. Otherwise bye remainder of game",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "This is the correct take. Frustrating as it is, we weren't matching last season this season with such a green defense.",
+        "our_label": "NEU",
+        "model_label": "negative"
+    },
+    {
+        "comment": "We'll be fighting the refs the rest of the game. Gotta lock in",
+        "our_label": "NEG",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Finally. Of the post",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Owen Power is absolute SHIT!",
+        "our_label": "POS",
+        "model_label": "negative"
+    },
+    {
+        "comment": "Energy. That's their job. It's normal.",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "#PAIN",
+        "our_label": "NEG",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "The only thing missing was Voronkov taking off Tkachuk's head. I'm sure the chance will come again.",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "He just fell. Lost his edge on a sharp turn.",
+        "our_label": "NEU",
+        "model_label": "negative"
+    },
+    {
+        "comment": "Please don't let the Wild get the shutout!",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "We fucking missed out on Ministroza when he was here lol",
+        "our_label": "POS",
+        "model_label": "negative"
+    },
+    {
+        "comment": "Tkachuk looks like he ate lead gumballs as a kid in whatever Province would be the Alabama of Canada.",
+        "our_label": "NEG",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Every time Forslund says 'left in regulation' it gives me hope of getting at least 1 point.",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "I'm serious everyone, I really want to be optimistic about something for this team, but I'm really struggling right now. I want to be a good fan and I want to support them when they're down just as much as if they were up but they make it so very hard.",
+        "our_label": "POS",
+        "model_label": "negative"
+    },
+    {
+        "comment": "Well…it can only get better from here, right?",
+        "our_label": "NEG",
+        "model_label": "positive"
+    },
+    {
+        "comment": "Sounds like some Bones trickery.",
+        "our_label": "NEU",
+        "model_label": "negative"
+    },
+    {
+        "comment": "KEVIN WHAT ARE YOU DOING",
+        "our_label": "NEG",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Even Gregor got a shootout goal a few days ago in Toronto. Also, didn't know he was on the Maple Leafs.",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "With that brutal 1st period, a much deserved shut out for DeSmith.",
+        "our_label": "POS",
+        "model_label": "negative"
+    },
+    {
+        "comment": "If they only knew what the future was for the Sabres would they have ever been created?",
+        "our_label": "NEG",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "So.. what we thinking about this 3rd period? Any takers for some goals?",
+        "our_label": "NEG",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "He gotta shoot that shot.",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "The \"fuck it, I'll do it myself\"",
+        "our_label": "POS",
+        "model_label": "negative"
+    },
+    {
+        "comment": "Marino leaving 2 guys up front all alone comon, at least cover 1",
+        "our_label": "NEG",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Go back to your Oilers sub",
+        "our_label": "NEG",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "We've come back from this before. Let's see some second period magic. And a preliminary BOOOOOO EICHEL just because.",
+        "our_label": "NEG",
+        "model_label": "positive"
+    },
+    {
+        "comment": "We didn't want to give Danault 5.5m -> preceded to give major assets to give an infinitely worse player 4.5m.",
+        "our_label": "POS",
+        "model_label": "negative"
+    },
+    {
+        "comment": "Is it a law the Devils have to give up the first goal?",
+        "our_label": "NEG",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Sometimes all you can do is laugh",
+        "our_label": "NEG",
+        "model_label": "positive"
+    },
+    {
+        "comment": "Listening rather than watching to games, I swear we hit a crossbar at least once per match. You can hear the ping noises!",
+        "our_label": "POS",
+        "model_label": "negative"
+    },
+    {
+        "comment": "Oh sorry that's all screwed up.That's team defense? NO, shots allowed in the slot!",
+        "our_label": "NEU",
+        "model_label": "negative"
+    },
+    {
+        "comment": "Quinn Hughes can ruin my life",
+        "our_label": "POS",
+        "model_label": "negative"
+    },
+    {
+        "comment": "The dmen are activating a lot again. We had mostly put a stop to that during the November struggles.",
+        "our_label": "NEG",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Can't wait to get Ullmarked again",
+        "our_label": "NEU",
+        "model_label": "positive"
+    },
+    {
+        "comment": "Tocchett is doing everything he can. He even took JT's line off the match-up against Eichel when he couldn't handle it anymore. It's evident the Canucks have shallow depth throughout the lineup. When Garland's line is the one sparking offense and having a positive corsi, the rest of the team needs to get a hint. Petey's line got crushed and we're talking about a guy who wants $12M.",
+        "our_label": "NEG",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "*chef's kiss*",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Pretty telling that when it was 4-1, I still felt they'll need to score a couple of more....",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Wholy shit. I tune out for the second period and Boes scores twice. Guess I'm calling out for the rest of the game",
+        "our_label": "POS",
+        "model_label": "negative"
+    },
+    {
+        "comment": "People were puzzled when we signed Jones and asked why get another goalie. This is why. We have a goalie out for a while now and I am not terrified of our backup getting games in net going forward.",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "It sends the right message though. Maybe Staios and Andlauer would be embarrassed enough to finally can DJMy time is worth a lot more than a jersey, and this organization is perfectly content wasting it year after year lol",
+        "our_label": "POS",
+        "model_label": "negative"
+    },
+    {
+        "comment": "Definitely but that's the make up call.",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Feels like the Leafs deserve a goal or 2 here... Definitely the universe restoring balance after they very undeservingly won in Ottawa",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "I still think we do better there if we have our best finishers in the shootout roster. Lebanc is not an inspiring opener",
+        "our_label": "NEG",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Petterson just had to dive on the ice there before his shift was over lol",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Still feels strange not seeing Jim Ramsey",
+        "our_label": "NEU",
+        "model_label": "negative"
+    },
+    {
+        "comment": "Shameless wanted an empty netter. Leave with some feel good after the #4 fuck up",
+        "our_label": "NEU",
+        "model_label": "negative"
+    },
+    {
+        "comment": "What a pass by Timmins.",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Right now, Brodzinksi should be taking his spot in the lineup. You can tell he wants it. Wheeler seems so slow out there.",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Cuylle is a possession monster",
+        "our_label": "POS",
+        "model_label": "negative"
+    },
+    {
+        "comment": "He wasn't even looking at the net while in the zone",
+        "our_label": "NEG",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "DICKS ON THE ICE, BOYS. DICKS DOWN, PUCKS UP.",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Dylan Strome is the Capitals leading goal scorer right now at 10 goals. It still baffles me Colliton's hatred of him .",
+        "our_label": "POS",
+        "model_label": "negative"
+    },
+    {
+        "comment": "Superer Mario",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "They shouldn't have gotten an o zone faceoff for an offside.",
+        "our_label": "NEU",
+        "model_label": "negative"
+    },
+    {
+        "comment": "Yeah…it looked like he fell in the tunnel?",
+        "our_label": "NEU",
+        "model_label": "negative"
+    },
+    {
+        "comment": "They weren't realy but one thing you have to remember is when you play in an arena with so many fans for each team it affects the players. They feel the emotion from each side. The games usually feel extra intense in Ottawa, though this one didn't really IMO",
+        "our_label": "NEG",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Reaves grabs Mcdonagh when he gets out of the box right?",
+        "our_label": "NEG",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "slaf dummying them with his dump truck ass",
+        "our_label": "POS",
+        "model_label": "negative"
+    },
+    {
+        "comment": "Schmid is everything VV is not.",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "the amount of interference is insane",
+        "our_label": "POS",
+        "model_label": "negative"
+    },
+    {
+        "comment": "I never have to get mad at kreider because he's even angrier at himself. That miss is gonna motivate him.",
+        "our_label": "NEG",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "NAK made quick work of that lmao i am at the game and we went from gloves off to rangers guy getting pinned in what felt like three seconds",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Well at least we can comfort ourselves that Detroit has only gotten 5 past the boys with half of their top 6 missing.",
+        "our_label": "POS",
+        "model_label": "negative"
+    },
+    {
+        "comment": "They're feeling the intensity on the ice too",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Are these commentators for real man, I swear Steve Dangle was less biased on those YouTube \"Watch a Leaf Game\" videos he used to do.",
+        "our_label": "NEG",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Nabbed by the nabber baby!!!",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "We are shitting on them so hard",
+        "our_label": "POS",
+        "model_label": "negative"
+    },
+    {
+        "comment": "I think it's been pretty clear that their cup contending days from around 2015-2019 are long gone. Which is fine because no team stays competitive forever and usually no team sucks forever. I just want the rebuild to start now so the team can go back to being considered a cup contender. Let's get the rebuild pain over with instead of middling in between.",
+        "our_label": "NEG",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "I was so mad when in 2020, I heard “With the 5th pick, the Senators are proud to select, from the University of North Dakota, Jake Sanderson” but man am I glad to be totally wrong.",
+        "our_label": "POS",
+        "model_label": "negative"
+    },
+    {
+        "comment": "Kuzmenko almost had it. Sophomore slump is real.",
+        "our_label": "NEG",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Gruuuuu",
+        "our_label": "NEG",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "I'm down man. No shame.",
+        "our_label": "NEG",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "This team is either getting embarrassed or doing the embarrassing, there feels like there is no in between at times",
+        "our_label": "NEU",
+        "model_label": "negative"
+    },
+    {
+        "comment": "VO is on nice point streak, if there is a decision about his future to be made, it's time to trade him now.",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Are you fucking kidding me 😂😂😂",
+        "our_label": "POS",
+        "model_label": "negative"
+    },
+    {
+        "comment": "We are really in a puck luck situation here. Someone's dad needs to go to bed or the husband back napping. Maybe a misprint shirt again. Someone do something!",
+        "our_label": "POS",
+        "model_label": "negative"
+    },
+    {
+        "comment": "please be okay Lazar",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Is it a slump?  We won 10 of our last 12.",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Looks like Miro is tired of losing...time to carry his team",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Lots of diving by Chicago. Do they know they aren't any better at the power play than we are?",
+        "our_label": "NEU",
+        "model_label": "negative"
+    },
+    {
+        "comment": "Holy crap. Garland shaved his stache and became Tanner Pearson.",
+        "our_label": "NEU",
+        "model_label": "negative"
+    },
+    {
+        "comment": "A Devils W while I'm in Disney means I must remain in Disney",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Good. They missed a blatant hold on the breakout. So glad we didn't get the useless PP now",
+        "our_label": "POS",
+        "model_label": "negative"
+    },
+    {
+        "comment": "If you said before the game that the Devils would have 48 SOG, 30 more than the Sharks and not go to the box I'd say that's an excellent clean game and a 5-2 win at worst 4 in a row going on the road trip and would feel very good despite a mediocre position..... the defense is ATROCIOUS!!!!!!!!!!!!!!!!!!!!!!!!!! Ruff must go! No more excuses!",
+        "our_label": "NEG",
+        "model_label": "positive"
+    },
+    {
+        "comment": "Let's get a goal or 2 more to compensate getting scored on",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Sometimes I wouldn't mind a synced up the feed with O'Donnell and Tom",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "ITS A POWER PLAY GOAL",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Yea stop trying to win games get a top 5 pick",
+        "our_label": "POS",
+        "model_label": "negative"
+    },
+    {
+        "comment": "Hockey needs a taunting penalty.",
+        "our_label": "NEU",
+        "model_label": "negative"
+    },
+    {
+        "comment": "Dang it! I wish we could do comebacks like that",
+        "our_label": "NEG",
+        "model_label": "positive"
+    },
+    {
+        "comment": "Eh. It was a back to back for Vegas and they're missing multiple top dmen. And Vegas still came back and tied it late. Shootout nonsense",
+        "our_label": "NEU",
+        "model_label": "negative"
+    },
+    {
+        "comment": "THE COMMENTARY CURSE",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "alright there they go 🤝",
+        "our_label": "NEG",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Maybe he doesn't believe in this roster.Ottawa's core is Stützle, Tkachuk, Chabot, and Sanderson. Everyone else is fair game, and it's very possible he has a different vision in mind than Dorion, who let's face it, wasn't exactly a hockey genius.",
+        "our_label": "NEG",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "That was a Bryan McCabe throwback slapper",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Wolf is so composed it's ridiculous. Also the refs tonight are a total fucking joke.",
+        "our_label": "POS",
+        "model_label": "negative"
+    },
+    {
+        "comment": "I remember when the Sedins were still playing our November results were always meh and then they destroy in Dec. I for one think this is what's happening. Because I must keep the good vibes",
+        "our_label": "POS",
+        "model_label": "negative"
+    },
+    {
+        "comment": "We need to get #firegarrygalley trending for his condoning of this behaviour.  This is embarrassing and terrible for hockey.",
+        "our_label": "POS",
+        "model_label": "negative"
+    },
+    {
+        "comment": "*Opposing player gets a clean high chance great scoring opportunity from one of the best places to shoot from on the ice*This Sub:\"IgOr sO bAaAd\"",
+        "our_label": "NEG",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Aaaaaaaannnnd it's waived off",
+        "our_label": "NEG",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "POWERPLAY GOALLLL",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Start the game on time and we don't have to chase every single game",
+        "our_label": "NEG",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "This is what I find fascinating about North American sports. Were this a soccer match between a traditional club and some lesser team, the club offices would be on fire by now, and the coach would be relieved from his duties mid game. As T'Challa would say: We don't do that here.",
+        "our_label": "NEG",
+        "model_label": "positive"
+    },
+    {
+        "comment": "Someone put an APB out on Paul Marner! Man must've been fuming when Matty potted his 2nd of the night and got 5v6 time before Mitch",
+        "our_label": "POS",
+        "model_label": "negative"
+    },
+    {
+        "comment": "It blows my mind people were so quick to give up on him after last year. This is his third season already and he's younger than KJ ffs.",
+        "our_label": "POS",
+        "model_label": "negative"
+    },
+    {
+        "comment": "somebody find it",
+        "our_label": "NEG",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Could be free and instant teleport and I'd still debate if it was worth my time",
+        "our_label": "NEG",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "THERES NO FUCKING WAY",
+        "our_label": "NEU",
+        "model_label": "negative"
+    },
+    {
+        "comment": "I'm not gonna be one of the people saying Igor sucks or anything because I'm a huge fan of him, but I do think he's been looking different since his injury",
+        "our_label": "NEU",
+        "model_label": "negative"
+    },
+    {
+        "comment": "I've been saying this all season long. It was the same last season with Jones. It seems like every goal against us is Grubauer's fault while Daccord gets a free pass. I like Joey a lot and I think he has a bright future in front of him, but there has to be a little more criticism sent his way and a little less sent Grubauer's way. For some reason some Kraken fans like to hate Grubauer.",
+        "our_label": "NEU",
+        "model_label": "negative"
+    },
+    {
+        "comment": "See what happens when you *SHOOT* take notes Huberdeau",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "I'm hoping this is what the 4th line looks like next year with Jost on the other wing.",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "He might not be good with names and numbers. But goddamn he knows his shapes.",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Oh huby",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "I laugh at every single Lav victory story line because I used to shit on Gallant for so long and people down voted because the team was winning. We were winning in spite of his ineptitude... Now we are winning the games that we would have lost and he would be on the post game talking about how \"we just didn't get the bounces\" or \"the other team played tough tonight\"... Suuuuure....",
+        "our_label": "POS",
+        "model_label": "negative"
+    },
+    {
+        "comment": "Our team is unrecognizable.",
+        "our_label": "NEU",
+        "model_label": "negative"
+    },
+    {
+        "comment": "Da, I cheer for blue telogreika of Ohio oblast, how can you tell?Just saying if any other promising young Russian skaters want to start a new adventure and maybe avoid potential drafts, I wouldn't be opposed...",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "I know that I am oversimplifying things here, but we have not only horrible puck luck, but also there have been at least 5 games we should have won but the Opp goalie is playing OUT OF HIS MIND... sometimes we get outgoalied (and that's most of the time).  but I have said this since the Preseason, thank GOD we called up Nemec...  also Timo is playing like dogshit... he should get back in the groove but the man is -14 right now..",
+        "our_label": "NEU",
+        "model_label": "negative"
+    },
+    {
+        "comment": "Kings falling apart - finally a team not playing their absolute very best hockey against us",
+        "our_label": "POS",
+        "model_label": "negative"
+    },
+    {
+        "comment": "Trying to take out Mrazek Hasek who is one of our only good players this season!?",
+        "our_label": "NEG",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Well, we do get a lovely participation ribbon... \\*cough\\*",
+        "our_label": "NEG",
+        "model_label": "positive"
+    },
+    {
+        "comment": "That shot to the knee gave him his speed back",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Looks like Boldy is back! League fucked",
+        "our_label": "POS",
+        "model_label": "negative"
+    },
+    {
+        "comment": "That's why he's in the lineup after all, we pay him the big bucks for multilingual chirps and nothing else",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Full lehner mode lmao",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Leave Vincent in Toronto. And Jarmo too. I'm serious.",
+        "our_label": "NEG",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "That was nasty",
+        "our_label": "NEU",
+        "model_label": "negative"
+    },
+    {
+        "comment": "all i want for christmas is for boeser to work with quinn's skating coach",
+        "our_label": "NEU",
+        "model_label": "positive"
+    },
+    {
+        "comment": "I'm not a mathmagician, but should they not have whistled the play down, like, five seconds before they did?",
+        "our_label": "NEG",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "All he has to do is stand around and wait, and he's getting good at that.",
+        "our_label": "NEG",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "JT trying real hard to keep it in the zone",
+        "our_label": "NEG",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "I'd ask how, but I'm a Canucks fan.I know the how, is because it can.Murphys Law baby, that's Canucks hockey.",
+        "our_label": "NEU",
+        "model_label": "positive"
+    },
+    {
+        "comment": "The only thing the Flames org could do to get me to follow another team is Sign Maroon.",
+        "our_label": "NEG",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Waiting for the boos, that's it",
+        "our_label": "NEG",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Pucks on net. This goalie is doodoo",
+        "our_label": "NEG",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Myers with the giveaway and Zadorov is lost lol",
+        "our_label": "NEG",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "THATS MY FUCKING CAPTAIN",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Hard agree.",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Nice win. Columbus sucks so bad their scoreboard gave up",
+        "our_label": "POS",
+        "model_label": "negative"
+    },
+    {
+        "comment": "🍞🍞🍞 In the dirty area! Don't sleep on Artemi Panarin!!!Shocked Quinn face",
+        "our_label": "POS",
+        "model_label": "negative"
+    },
+    {
+        "comment": "Juulsen nearly pissed the game away, but thankfully, Vancouver was able to hold on here. Overall, a solid road win against a division opponent.",
+        "our_label": "NEG",
+        "model_label": "positive"
+    },
+    {
+        "comment": "Okay just Domi then but the point stands. Nylander could've waited for a full change instead of trying to drive through by himself. Why force it there?",
+        "our_label": "NEG",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "#ROSSEE PLAYS HOCKEE",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Oh don't worry I touched on that in this one higher up or lower or in the other thread lmao",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Cmon boys get one here",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "We'll just pretend that didn't happen, luke. Lol",
+        "our_label": "NEG",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Love seeing China stand up for himself. Stützle can sell anything though so that certainly doesn't help",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Damn, Spurgeon with the spicy stick.",
+        "our_label": "POS",
+        "model_label": "negative"
+    },
+    {
+        "comment": "That 10-11-20 rush was a weird symphony of backhand only plays",
+        "our_label": "POS",
+        "model_label": "negative"
+    },
+    {
+        "comment": "thats like the 5th time laf has juuuust missed picking a top corner on those cross ice passes",
+        "our_label": "POS",
+        "model_label": "negative"
+    },
+    {
+        "comment": "This just demonstrates that the other guys need to step up and we can't just rely on Wheeler to carry us through every game.",
+        "our_label": "NEG",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Ralph Kreuger. That is all.",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Its actually insane how many games we've played already this year. LA is 4 games behind us like wtf is that scheduling",
+        "our_label": "NEU",
+        "model_label": "negative"
+    },
+    {
+        "comment": "LaPanta dunking on the NHL scheduling",
+        "our_label": "NEG",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "We need another. No turtling",
+        "our_label": "NEG",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Damn, think Otter even got the actual shot then it bounced 5 hole",
+        "our_label": "POS",
+        "model_label": "negative"
+    },
+    {
+        "comment": "MONTEMBEAULT!",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "0-1-1.  Give em some credit.",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "The other day, I found a $20 in an old coat pocket. My plans changed. Instead of ordering one Hawks win, I ordered two. In a row. With guacamole.",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Ouch good stat.Ice crew took less time to change that glass then the canucks did getting their first shot",
+        "our_label": "NEG",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Sharks are coming for that spot",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Pascal has the biggest load in his pants",
+        "our_label": "POS",
+        "model_label": "negative"
+    },
+    {
+        "comment": "At least when you're at rock bottom the only place you can go is up right? ………………………….………………………….………………………….………………………….………………………….…………………………. Right?",
+        "our_label": "NEG",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Collapsing again, this time just before the third period",
+        "our_label": "NEG",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "I feel like that was Yamamotos goal",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "i need the leafs to win to fill an ohtani sized hole in my heart",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "I looked at my phone 5-3 with no time left in the third. Look again it's 5-5. I'm so lucky I'm a Crew fan as well. At least one of my teams loves me the way I love them :(",
+        "our_label": "NEG",
+        "model_label": "positive"
+    },
+    {
+        "comment": "Yes the singing is bad but at least she's getting it over quickly",
+        "our_label": "NEU",
+        "model_label": "negative"
+    },
+    {
+        "comment": "Breadman is almost uncontainable at this point. Just doing whatever he wants out there.",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "How many wake up call games do we need to, you know, actually play a full 60 minutes",
+        "our_label": "NEG",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Both Marchy's and Eichel's respective goals tonight are their 10th goals this season, only one each behind Karlsson (11)",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Besides calling up Othmann, what can Drury actually do? He doesn't have a ton of cap space to work with. LTIR goes away once Chytil & Kakko come back. Any trades would have to be for guys with VERY low salaries.",
+        "our_label": "NEU",
+        "model_label": "negative"
+    },
+    {
+        "comment": "You re right. My memory was off",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Boqvist wasn't bad but man he was pushed around and off the puck more than Johnson. He was getting rag dolled in front of the net.",
+        "our_label": "NEU",
+        "model_label": "negative"
+    },
+    {
+        "comment": "He won a faceoff that one time... ? Idk.",
+        "our_label": "NEG",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Key's shot has been lethal lately",
+        "our_label": "POS",
+        "model_label": "negative"
+    },
+    {
+        "comment": "Dunno how to feel about this one, good win and pushback But we got totally worked for 75% of this game and really only got let back into it by bad goaltending, still though nice that they didn't quit",
+        "our_label": "NEU",
+        "model_label": "negative"
+    },
+    {
+        "comment": "You know how you can almost get whatever you want in Vegas so long as you have enough money?….why can't I get a game thread that sorts by new comments first? What would it take?",
+        "our_label": "NEG",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Deja Vu!!!!!!",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Mang? Need a shot man",
+        "our_label": "NEG",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "BOLDY IS MORE ON FIRE THAN ACTUAL FLAMES",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "I agree. It was a frustrating loss but not our worst game. They can turn it on when they need it but offensively there's still struggle",
+        "our_label": "POS",
+        "model_label": "negative"
+    },
+    {
+        "comment": "If you don't get it just rewatch last year's playoffs. Playing borderline is a skill that is annoying to play against and he can score some pretty big goals",
+        "our_label": "NEU",
+        "model_label": "negative"
+    },
+    {
+        "comment": "I can't wait for The Hockey Guy's breakdown on this game lol",
+        "our_label": "NEU",
+        "model_label": "positive"
+    },
+    {
+        "comment": "It's.Been.So.Long.",
+        "our_label": "POS",
+        "model_label": "negative"
+    },
+    {
+        "comment": "Benn eats all the shrimp at Christmas, before anyone else gets a chance to have one...",
+        "our_label": "NEG",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "refs wont call a penalty on a team one goal down this late unless they take off a head it seems",
+        "our_label": "NEG",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "I do, it was pretty over the top RIGHT in front of the ref watching. But Zadorovs \"hit\" wasn't exactly the cleanest into the boards there by any means....Is that good officiating at the very end of a game? Of course not.. but yeah.",
+        "our_label": "NEU",
+        "model_label": "negative"
+    },
+    {
+        "comment": "There'll be another at least 15 stinkers they put out this regular season it's just the way it goes in this sport",
+        "our_label": "NEG",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Few flakes of the devil's dandruff?",
+        "our_label": "NEU",
+        "model_label": "negative"
+    },
+    {
+        "comment": "LETS GO BOYS FUCK YA PAVS",
+        "our_label": "POS",
+        "model_label": "negative"
+    },
+    {
+        "comment": "Nylander is on another point streak. 6 games.",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "God I miss the raiders :(I hate them now that they're gone, but am obligated to like them because I work for AllegiantWon't stop me from hating the Knights though",
+        "our_label": "NEU",
+        "model_label": "negative"
+    },
+    {
+        "comment": "This sub is way to serious sometimes.",
+        "our_label": "NEU",
+        "model_label": "negative"
+    },
+    {
+        "comment": "That's a goal sir",
+        "our_label": "NEU",
+        "model_label": "positive"
+    },
+    {
+        "comment": "It feels like we have been dominated and scored on every shot. Nice to be on the other side of this after last year.",
+        "our_label": "NEG",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Anyone feel that was not a penalty but a great play?",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "The Offense officially runs through Eichel",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "I don't know how to make the boys play tougher, so I'm just wearing my navy blue John Scott jersey. I feel like its working?",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "That…didn't hit him in the face lol? That's an embellishment if I've ever seen it",
+        "our_label": "NEU",
+        "model_label": "negative"
+    },
+    {
+        "comment": "HAHAHAHAHAHA",
+        "our_label": "NEU",
+        "model_label": "positive"
+    },
+    {
+        "comment": "I'm sorry wheeler I wasn't familiar with your game",
+        "our_label": "POS",
+        "model_label": "negative"
+    },
+    {
+        "comment": "Nope. Still like to see the boys pot some goals even if I didn't think they'd win.",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Correct ...centers play a 200 ft game....and support the defense in the defensive zone.  Where was the center support on that play?",
+        "our_label": "NEG",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Two more goals from Dvorsky today. Now up to 18g 16a +10 in 20 games.  [",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Did Durzi look okay? I missed him getting up",
+        "our_label": "NEG",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Comeback kids are back?",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Hope Otter isn't anything serious. We need our elite GOAT to rest up and heal before seasons end",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Oof. That's getting called back, damn.",
+        "our_label": "NEU",
+        "model_label": "negative"
+    },
+    {
+        "comment": "With the fucking bow what an ending",
+        "our_label": "POS",
+        "model_label": "negative"
+    },
+    {
+        "comment": "What a fucking pass Nico",
+        "our_label": "POS",
+        "model_label": "negative"
+    },
+    {
+        "comment": "A Dub nonetheless. Unleash the 🐀",
+        "our_label": "NEU",
+        "model_label": "positive"
+    },
+    {
+        "comment": "…we just need a pissed off jeff skinner hat trick 😵‍💫",
+        "our_label": "POS",
+        "model_label": "negative"
+    },
+    {
+        "comment": "Would he even come up to Voronkov's ribcage? I'd like to see that goblin bounce off a brick wall.",
+        "our_label": "POS",
+        "model_label": "negative"
+    },
+    {
+        "comment": "Haha I'll be there looking for the shirt. Make sure to attend the Displaced Sabres Fans (on Twitter) photo op between periods",
+        "our_label": "NEU",
+        "model_label": "positive"
+    },
+    {
+        "comment": "Insane backcheck from Kovs",
+        "our_label": "POS",
+        "model_label": "negative"
+    },
+    {
+        "comment": "Evangelista, spreading the Gospel of the Preds in every arena, one goal at a time.",
+        "our_label": "NEU",
+        "model_label": "positive"
+    },
+    {
+        "comment": "Fabian Fucking Zetterlund I knew he was gonna be the future. Everyone in here was ready to write this kid off after last year but they still had those Timo goggles on. What a steal by GMMG.",
+        "our_label": "POS",
+        "model_label": "negative"
+    },
+    {
+        "comment": "GET FUCKED BUFFABLOW",
+        "our_label": "POS",
+        "model_label": "negative"
+    },
+    {
+        "comment": "So their missing 2 of their top 4D and their (league leading) starting goalie…and its 3-1 and only 6 SOGOtter now 23rd in SV %",
+        "our_label": "POS",
+        "model_label": "negative"
+    },
+    {
+        "comment": "This game is nuts",
+        "our_label": "POS",
+        "model_label": "negative"
+    },
+    {
+        "comment": "Rossi Bedard fight",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "500 team over the last 12 now. Roster problems are becoming glaring",
+        "our_label": "NEU",
+        "model_label": "negative"
+    },
+    {
+        "comment": "I'm gonna need some more energy from Jeff and Jody, it barely even feels like a home broadcast",
+        "our_label": "NEG",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Incredibly soft penalty, but it was 3-0 us before that, so refs gonna ref",
+        "our_label": "POS",
+        "model_label": "negative"
+    },
+    {
+        "comment": "My god sharongovich is a sniper",
+        "our_label": "POS",
+        "model_label": "negative"
+    },
+    {
+        "comment": "Big brain move letting Shitcago get one first so it's literally impossible to go up 2-0.",
+        "our_label": "POS",
+        "model_label": "negative"
+    },
+    {
+        "comment": "Well, at least it can't be 2-0 now!",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Yup. And he's the only person who will get us the upgrade in goaltending or defence we needs we can score without him. Any better suggestions or you all in the wait it out it'll get better crowd?",
+        "our_label": "NEU",
+        "model_label": "positive"
+    },
+    {
+        "comment": "We did",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "I haven't had this feeling about this team in a long time. Let's fucking go",
+        "our_label": "POS",
+        "model_label": "negative"
+    },
+    {
+        "comment": "Russian horse meat ftw",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Holy fuck that was sick, is Garland-Kuzmenko an unlikely but great combination?",
+        "our_label": "POS",
+        "model_label": "negative"
+    },
+    {
+        "comment": "I agree with this. It's something I'm noticing more of this year than I ever have before.",
+        "our_label": "NEU",
+        "model_label": "positive"
+    },
+    {
+        "comment": "Suter breaks up more plays. He's hyper responsible. He did so much work in the neutral zone before his injury.",
+        "our_label": "NEU",
+        "model_label": "positive"
+    },
+    {
+        "comment": "Game plan for the 2nd: do the opposite of everything we just did",
+        "our_label": "NEG",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "I'd like you all to know that I went in the Hawks GDT this morning ahead of game to see their thoughts. The overwhelming sentiment was that this game would be an easy game and the Kraken were a walkover. I know it's only second period, but we're not making this an easy game.",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "That's a weak ass call. Foligno is bringing the energy!!!",
+        "our_label": "POS",
+        "model_label": "negative"
+    },
+    {
+        "comment": "Guys crazy thought, it's almost like when you're more structured more bounces go your way 😮",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Bastian's puck skills have never been amazing, but man has he struggled to handle the puck this season. Seems like anything rougher than the softest, feathery pass just bounces right off him and becomes a turnover.",
+        "our_label": "POS",
+        "model_label": "negative"
+    },
+    {
+        "comment": "These dingleberries are going to blow it haha",
+        "our_label": "NEG",
+        "model_label": "positive"
+    },
+    {
+        "comment": "Does uh the Jets realize they down by 1? Shocked no empty net on the PP",
+        "our_label": "POS",
+        "model_label": "negative"
+    },
+    {
+        "comment": "You defend him more than most of our actual defenseman",
+        "our_label": "POS",
+        "model_label": "negative"
+    },
+    {
+        "comment": "I dunno man, that is a pretty big moment of the game lol... technically lost the game because of that miss regardless of player",
+        "our_label": "NEU",
+        "model_label": "negative"
+    },
+    {
+        "comment": "Last year I was watching the standings and waiting for you guys to overtake the knights, right now I just don't want the sharks to be higher up than you",
+        "our_label": "NEU",
+        "model_label": "negative"
+    },
+    {
+        "comment": "If they said the reason was coleman cleared it off the player therefore it was put in by the flames I would understand that but to say that it's because they hit Hischier into the goalie is absolute complete BS",
+        "our_label": "NEG",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "WHAT IS HAPPENING!?",
+        "our_label": "NEG",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "I would like for DeBoer to switch up the blue line pairings a little. Miro and Suter are clearly not working for one reason or another (I'm leaning towards the latter being the problem but who knows). We know Lindell and Hakanpaa weren't working well together last year in the playoffs.",
+        "our_label": "NEU",
+        "model_label": "negative"
+    },
+    {
+        "comment": "Seeing a happy Panger interviewing a Blackhawk after beating the Blues….😕",
+        "our_label": "NEG",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Well, someone let one in.",
+        "our_label": "NEG",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Stützle is reeeeaaaaally fighting it rn",
+        "our_label": "POS",
+        "model_label": "negative"
+    },
+    {
+        "comment": "Ruff cycling 10 forwards. Cool",
+        "our_label": "NEU",
+        "model_label": "positive"
+    },
+    {
+        "comment": "THATS THE KINDA FIGHT THAT WINS CUP",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "I would have liked to have seen an O'Dogg jersey from the era he played, but those jerseys are super expensive on eBay.",
+        "our_label": "POS",
+        "model_label": "negative"
+    },
+    {
+        "comment": "RANCH DRESSING! Ranch has taken over now that ketchup has retired.",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "We need to give Megna a chance.",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Matthews is a fucking stud. I guess that advice from the coach to “shoot more” is working.Fuck that ending sucked the life out of me.",
+        "our_label": "POS",
+        "model_label": "negative"
+    },
+    {
+        "comment": "Holy shit Bally",
+        "our_label": "POS",
+        "model_label": "negative"
+    },
+    {
+        "comment": "Demko just out assed Vitek.",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Way better in action than in the promo shots",
+        "our_label": "NEU",
+        "model_label": "positive"
+    },
+    {
+        "comment": "Last year when I was doing a practice closing before our actual mock trial, one of the attorneys giving feedback was named Paul and my whole closing argument comparing what happened in our \"case\" to a hockey fight.  When they started giving us feedback, he told me there was one minute left and I said, \"Thanks Paul!\"  Everybody looked at us like we were insane 😂",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "That's aiming too low…#WE NEED “LIVE”BACK",
+        "our_label": "POS",
+        "model_label": "negative"
+    },
+    {
+        "comment": "This will be our second",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Just pull Sammy.  He made a few nice ones on the first but these last 2 were pathetic.",
+        "our_label": "NEU",
+        "model_label": "negative"
+    },
+    {
+        "comment": "I actively did not turn it back on for this reason haha, guess your powers are stronger than mine",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Crap",
+        "our_label": "NEG",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "We don't.",
+        "our_label": "NEG",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "Can't even be upset over that loss.  Just another example of refs needing to call majors because if not players will do it their own way and the game goes completely off the rails.  Then again we got to witness a murder and it only cost one person $5000 which is the maximum fine under the current CBA",
+        "our_label": "POS",
+        "model_label": "negative"
+    },
+    {
+        "comment": "🙏",
+        "our_label": "NEU",
+        "model_label": "positive"
+    },
+    {
+        "comment": "BIG CAT TEEING OFF LETS GO",
+        "our_label": "NEU",
+        "model_label": "positive"
+    },
+    {
+        "comment": "BONINOBONINOBONINOBONINOBONINOBONINOBONINOBONINOBONINOBONINOBONINOBONINOBONINOBONINO",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "What if hammer didn't go got that hip check?",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "If I may, since mdt showed me moneypuck.com, I realy enjoy seeing from where shots are taken against us. Sometimes numbers are high but from far away.",
+        "our_label": "NEU",
+        "model_label": "positive"
+    },
+    {
+        "comment": "I normally don't think about this but I want to see an Islander get absolutely crushed tonight.",
+        "our_label": "POS",
+        "model_label": "negative"
+    },
+    {
+        "comment": "If they're playing a rookie goaltender bet the house.",
+        "our_label": "POS",
+        "model_label": "neutral"
+    },
+    {
+        "comment": "No you're thinking of the time your flight was canceled and your family didn't get to go to Disneyland. That was a character building loss.",
+        "our_label": "NEU",
+        "model_label": "negative"
+    },
+    {
+        "comment": "The fucking crosschecks are unreal right now",
+        "our_label": "POS",
+        "model_label": "negative"
+    },
+    {
+        "comment": "The only thing that makes sense is that Tocchet is so concerned about his defensive play, he doesn't care if he contributes to offence right now. There's no other reason to put him on the 4th line. I'd even argue that it's better to scratch him than play him on the 4th line.Edit: that said, these line projections are from December 9th.",
+        "our_label": "NEU",
+        "model_label": "negative"
+    },
+    {
+        "comment": "Manifesting a Wolf goalie goal bc why not 🐺",
+        "our_label": "NEU",
+        "model_label": "positive"
+    },
+    {
+        "comment": "Gonna hurt seeing Quickie in the crease with another jersey on :( also the ending of that rams game was brutal so hopefully this cheers LA on up",
+        "our_label": "NEU",
+        "model_label": "negative"
+    },
+    {
+        "comment": "So close...",
+        "our_label": "NEG",
+        "model_label": "neutral"
+    }
+]

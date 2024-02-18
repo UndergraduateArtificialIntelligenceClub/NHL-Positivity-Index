@@ -17,9 +17,9 @@ def main():
     while users_name not in names:
         print("Please enter a valid name!")
         users_name = input("What is your first name? ").title()
-    comments_to_label_file_path = f'data/training_data/{users_name}_comments_to_label.json'
-    disagreements_file_path = f'data/training_data/{users_name}_comments_to_label_disagreements.json'
-    updated_comments_file_path = f'data/training_data/{users_name}_comments_to_label_updated.json'
+    comments_to_label_file_path = f'data/training_data/comments_to_label/{users_name}_comments_to_label.json'
+    disagreements_file_path = f'data/training_data/disagreements/{users_name}_comments_to_label_disagreements.json'
+    updated_comments_file_path = f'data/training_data/disagreements/{users_name}_comments_to_label_updated.json'
     
     
     with open(comments_to_label_file_path, 'r', encoding='utf-8') as comments_to_label_file, open(disagreements_file_path, 'r', encoding='utf-8') as disagreements_file:
