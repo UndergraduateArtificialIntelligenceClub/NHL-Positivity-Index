@@ -1,3 +1,5 @@
+import praw
+
 def search_flair(reddit: praw.reddit, subreddit: str, flairs: list) -> list:
     """
     A method which searches through the given subbreddit under each of the given

@@ -76,8 +76,8 @@ class CommentsExtractor:
 
         results = []
         for subreddit_name, username in TEAM_AND_USERS.items():
-            subreddit = reddit.subreddit(subreddit_name)
-            user = reddit.redditor(username)
+            subreddit = self.reddit.subreddit(subreddit_name)
+            user = self.reddit.redditor(username)
 
             for submission in user.submissions.new():
                 submission_date = datetime.utcfromtimestamp(
