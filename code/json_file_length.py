@@ -1,6 +1,6 @@
 import json
 
-with open('december_2023_comments.json', 'r') as file:
+with open("december_2023_comments.json", "r") as file:
     data = json.load(file)
     if isinstance(data, dict):
         count = len(data)

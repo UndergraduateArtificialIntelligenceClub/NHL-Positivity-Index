@@ -13,8 +13,7 @@ feb_15 = date(2024, 2, 2)
 
 reddit = reddit_initializor.get_reddit()
 
-data = extract_HockeyMod_comments(reddit,feb_1,feb_15)
+data = extract_HockeyMod_comments(reddit, feb_1, feb_15)
 
-with open("../data/feb1_to_feb15.json","w") as f:
-    json.dump(data,f)
-
+with open("../data/feb1_to_feb15.json", "w") as f:
+    json.dump(data, f)

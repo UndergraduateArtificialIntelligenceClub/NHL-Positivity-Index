@@ -15,5 +15,4 @@ line = "SC has first two presumptive cases of coronavirus , DHEC confirms HTTPUR
 input_ids = torch.tensor([tokenizer.encode(line)])
 
 with torch.no_grad():
-    features = bertweet(input_ids)  
-
+    features = bertweet(input_ids)
