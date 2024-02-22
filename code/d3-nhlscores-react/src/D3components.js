@@ -1,12 +1,13 @@
 import React, { useState, useRef, useEffect } from "react";
 import * as d3 from "d3";
-import { isVisible } from "@testing-library/user-event/dist/utils";
 
 const BarChartWithImages = ({ data }) => {
   const chartRef = useRef(null);
 
   useEffect(() => {
     const getColor = (value) => {
+      // Makes the graph colour light or dark depending on its value from -10 to 10
+
       const baseGreen = d3.rgb("#008000"); // Dark green
       const lightGreen = d3.rgb("#fff"); // Light green
       const baseRed = d3.rgb("#FF0000"); // Dark red
@@ -63,7 +64,7 @@ const BarChartWithImages = ({ data }) => {
         .attr("width", (d) => Math.abs(xScale(d.value) - xScale(0)))
         .attr("height", yScale.bandwidth());
 
-      // Adding values
+      // Adding values to be displayed on the abr
       svg
         .selectAll(".bar-value")
         .data(data)
@@ -81,14 +82,14 @@ const BarChartWithImages = ({ data }) => {
         .attr("fill", "#111")
         .text((d) => d.value.toFixed(2)); //allowing 2 decimal place precision
 
-      // Add x-axis
+      // Add x-axis to the graph
       svg
         .append("g")
         .attr("class", "axis-x")
         .attr("transform", `translate(0,${height})`)
         .call(d3.axisBottom(xScale));
 
-      // Add y-axis
+      // Add y-axis to the graph
       svg
         .append("g")
         .attr("class", "axis-y")
@@ -96,7 +97,7 @@ const BarChartWithImages = ({ data }) => {
         .call(d3.axisLeft(yScale));
 
       // Removing visibility of axis
-      d3.selectAll(".axis-x").style("display", "none"); // Hides the axes
+      d3.selectAll(".axis-x").style("display", "none"); // Hides the x axis
 
       // Clean up on unmount
       return () => {
