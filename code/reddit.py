@@ -2,23 +2,7 @@ import praw
 from datetime import datetime
 from praw.models import MoreComments
 from utils import get_all_flaired_submissions
-
-HOCKEY_MOD = "HockeyMod"  # commen redditor that posts threads
-TEAM_AND_USERS = {
-    "TampaBayLightning": "RandomBoltsFan",
-    "winnipegjets": "DylThaGamer",
-    "AnaheimDucks": "dahooddawg",
-}
-TEAMS_AND_FLAIRS = {
-    "canes": ["GDT"],
-    "NewYorkIslanders": ["GDT", "PGT"],
-    "Flyers": ["Pre-Game Thread", "Post Game Thread", "Game Thread"],
-    "penguins": ["GDT", "PGT"],
-    "ColoradoAvalanche": ["Pre-Game Thread", "Next Day Thread", "PGT", "GDT"],
-    "BostonBruins": ["Post-Game Thread", "GDT: Away"],
-    "EdmontonOilers": ["GDT", "TMA", "PGT"],
-    "leafs": ["Game Day Thread"],
-}
+from constants import HOCKEY_MOD, TEAMS_AND_FLAIRS, TEAM_AND_USERS
 
 
 class CommentsExtractor:
