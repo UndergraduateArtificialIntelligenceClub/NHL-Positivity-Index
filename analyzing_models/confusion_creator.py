@@ -1,6 +1,7 @@
 import pandas as pd
 from sklearn.metrics import ConfusionMatrixDisplay
 import matplotlib.pyplot as plt
+from sklearn.metrics import accuracy_score
 
 # Makes a confusion matrix for each of the models. 
 num_of_models = 4
@@ -21,7 +22,10 @@ for i,model in model_paths.iterrows():
     
     df = pd.read_csv("predictions\\"+model["name"] + ".csv")
     ConfusionMatrixDisplay.from_predictions(df["our label"],df["model label"],cmap = "plasma")
+    score = accuracy_score(df["our label"],df["model label"])
+    title = "Score: "+ str(score) +" Model:\n" + model["model_name"]
     
-    plt.title("Model: \n" + model["model_name"])
+    
+    plt.title(title)
     plt.savefig("confusion_matrices\\"+model["name"] + ".jpg", dpi = 600)
     
