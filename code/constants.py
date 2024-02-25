@@ -5,15 +5,15 @@ SUBREDDIT_MAPPING = {
     "sabres": "BUF",
     "CalgaryFlames": "CGY",
     "canes": "CAR",
-    "Hawks": "CHI",
+    "hawks": "CHI",
     "ColoradoAvalanche": "COL",
     "BlueJackets": "CBJ",
     "DallasStars": "DAL",
     "DetroitRedWings": "DET",
     "EdmontonOilers": "EDM",
     "FloridaPanthers": "FLA",
-    "LosAngelesKings": "LAK",
-    "WildHockey": "MIN",
+    "losangeleskings": "LAK",
+    "wildhockey": "MIN",
     "Habs": "MTL",
     "Predators": "NSH",
     "devils": "NJD",
@@ -25,7 +25,7 @@ SUBREDDIT_MAPPING = {
     "SanJoseSharks": "SJS",
     "SeattleKraken": "SEA",
     "stlouisblues": "STL",
-    "TampaBayLighting": "TBL",
+    "TampaBayLightning": "TBL",
     "leafs": "TOR",
     "canucks": "VAN",
     "goldenknights": "VGK",
@@ -33,11 +33,10 @@ SUBREDDIT_MAPPING = {
     "winnipegjets": "WPG",
 }
 
-HOCKEY_MOD = "HockeyMod"  # commen redditor that posts threads
+HOCKEY_MOD = "HockeyMod"  # common redditor that posts threads
 TEAM_AND_USERS = {
-    "TampaBayLightning": "RandomBoltsFan",
-    "winnipegjets": "DylThaGamer",
     "AnaheimDucks": "dahooddawg",
+    "DetroitRedWings": "OctoMod"
 }
 TEAMS_AND_FLAIRS = {
     "canes": ["GDT"],
@@ -45,13 +44,18 @@ TEAMS_AND_FLAIRS = {
     "Flyers": ["Pre-Game Thread", "Post Game Thread", "Game Thread"],
     "penguins": ["GDT", "PGT"],
     "ColoradoAvalanche": ["Pre-Game Thread", "Next Day Thread", "PGT", "GDT"],
-    "BostonBruins": ["Post-Game Thread", "GDT: Away"],
+    "BostonBruins": ["Post-Game Thread", "GDT: Away", "GDT: Home"],
     "EdmontonOilers": ["GDT", "TMA", "PGT"],
     "leafs": ["Game Day Thread"],
 }
 
+TEAMS_AND_TITLES ={
+    "TampaBayLightning": ["GDT", "[PREGAME]"],
+    "winnipegjets": ["ODT", "GDT"]
+}
+
 LABEL_SCORES = {
-    "POS":1,
-    "NEG":-1,
-    "NEU":0.5
+    "positive":1,
+    "negative":-1,
+    "neutral":0.5
 }

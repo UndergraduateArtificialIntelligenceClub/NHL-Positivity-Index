@@ -3,7 +3,7 @@ from dotenv import load_dotenv
 import praw
 
 
-class reddit_initializor:
+class RedditInitializor:
     def __init__(self):
         load_dotenv()
 

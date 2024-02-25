@@ -10,7 +10,7 @@ def calc_positivity_score(dataset):
             print("Team not found: ")
             print(data["subreddit"])
             continue
-        positivity_scores[team] += data["score"]*LABEL_SCORES[data["label"]["label"]]
+        positivity_scores[team] += (data["score"] + 1)*LABEL_SCORES[data["label"]["label"]] # add 1 to score to make sure to not multiply by 0
         count_scores[team] += 1
     return positivity_scores,count_scores
 

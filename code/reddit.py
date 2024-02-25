@@ -2,8 +2,13 @@ import praw
 from datetime import datetime
 from praw.models import MoreComments
 from utils import get_all_flaired_submissions
-from constants import HOCKEY_MOD, TEAMS_AND_FLAIRS, TEAM_AND_USERS
-
+from constants import HOCKEY_MOD, TEAMS_AND_FLAIRS, TEAM_AND_USERS, TEAMS_AND_TITLES
+import os
+from dotenv import load_dotenv
+from reddit_login import RedditInitializor
+load_dotenv()
+current_directory = os.environ["current_directory"]
+import json
 
 class CommentsExtractor:
     def __init__(self, reddit, start_date: datetime, end_date: datetime):
@@ -84,6 +89,40 @@ class CommentsExtractor:
                         }
                         results.append(comment_info)
         return results
+    
+    def extract_title_comments(self) -> list[dict:]:
+        """
+        returns a list of dictionaries containing information about each comment on each submission of a specific title in a given time frame
+
+        :param reddit: instance of reddit class in Praw
+        :param start_date: start time of the date range
+        :param end_date: end time of the date range
+        :param teams_and_titles: dictionary of teams and titles
+        :return: returns a list of dictionaries
+        """
+        results = []
+        for subreddit_name in TEAMS_AND_TITLES.keys():
+            subreddit = self.reddit.subreddit(subreddit_name)
+            
+            for start_word in TEAMS_AND_TITLES[subreddit_name]: 
+                search_query = f'title:"{start_word}*"'
+
+                for submission in subreddit.search(search_query, sort='new'):
+                    submission_date = datetime.utcfromtimestamp(submission.created_utc).date()
+                    if self.start_date <= submission_date <= self.end_date:
+                        for comment in submission.comments.list():
+                            if isinstance(comment, MoreComments):
+                                continue
+                            comment_info = {
+                                "submission_id": submission.id,
+                                "comment_id": comment.id,
+                                "body": comment.body,
+                                "score": comment.score,
+                                "date": submission_date.strftime("%Y-%m-%d"),
+                                "subreddit": subreddit_name,
+                            }
+                            results.append(comment_info)
+        return results
 
     def extract_flair_comments(self):
         """
@@ -132,4 +171,17 @@ class CommentsExtractor:
         result.extend(self.extract_HockeyMod_comments())
         result.extend(self.extract_user_comments())
         result.extend(self.extract_flair_comments())
+        result.extend(self.extract_title_comments())
         return result
+    
+if __name__ == "__main__":
+    
+    start_date = datetime(2024, 2, 1).date()
+    end_date = datetime(2024, 2, 15).date()
+    reddit_initializor = RedditInitializor()
+    reddit = reddit_initializor.get_reddit()
+    comment_extractor = CommentsExtractor(reddit, start_date, end_date)
+    feb1_feb15_comments = comment_extractor.extract_comments()
+    with open(f'{current_directory}/data/February_data/feb1_to_feb15_data.json', 'w') as fp:
+        json.dump(feb1_feb15_comments, fp)
+

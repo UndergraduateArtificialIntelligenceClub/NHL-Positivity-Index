@@ -1,6 +1,9 @@
 import re
 import json
-
+import os
+from dotenv import load_dotenv
+load_dotenv()
+current_directory = os.environ["current_directory"]
 
 def clean_comment(comment: str) -> str:
     """
@@ -21,12 +24,20 @@ def clean_comment(comment: str) -> str:
 
 
 def process_comments(json_file_path):
-    cleaned_comments = []
-
+    
+    
     with open(json_file_path, "r", encoding="utf-8") as file:
         data = json.load(file)
         for comment in data:
             comment["body"] = clean_comment(comment["body"])
-            if comment["body"] is not None:
-                cleaned_comments.append(comment)
-    return cleaned_comments
+            if comment["body"] is None:
+                data.remove(comment)
+    return data
+
+if __name__ == "__main__":
+    
+    cleaned_feb1_to_feb15_data = process_comments(f'{current_directory}/data/February_data/feb1_to_feb15_data.json')
+    with open(f'{current_directory}/data/February_data/clean_feb1_to_feb15_data.json', 'w', encoding='utf-8') as file:
+        json.dump(cleaned_feb1_to_feb15_data, file, ensure_ascii= False, indent = 4)
+            
+    

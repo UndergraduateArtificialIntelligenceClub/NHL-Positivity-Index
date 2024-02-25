@@ -17,9 +17,8 @@ def search_flair(reddit: praw.reddit, subreddit: str, flairs: list) -> list:
     submissions = []
 
     for flair in flairs:
-        query = flair + ": "
         for submission in reddit.subreddit(subreddit).search(
-            query=query, sort="new", time_filter="all", limit=None
+            f'flair:"{flair}"', sort="new", time_filter="all", limit=None
         ):
             submissions.append(submission)
 
