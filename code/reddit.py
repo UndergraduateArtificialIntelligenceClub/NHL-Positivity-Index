@@ -174,14 +174,4 @@ class CommentsExtractor:
         result.extend(self.extract_title_comments())
         return result
     
-if __name__ == "__main__":
-    
-    start_date = datetime(2024, 2, 1).date()
-    end_date = datetime(2024, 2, 15).date()
-    reddit_initializor = RedditInitializor()
-    reddit = reddit_initializor.get_reddit()
-    comment_extractor = CommentsExtractor(reddit, start_date, end_date)
-    feb1_feb15_comments = comment_extractor.extract_comments()
-    with open(f'{current_directory}/data/February_data/feb1_to_feb15_data.json', 'w') as fp:
-        json.dump(feb1_feb15_comments, fp)
 
