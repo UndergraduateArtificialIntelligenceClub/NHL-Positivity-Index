@@ -1,4 +1,4 @@
-<div align="center"><h1>NHL Positivity Index</h1></div>
+# NHL Positivity Index
 
 ![Current Dashboard](figures/dashboards/feb1_feb15_dashboard.png "feb1_feb15_dashboard")
 
@@ -30,7 +30,6 @@ For the data used in the dashboard, we first collect all the comments in relevan
 ## Positivity Score
 
 The positivity score for team j, $PS(T_{j})$, is defined as:
-
 $$
 PS(T_j) = \frac{1}{n_j} \sum_{i=1}^{n_j} L(x_{ij}) \cdot (S(x_{ij}) + 1)
 $$
