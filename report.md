@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">NHL Positivity Index</h1>
+<div align="center"><h1>NHL Positivity Index</h1></div>
 
 ![Current Dashboard](figures/dashboards/feb1_feb15_dashboard.png "feb1_feb15_dashboard")
 
