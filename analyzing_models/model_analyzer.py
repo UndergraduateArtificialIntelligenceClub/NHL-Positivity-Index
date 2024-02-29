@@ -6,7 +6,7 @@ import pandas as pd
 num_of_models = 1
 model_paths = {
     "model_name":["finiteautomata/bertweet-base-sentiment-analysis"],
-    "label_mappings":[{"POS": "POS", "NEG":"NEG", "NEU":"NEU"}],
+    "label_mappings":[{"positive": "POS", "negative":"NEG", "neutral":"NEU"}],
     "model_scores":[0]*num_of_models,
     "name":["model7"]
     }
