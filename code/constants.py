@@ -60,7 +60,7 @@ LABEL_SCORES = {
     "neutral":0.25
 }
 
-teams = {
+TEAMS = {
     "ANA": "Anaheim Ducks",
     "ARI": "Arizona Coyotes",
     "BOS": "Boston Bruins",

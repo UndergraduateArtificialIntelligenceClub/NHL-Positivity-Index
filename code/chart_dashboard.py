@@ -10,7 +10,7 @@ import matplotlib.image as mpimg
 import json
 from constants import TEAMS
 
-def create_positivity_score_df(pos_scores: list[dict]) -> pd.Dataframe:
+def create_positivity_score_df(pos_scores: list[dict]) -> pd.DataFrame:
     pos_scores = pd.Series(pos_scores)
     biweekly_NHL_positivity_index = pd.DataFrame(pos_scores, columns=['positivity_score'])
     biweekly_NHL_positivity_index.reset_index(inplace=True)

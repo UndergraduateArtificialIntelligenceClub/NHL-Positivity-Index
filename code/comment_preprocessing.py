@@ -34,10 +34,6 @@ def process_comments(json_file_path):
                 data.remove(comment)
     return data
 
-if __name__ == "__main__":
-    
-    cleaned_feb1_to_feb15_data = process_comments(f'{current_directory}/data/February_data/feb1_to_feb15_data.json')
-    with open(f'{current_directory}/data/February_data/clean_feb1_to_feb15_data.json', 'w', encoding='utf-8') as file:
-        json.dump(cleaned_feb1_to_feb15_data, file, ensure_ascii= False, indent = 4)
+
             
     
