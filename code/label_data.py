@@ -1,6 +1,7 @@
-from transformers import pipeline
+from transformers import pipeline, AutoModelForSequenceClassification, AutoTokenizer
 from datasets import Dataset
 from calc_positivity_score import calc_positivity_score
+from peft import PeftModel
 import json
 import torch
 import os
@@ -13,8 +14,15 @@ load_dotenv()
 current_directory = os.environ["current_directory"]
 
 device = "cuda:0" if torch.cuda.is_available() else "cpu"
-model_path = 'cardiffnlp/twitter-roberta-base-sentiment-latest'
-classifier = pipeline("sentiment-analysis", model=model_path, tokenizer=model_path, max_length=512, truncation=True)
+model_id = 'cardiffnlp/twitter-roberta-base-sentiment-latest'
+peft_model_id = 'UAlbertaUAIS/Chelberta'
+
+
+model = AutoModelForSequenceClassification.from_pretrained(model_id, num_labels=3)
+tokenizer = AutoTokenizer.from_pretrained(model_id, max_length=512)
+model = PeftModel.from_pretrained(model, peft_model_id)
+model = model.merge_and_unload()
+classifier = pipeline("sentiment-analysis", model=model, tokenizer=tokenizer, max_length = 512, truncation=True)
 
 
 def classify_text(data: dict) -> dict:
