@@ -2,7 +2,7 @@
 
 Inspired by Shannon Skanes' "Panic Index" series, we developed the NHL Positivity Index to quantitatively evaluate NHL fanbase sentiment using AI. Employing natural language processing and sentiment analysis, we analyze discussions and media commentary, primarily from Reddit, to gauge the mood and tone of fanbases over time.
 
-Model Used: cardiffnlp/twitter-roberta-base-sentiment-latest from HuggingFace Models
+Model Used: UAlbertaUAIS/Chelberta from HuggingFace Models
 
 The Team:
 Jacob Winch, Statistics Student
