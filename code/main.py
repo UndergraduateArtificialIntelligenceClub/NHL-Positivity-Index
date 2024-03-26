@@ -17,26 +17,25 @@ from label_data import convert_to_dataset, label_dataset
 from comment_preprocessing import process_comments
 
 if __name__ == "__main__":
-    # start_date = datetime(2024, 2, 16).date()
-    # end_date = datetime(2024, 2, 29).date()
+    # start_date = datetime(2024, 3, 1).date()
+    # end_date = datetime(2024, 3, 15).date()
     # reddit_initializor = RedditInitializor()
     # reddit = reddit_initializor.get_reddit()
     # comment_extractor = CommentsExtractor(reddit, start_date, end_date)
     # current_comments = comment_extractor.extract_comments()
 
-    # with open(f'{current_directory}/data/February_data/feb16_feb26_data.json', 'w', encoding='utf-8') as fp:
+    # with open(f'{current_directory}/data/March_data/mar1_mar15_data.json', 'w', encoding='utf-8') as fp:
     #     json.dump(current_comments, fp, ensure_ascii= False, indent = 4)
         
-    # cleaned_current_comments = process_comments(f'{current_directory}/data/February_data/feb16_feb29_data.json')
-    # with open(f'{current_directory}/data/February_data/clean_feb16_feb29_data.json', 'w', encoding='utf-8') as fp:
+    # cleaned_current_comments = process_comments(f'{current_directory}/data/March_data/mar1_mar15_data.json')
+    # with open(f'{current_directory}/data/March_data/clean_mar1_mar15_data.json', 'w', encoding='utf-8') as fp:
     #     json.dump(cleaned_current_comments, fp, ensure_ascii= False, indent = 4)
             
     # content_dataset = convert_to_dataset(
     #     f'{current_directory}/data/February_data/clean_feb1_to_feb15_data.json'
     # )
-    # labelled_dataset = label_dataset(content_dataset)
-    # labelled_dataset.to_json(f'{current_directory}/data/February_data/labelled_feb1_to_feb15_data.json')
-    with open(f'{current_directory}/data/February_data/labelled_feb16_feb29_data.json', 'r') as fp:
+    
+    with open(f'{current_directory}/data/March_data/labelled_mar1_mar15_data.json', 'r') as fp:
         
         
         positivity_scores = defaultdict(int)
@@ -48,7 +47,7 @@ if __name__ == "__main__":
                 print("Team not found: ")
                 print(data["subreddit"])
                 continue
-            positivity_scores[team] += (data["score"] + 1)*LABEL_SCORES[data["label"]["label"]] # add 1 to score to make sure to not multiply by 0
+            positivity_scores[team] += ((1 if data["score"] < 0 else data["score"]) + 1) * LABEL_SCORES[data["label"]["label"]] # add 1 to score to make sure to not multiply by 0
             count_scores[team] += 1
     
     team_scores = {}
@@ -56,8 +55,6 @@ if __name__ == "__main__":
         if count_scores[key]!=0:
             score = positivity_scores[key]/count_scores[key]
         team_scores[key] = score
-    with open(f'{current_directory}/data/February_data/team_pos_scores_feb16_feb29_data.json', 'w') as fp:
+    with open(f'{current_directory}/data/March_data/team_pos_scores_mar1_mar15_data.json', 'w') as fp:
         json.dump(team_scores, fp)
         
-    # df = create_positivity_score_df(team_scores)
-    # create_biweekly_dashboard(df)
