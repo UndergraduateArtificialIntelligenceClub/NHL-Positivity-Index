@@ -56,5 +56,5 @@ if __name__ == "__main__":
             score = positivity_scores[key]/count_scores[key]
         team_scores[key] = score
     with open(f'{current_directory}/data/March_data/team_pos_scores_mar1_mar15_data.json', 'w') as fp:
-        json.dump(team_scores, fp)
+        json.dump(team_scores, fp) #
         
