@@ -163,4 +163,4 @@ cython_debug/
 *ini
 
 # ignore data
-data/
+/data/
