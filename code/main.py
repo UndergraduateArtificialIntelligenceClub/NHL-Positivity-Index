@@ -17,25 +17,25 @@ from label_data import convert_to_dataset, label_dataset
 from comment_preprocessing import process_comments
 
 if __name__ == "__main__":
-    # start_date = datetime(2024, 3, 1).date()
-    # end_date = datetime(2024, 3, 15).date()
+    # start_date = datetime(2024, 3, 16).date()
+    # end_date = datetime(2024, 3, 31).date()
     # reddit_initializor = RedditInitializor()
     # reddit = reddit_initializor.get_reddit()
     # comment_extractor = CommentsExtractor(reddit, start_date, end_date)
     # current_comments = comment_extractor.extract_comments()
 
-    # with open(f'{current_directory}/data/March_data/mar1_mar15_data.json', 'w', encoding='utf-8') as fp:
+    # with open(f'{current_directory}/data/March_data/mar16_mar31_data.json', 'w', encoding='utf-8') as fp:
     #     json.dump(current_comments, fp, ensure_ascii= False, indent = 4)
         
-    # cleaned_current_comments = process_comments(f'{current_directory}/data/March_data/mar1_mar15_data.json')
-    # with open(f'{current_directory}/data/March_data/clean_mar1_mar15_data.json', 'w', encoding='utf-8') as fp:
+    # cleaned_current_comments = process_comments(f'{current_directory}/data/March_data/mar16_mar31_data.json')
+    # with open(f'{current_directory}/data/March_data/clean_mar16_mar31_data.json', 'w', encoding='utf-8') as fp:
     #     json.dump(cleaned_current_comments, fp, ensure_ascii= False, indent = 4)
             
     # content_dataset = convert_to_dataset(
-    #     f'{current_directory}/data/February_data/clean_feb1_to_feb15_data.json'
+    #     f'{current_directory}/data/February_data/clean_mar16_to_mar31_data.json'
     # )
     
-    with open(f'{current_directory}/data/March_data/labelled_mar1_mar15_data.json', 'r') as fp:
+    with open(f'{current_directory}/data/March_data/labelled_mar16_mar31_data.json', 'r') as fp:
         
         
         positivity_scores = defaultdict(int)
@@ -55,6 +55,6 @@ if __name__ == "__main__":
         if count_scores[key]!=0:
             score = positivity_scores[key]/count_scores[key]
         team_scores[key] = score
-    with open(f'{current_directory}/data/March_data/team_pos_scores_mar1_mar15_data.json', 'w') as fp:
-        json.dump(team_scores, fp) #
+    with open(f'{current_directory}/data/positivity_scores/pos_scores_mar16_mar31.json', 'w') as fp:
+        json.dump(team_scores, fp)
         
