@@ -1,4 +1,12 @@
 import praw
+import pandas as pd 
+import numpy as np
+import string
+import unicodedata
+import os
+from dotenv import load_dotenv
+load_dotenv()
+current_directory = os.environ["current_directory"]
 
 
 def search_flair(reddit: praw.reddit, subreddit: str, flairs: list) -> list:
@@ -46,3 +54,52 @@ def get_all_flaired_submissions(reddit: praw.reddit, team_flairs: dict):
         all_submissions.extend(submissions)
 
     return all_submissions
+
+def clean_title(title: str):
+    """
+    Given a Reddit title, removes casing, special characters and diacritics
+    
+    Params: 
+        title (str): Reddit title
+        
+    Returns: cleaned_title (str)
+    """
+    
+    normalized_title = unicodedata.normalize('NFD', title) # Normalize the title to NFD form to separate characters from their diacritical marks
+
+    without_diacritics = ''.join(c for c in normalized_title if unicodedata.category(c) != 'Mn') # Remove diacritics by filtering out characters with category 'Mn' (Mark, nonspacing)
+
+    lowercased_title = without_diacritics.lower().strip()  
+    
+    special_characters = string.punctuation + "’" + "-"
+
+    translator = str.maketrans('', '', special_characters)
+
+    cleaned_title = lowercased_title.translate(translator)
+    
+    return cleaned_title
+
+def title_contains_draft_key_words(title:str) -> bool: 
+    """
+    Given a Reddit title, returns True/False if that title contains a key word related to the 2024
+    NHL entry draft (player names, etc.)
+    
+    Params: 
+        title (str): Reddit title
+        
+    Returns: bool 
+    """
+    draft_picks_file = f'{current_directory}/data/draft_data/2024_NHL_entry_draft_results.csv'
+    
+    df = pd.read_csv(draft_picks_file)
+    
+    DRAFT_PICKS = list(df['Player'])
+    
+    DRAFT_PICKS = list(map(lambda x: clean_title(x.split('(')[0].strip().lower()), DRAFT_PICKS))
+    
+    DRAFT_RELEVANT_WORDS = ['draft ', 'pick ', 'select ', 'prospect ', 'Tij '] + DRAFT_PICKS
+    
+    title = clean_title(title)
+    
+    return any(draft_keyword in title.lower() for draft_keyword in DRAFT_RELEVANT_WORDS)
+    

@@ -1,8 +1,8 @@
 import praw
 from datetime import datetime
 from praw.models import MoreComments
-from utils import get_all_flaired_submissions
-from constants import HOCKEY_MOD, TEAMS_AND_FLAIRS, TEAM_AND_USERS, TEAMS_AND_TITLES
+from utils import get_all_flaired_submissions, clean_title, title_contains_draft_key_words
+from constants import HOCKEY_MOD, TEAMS_AND_FLAIRS, TEAM_AND_USERS, TEAMS_AND_TITLES, SUBREDDIT_MAPPING
 import os
 from dotenv import load_dotenv
 from reddit_login import RedditInitializor
@@ -90,7 +90,45 @@ class CommentsExtractor:
                         results.append(comment_info)
         return results
     
-    def extract_title_comments(self) -> list[dict:]:
+    def extract_user_comments(self) -> list[dict]:
+        """
+        returns a list of dictionaries containing information about each comment on each submission of a specific user in a given time frame
+
+        :param reddit: instance of reddit class in Praw
+        :param start_date: start time of the date range
+        :param end_date: end time of the date range
+        :param teams_and_users: dictionary of teams and users
+        :return: returns a list of dictionaries
+        """
+
+        results = []
+        for subreddit_name, username in TEAM_AND_USERS.items():
+            subreddit = self.reddit.subreddit(subreddit_name)
+            user = self.reddit.redditor(username)
+
+            for submission in user.submissions.new():
+                submission_date = datetime.utcfromtimestamp(
+                    submission.created_utc
+                ).date()
+                if (
+                    submission.subreddit == subreddit
+                    and self.start_date <= submission_date <= self.end_date
+                ):
+                    for comment in submission.comments.list():
+                        if isinstance(comment, MoreComments):
+                            continue
+                        comment_info = {
+                            "submission_id": submission.id,
+                            "comment_id": comment.id,
+                            "body": comment.body,
+                            "score": comment.score,
+                            "date": submission_date.strftime("%Y-%m-%d"),
+                            "subreddit": subreddit_name,
+                        }
+                        results.append(comment_info)
+        return results
+    
+    def extract__start_title_comments(self) -> list[dict:]:
         """
         returns a list of dictionaries containing information about each comment on each submission of a specific title in a given time frame
 
@@ -165,13 +203,54 @@ class CommentsExtractor:
                     all_flaired_comments.append(comment_info)
 
         return all_flaired_comments
+    
+    def extract_draft_comments_from_submissions(self) -> list[dict:]:
+        """
+        returns a list of dictionaries containing information about each comment on each submission of a title containing draft relevant
+        information in a given time frame
+
+        :param reddit: instance of reddit class in Praw
+        :param start_date: start time of the date range
+        :param end_date: end time of the date range
+        :param teams_and_titles: dictionary of teams and titles
+        :return: returns a list of dictionaries
+        """
+        results = []
+        for subreddit_name in SUBREDDIT_MAPPING.keys():
+            
+            subreddit = self.reddit.subreddit(subreddit_name)
+            for submission in subreddit.new(limit=None):
+                submission_date = datetime.utcfromtimestamp(submission.created_utc).date()
+            
+                if self.start_date <= submission_date <= self.end_date:    
+                    if title_contains_draft_key_words(submission.title):
+                        for comment in submission.comments.list():
+                            if isinstance(comment, MoreComments):
+                                continue
+                            comment_info = {
+                                "submission_id": submission.id,
+                                "comment_id": comment.id,
+                                "body": comment.body,
+                                "score": comment.score,
+                                "date": submission_date,
+                                "subreddit": subreddit_name,
+                            }
+                            results.append(comment_info)        
+        return results
+    
 
     def extract_comments(self):
         result = []
         result.extend(self.extract_HockeyMod_comments())
         result.extend(self.extract_user_comments())
         result.extend(self.extract_flair_comments())
-        result.extend(self.extract_title_comments())
+        result.extend(self.extract_start_title_comments())
         return result
+    
+    def extract_draft_comments(self):
+        result = []
+        result.extend(self.extract_draft_comments_from_submissions())
+        return result
+    
     
 

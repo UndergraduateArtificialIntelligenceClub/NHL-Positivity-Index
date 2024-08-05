@@ -1,6 +1,6 @@
 SUBREDDIT_MAPPING = {
     "AnaheimDucks": "ANA",
-    "Coyotes": "ARI",
+    "Utah_Hockey": "UTA",
     "BostonBruins": "BOS",
     "sabres": "BUF",
     "CalgaryFlames": "CGY",
@@ -89,6 +89,7 @@ TEAMS = {
     "STL": "St. Louis Blues",
     "TBL": "Tampa Bay Lightning",
     "TOR": "Toronto Maple Leafs",
+    "UTA": "Utah Hockey Club",
     "VAN": "Vancouver Canucks",
     "VGK": "Vegas Golden Knights",
     "WSH": "Washington Capitals",
