@@ -103,3 +103,19 @@ def title_contains_draft_key_words(title:str) -> bool:
     
     return any(draft_keyword in title.lower() for draft_keyword in DRAFT_RELEVANT_WORDS)
     
+    
+def title_contains_key_words(title:str, keywords: list) -> bool: 
+    """
+    Given a Reddit title, returns True/False if that title contains a key word related to the 2024
+    NHL entry draft (player names, etc.)
+    
+    Params: 
+        title (str): Reddit title
+        
+    Returns: bool 
+    """
+    keywords = [x.lower() for x in keywords]
+    title = clean_title(title)
+    
+    return any(keyword in title.lower() for keyword in keywords)
+    
