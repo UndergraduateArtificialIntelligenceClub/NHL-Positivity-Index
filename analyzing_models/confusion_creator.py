@@ -3,7 +3,7 @@ from sklearn.metrics import ConfusionMatrixDisplay
 import matplotlib.pyplot as plt
 from sklearn.metrics import accuracy_score
 import math
-# Makes a confusion matrix for each of the models. 
+# Makes a confusion matrix for each of the models . 
 num_of_models = 4
 model_paths = {
     "model_name":['cardiffnlp/twitter-roberta-base-sentiment-latest',
